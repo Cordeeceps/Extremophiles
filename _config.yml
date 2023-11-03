@@ -1,7 +1,8 @@
-theme: jekyll-theme-cayman
-
 title: Why are extremophiles so extreme?
 description: Senior Research Project - Fall 2023
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
 
 # Extremophiles
 Senior Research Project Fall 2023 by Mae Bothoff-Shanahan
