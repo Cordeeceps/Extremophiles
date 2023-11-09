@@ -1,0 +1,6561 @@
+Starting search in accession: CP038663.1
+Looking in record: CP038663.1, Description: Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539 strain ATCC 13939 chromosome I, complete sequence
+dnaN	E5E91_00005
+dnaN	E5E91_00005
+dnaA	E5E91_00010
+dnaA	E5E91_00010
+ddrC	E5E91_00015
+ddrC	E5E91_00015
+No gene name	E5E91_00020
+No gene name	E5E91_00020
+No gene name	E5E91_00025
+No gene name	E5E91_00025
+No gene name	E5E91_00030
+No gene name	E5E91_00030
+No gene name	E5E91_00035
+No gene name	E5E91_00035
+No gene name	E5E91_00040
+No gene name	E5E91_00040
+No gene name	E5E91_00045
+No gene name	E5E91_00045
+No gene name	E5E91_00050
+No gene name	E5E91_00050
+No gene name	E5E91_00055
+No gene name	E5E91_00055
+No gene name	E5E91_00060
+No gene name	E5E91_00060
+No gene name	E5E91_00065
+No gene name	E5E91_00065
+rsmG	E5E91_00070
+rsmG	E5E91_00070
+No gene name	E5E91_00075
+No gene name	E5E91_00075
+No gene name	E5E91_00080
+No gene name	E5E91_00080
+No gene name	E5E91_00085
+No gene name	E5E91_00085
+No gene name	E5E91_00090
+No gene name	E5E91_00090
+No gene name	E5E91_00095
+No gene name	E5E91_00095
+No gene name	E5E91_00100
+No gene name	E5E91_00100
+No gene name	E5E91_00105
+No gene name	E5E91_00105
+No gene name	E5E91_00110
+No gene name	E5E91_00110
+No gene name	E5E91_00115
+No gene name	E5E91_00120
+purE	E5E91_00125
+purE	E5E91_00125
+purK	E5E91_00130
+purK	E5E91_00130
+No gene name	E5E91_00135
+No gene name	E5E91_00135
+No gene name	E5E91_00140
+No gene name	E5E91_00140
+mnmG	E5E91_00145
+mnmG	E5E91_00145
+No gene name	E5E91_00150
+No gene name	E5E91_00150
+No gene name	E5E91_00155
+No gene name	E5E91_00155
+No gene name	E5E91_00160
+No gene name	E5E91_00160
+No gene name	E5E91_00165
+No gene name	E5E91_00165
+No gene name	E5E91_00170
+No gene name	E5E91_00170
+No gene name	E5E91_00175
+No gene name	E5E91_00175
+No gene name	E5E91_00180
+No gene name	E5E91_00180
+No gene name	E5E91_00185
+No gene name	E5E91_00185
+folE	E5E91_00190
+folE	E5E91_00190
+No gene name	E5E91_00195
+No gene name	E5E91_00195
+No gene name	E5E91_00200
+No gene name	E5E91_00200
+No gene name	E5E91_00205
+No gene name	E5E91_00205
+No gene name	E5E91_00210
+No gene name	E5E91_00210
+No gene name	E5E91_00215
+No gene name	E5E91_00215
+No gene name	E5E91_00220
+No gene name	E5E91_00220
+No gene name	E5E91_00225
+No gene name	E5E91_00230
+No gene name	E5E91_00230
+menC	E5E91_00235
+menC	E5E91_00235
+No gene name	E5E91_00240
+No gene name	E5E91_00240
+No gene name	E5E91_00245
+No gene name	E5E91_00245
+No gene name	E5E91_00250
+No gene name	E5E91_00250
+No gene name	E5E91_00255
+No gene name	E5E91_00255
+No gene name	E5E91_00260
+No gene name	E5E91_00260
+No gene name	E5E91_00265
+No gene name	E5E91_00265
+No gene name	E5E91_00270
+No gene name	E5E91_00270
+No gene name	E5E91_00275
+No gene name	E5E91_00275
+No gene name	E5E91_00280
+No gene name	E5E91_00280
+No gene name	E5E91_00285
+No gene name	E5E91_00285
+No gene name	E5E91_00290
+No gene name	E5E91_00290
+benE	E5E91_00295
+benE	E5E91_00295
+No gene name	E5E91_00300
+No gene name	E5E91_00300
+No gene name	E5E91_00305
+No gene name	E5E91_00305
+No gene name	E5E91_00310
+No gene name	E5E91_00310
+No gene name	E5E91_00315
+No gene name	E5E91_00315
+No gene name	E5E91_00320
+No gene name	E5E91_00320
+No gene name	E5E91_00325
+No gene name	E5E91_00330
+No gene name	E5E91_00330
+No gene name	E5E91_00335
+No gene name	E5E91_00335
+mqnC	E5E91_00340
+mqnC	E5E91_00340
+No gene name	E5E91_00345
+No gene name	E5E91_00345
+No gene name	E5E91_00350
+No gene name	E5E91_00350
+No gene name	E5E91_00355
+No gene name	E5E91_00355
+No gene name	E5E91_00360
+No gene name	E5E91_00360
+No gene name	E5E91_00365
+No gene name	E5E91_00365
+No gene name	E5E91_00370
+No gene name	E5E91_00370
+No gene name	E5E91_00375
+No gene name	E5E91_00375
+No gene name	E5E91_00380
+No gene name	E5E91_00385
+No gene name	E5E91_00385
+No gene name	E5E91_00390
+No gene name	E5E91_00390
+No gene name	E5E91_00395
+No gene name	E5E91_00395
+No gene name	E5E91_00400
+No gene name	E5E91_00400
+No gene name	E5E91_00405
+No gene name	E5E91_00405
+No gene name	E5E91_00410
+No gene name	E5E91_00410
+argC	E5E91_00415
+argC	E5E91_00415
+No gene name	E5E91_00420
+No gene name	E5E91_00420
+argF	E5E91_00425
+argF	E5E91_00425
+No gene name	E5E91_00430
+No gene name	E5E91_00430
+No gene name	E5E91_00435
+No gene name	E5E91_00435
+odhB	E5E91_00440
+odhB	E5E91_00440
+No gene name	E5E91_00445
+obgE	E5E91_00450
+obgE	E5E91_00450
+No gene name	E5E91_00455
+No gene name	E5E91_00455
+rplU	E5E91_00460
+rplU	E5E91_00460
+nrdR	E5E91_00465
+nrdR	E5E91_00465
+No gene name	E5E91_00470
+No gene name	E5E91_00470
+No gene name	E5E91_00475
+No gene name	E5E91_00475
+No gene name	E5E91_00480
+No gene name	E5E91_00480
+No gene name	E5E91_00485
+No gene name	E5E91_00485
+No gene name	E5E91_00490
+No gene name	E5E91_00490
+No gene name	E5E91_00495
+No gene name	E5E91_00495
+No gene name	E5E91_00500
+No gene name	E5E91_00500
+No gene name	E5E91_00505
+No gene name	E5E91_00505
+No gene name	E5E91_00510
+No gene name	E5E91_00510
+No gene name	E5E91_00515
+No gene name	E5E91_00515
+No gene name	E5E91_00520
+No gene name	E5E91_00520
+No gene name	E5E91_00525
+No gene name	E5E91_00525
+No gene name	E5E91_00530
+No gene name	E5E91_00530
+rpsR	E5E91_00535
+rpsR	E5E91_00535
+No gene name	E5E91_00540
+No gene name	E5E91_00540
+No gene name	E5E91_00545
+No gene name	E5E91_00545
+No gene name	E5E91_00550
+No gene name	E5E91_00550
+No gene name	E5E91_00555
+No gene name	E5E91_00555
+No gene name	E5E91_00560
+No gene name	E5E91_00560
+No gene name	E5E91_00565
+No gene name	E5E91_00565
+No gene name	E5E91_00570
+No gene name	E5E91_00570
+No gene name	E5E91_00575
+No gene name	E5E91_00575
+No gene name	E5E91_00580
+No gene name	E5E91_00580
+No gene name	E5E91_00585
+No gene name	E5E91_00585
+No gene name	E5E91_00590
+No gene name	E5E91_00590
+No gene name	E5E91_00595
+No gene name	E5E91_00595
+No gene name	E5E91_00600
+No gene name	E5E91_00600
+No gene name	E5E91_00605
+No gene name	E5E91_00605
+accC	E5E91_00610
+accC	E5E91_00610
+accB	E5E91_00615
+accB	E5E91_00615
+efp	E5E91_00620
+efp	E5E91_00620
+dprA	E5E91_00625
+dprA	E5E91_00625
+No gene name	E5E91_00630
+No gene name	E5E91_00630
+No gene name	E5E91_00635
+No gene name	E5E91_00635
+No gene name	E5E91_00640
+No gene name	E5E91_00640
+No gene name	E5E91_00645
+No gene name	E5E91_00645
+No gene name	E5E91_00650
+No gene name	E5E91_00650
+No gene name	E5E91_00655
+No gene name	E5E91_00655
+No gene name	E5E91_00660
+No gene name	E5E91_00660
+grpE	E5E91_00665
+grpE	E5E91_00665
+dnaK	E5E91_00670
+dnaK	E5E91_00670
+hemW	E5E91_00675
+hemW	E5E91_00675
+No gene name	E5E91_00680
+No gene name	E5E91_00680
+No gene name	E5E91_00685
+No gene name	E5E91_00685
+No gene name	E5E91_00690
+No gene name	E5E91_00690
+No gene name	E5E91_00695
+No gene name	E5E91_00695
+No gene name	E5E91_00700
+No gene name	E5E91_00700
+No gene name	E5E91_00705
+No gene name	E5E91_00705
+No gene name	E5E91_00710
+No gene name	E5E91_00710
+No gene name	E5E91_00715
+No gene name	E5E91_00715
+hflX	E5E91_00720
+hflX	E5E91_00720
+No gene name	E5E91_00725
+No gene name	E5E91_00725
+No gene name	E5E91_00730
+No gene name	E5E91_00730
+No gene name	E5E91_00735
+No gene name	E5E91_00735
+No gene name	E5E91_00740
+No gene name	E5E91_00740
+No gene name	E5E91_00745
+No gene name	E5E91_00745
+No gene name	E5E91_00750
+No gene name	E5E91_00750
+No gene name	E5E91_00755
+No gene name	E5E91_00760
+No gene name	E5E91_00760
+No gene name	E5E91_00765
+No gene name	E5E91_00765
+No gene name	E5E91_00770
+No gene name	E5E91_00770
+No gene name	E5E91_00775
+No gene name	E5E91_00775
+No gene name	E5E91_00780
+No gene name	E5E91_00780
+No gene name	E5E91_00785
+No gene name	E5E91_00785
+ribD	E5E91_00790
+ribD	E5E91_00790
+No gene name	E5E91_00795
+No gene name	E5E91_00795
+No gene name	E5E91_00800
+No gene name	E5E91_00800
+No gene name	E5E91_00805
+No gene name	E5E91_00805
+No gene name	E5E91_00810
+No gene name	E5E91_00810
+No gene name	E5E91_00815
+No gene name	E5E91_00815
+No gene name	E5E91_00820
+No gene name	E5E91_00820
+No gene name	E5E91_00825
+No gene name	E5E91_00825
+csaB	E5E91_00830
+csaB	E5E91_00830
+No gene name	E5E91_00835
+No gene name	E5E91_00835
+No gene name	E5E91_00840
+No gene name	E5E91_00840
+No gene name	E5E91_00845
+No gene name	E5E91_00845
+No gene name	E5E91_00850
+No gene name	E5E91_00850
+No gene name	E5E91_00855
+No gene name	E5E91_00855
+No gene name	E5E91_00860
+No gene name	E5E91_00860
+folP	E5E91_00865
+folP	E5E91_00865
+folB	E5E91_00870
+folB	E5E91_00870
+folK	E5E91_00875
+folK	E5E91_00875
+No gene name	E5E91_00880
+No gene name	E5E91_00880
+No gene name	E5E91_00885
+No gene name	E5E91_00885
+No gene name	E5E91_00890
+No gene name	E5E91_00890
+rplM	E5E91_00895
+rplM	E5E91_00895
+rpsI	E5E91_00900
+rpsI	E5E91_00900
+No gene name	E5E91_00905
+No gene name	E5E91_00905
+tnpA	E5E91_00910
+tnpA	E5E91_00910
+No gene name	E5E91_00915
+No gene name	E5E91_00915
+rdgB	E5E91_00920
+rdgB	E5E91_00920
+No gene name	E5E91_00925
+No gene name	E5E91_00925
+No gene name	E5E91_00930
+No gene name	E5E91_00930
+No gene name	E5E91_00935
+No gene name	E5E91_00935
+No gene name	E5E91_00940
+No gene name	E5E91_00940
+No gene name	E5E91_00945
+No gene name	E5E91_00945
+No gene name	E5E91_00950
+No gene name	E5E91_00950
+No gene name	E5E91_00955
+No gene name	E5E91_00955
+No gene name	E5E91_00960
+No gene name	E5E91_00960
+No gene name	E5E91_00965
+No gene name	E5E91_00965
+No gene name	E5E91_00970
+No gene name	E5E91_00970
+No gene name	E5E91_00975
+No gene name	E5E91_00975
+No gene name	E5E91_00980
+No gene name	E5E91_00980
+No gene name	E5E91_00985
+No gene name	E5E91_00985
+No gene name	E5E91_00990
+No gene name	E5E91_00990
+No gene name	E5E91_00995
+No gene name	E5E91_00995
+No gene name	E5E91_01000
+No gene name	E5E91_01000
+No gene name	E5E91_01005
+No gene name	E5E91_01005
+No gene name	E5E91_01010
+No gene name	E5E91_01010
+recR	E5E91_01015
+recR	E5E91_01015
+No gene name	E5E91_01020
+No gene name	E5E91_01020
+No gene name	E5E91_01025
+No gene name	E5E91_01025
+No gene name	E5E91_01030
+No gene name	E5E91_01030
+No gene name	E5E91_01035
+No gene name	E5E91_01035
+No gene name	E5E91_01040
+No gene name	E5E91_01040
+No gene name	E5E91_01045
+No gene name	E5E91_01045
+No gene name	E5E91_01050
+No gene name	E5E91_01050
+No gene name	E5E91_01055
+No gene name	E5E91_01055
+No gene name	E5E91_01060
+No gene name	E5E91_01060
+No gene name	E5E91_01065
+No gene name	E5E91_01065
+No gene name	E5E91_01070
+No gene name	E5E91_01070
+No gene name	E5E91_01075
+No gene name	E5E91_01075
+No gene name	E5E91_01080
+No gene name	E5E91_01080
+No gene name	E5E91_01085
+No gene name	E5E91_01085
+No gene name	E5E91_01090
+No gene name	E5E91_01090
+No gene name	E5E91_01095
+No gene name	E5E91_01095
+No gene name	E5E91_01100
+No gene name	E5E91_01100
+No gene name	E5E91_01105
+No gene name	E5E91_01105
+No gene name	E5E91_01110
+No gene name	E5E91_01110
+No gene name	E5E91_01115
+No gene name	E5E91_01115
+No gene name	E5E91_01120
+No gene name	E5E91_01120
+purF	E5E91_01125
+purF	E5E91_01125
+No gene name	E5E91_01130
+No gene name	E5E91_01130
+purL	E5E91_01135
+purL	E5E91_01135
+purQ	E5E91_01140
+purQ	E5E91_01140
+purS	E5E91_01145
+purS	E5E91_01145
+No gene name	E5E91_01150
+No gene name	E5E91_01150
+No gene name	E5E91_01155
+No gene name	E5E91_01155
+No gene name	E5E91_01160
+No gene name	E5E91_01160
+apaG	E5E91_01165
+apaG	E5E91_01165
+No gene name	E5E91_01170
+No gene name	E5E91_01170
+No gene name	E5E91_01175
+No gene name	E5E91_01175
+ispF	E5E91_01180
+ispF	E5E91_01180
+No gene name	E5E91_01185
+No gene name	E5E91_01185
+No gene name	E5E91_01190
+No gene name	E5E91_01190
+No gene name	E5E91_01195
+No gene name	E5E91_01195
+No gene name	E5E91_01200
+No gene name	E5E91_01200
+No gene name	E5E91_01205
+No gene name	E5E91_01205
+No gene name	E5E91_01210
+No gene name	E5E91_01210
+No gene name	E5E91_01215
+No gene name	E5E91_01215
+No gene name	E5E91_01220
+No gene name	E5E91_01220
+No gene name	E5E91_01225
+No gene name	E5E91_01225
+No gene name	E5E91_01230
+No gene name	E5E91_01230
+No gene name	E5E91_01235
+No gene name	E5E91_01235
+No gene name	E5E91_01240
+No gene name	E5E91_01240
+speA	E5E91_01245
+speA	E5E91_01245
+No gene name	E5E91_01250
+No gene name	E5E91_01250
+prmC	E5E91_01255
+prmC	E5E91_01255
+No gene name	E5E91_01260
+No gene name	E5E91_01260
+No gene name	E5E91_01265
+No gene name	E5E91_01265
+No gene name	E5E91_01270
+No gene name	E5E91_01270
+No gene name	E5E91_01275
+No gene name	E5E91_01275
+No gene name	E5E91_01280
+No gene name	E5E91_01280
+No gene name	E5E91_01285
+No gene name	E5E91_01285
+No gene name	E5E91_01290
+No gene name	E5E91_01290
+No gene name	E5E91_01295
+No gene name	E5E91_01295
+No gene name	E5E91_01300
+No gene name	E5E91_01305
+rrf	E5E91_01310
+No gene name	E5E91_01315
+aceF	E5E91_01320
+aceF	E5E91_01320
+aceE	E5E91_01325
+aceE	E5E91_01325
+No gene name	E5E91_01330
+No gene name	E5E91_01330
+No gene name	E5E91_01335
+No gene name	E5E91_01335
+No gene name	E5E91_01340
+No gene name	E5E91_01340
+No gene name	E5E91_01345
+No gene name	E5E91_01345
+No gene name	E5E91_01350
+No gene name	E5E91_01350
+No gene name	E5E91_01355
+No gene name	E5E91_01355
+No gene name	E5E91_01360
+No gene name	E5E91_01360
+No gene name	E5E91_01365
+No gene name	E5E91_01365
+No gene name	E5E91_01370
+No gene name	E5E91_01370
+No gene name	E5E91_01375
+No gene name	E5E91_01375
+No gene name	E5E91_01380
+No gene name	E5E91_01380
+No gene name	E5E91_01385
+No gene name	E5E91_01385
+No gene name	E5E91_01390
+No gene name	E5E91_01390
+No gene name	E5E91_01395
+No gene name	E5E91_01395
+No gene name	E5E91_01400
+No gene name	E5E91_01400
+No gene name	E5E91_01405
+No gene name	E5E91_01405
+No gene name	E5E91_01410
+No gene name	E5E91_01410
+No gene name	E5E91_01415
+No gene name	E5E91_01415
+No gene name	E5E91_01420
+No gene name	E5E91_01420
+No gene name	E5E91_01425
+No gene name	E5E91_01425
+No gene name	E5E91_01430
+No gene name	E5E91_01430
+No gene name	E5E91_01435
+No gene name	E5E91_01435
+No gene name	E5E91_01440
+No gene name	E5E91_01440
+No gene name	E5E91_01445
+No gene name	E5E91_01445
+No gene name	E5E91_01450
+No gene name	E5E91_01450
+No gene name	E5E91_01455
+No gene name	E5E91_01455
+No gene name	E5E91_01460
+No gene name	E5E91_01460
+No gene name	E5E91_01465
+No gene name	E5E91_01465
+No gene name	E5E91_01470
+No gene name	E5E91_01470
+No gene name	E5E91_01475
+No gene name	E5E91_01475
+No gene name	E5E91_01480
+No gene name	E5E91_01480
+No gene name	E5E91_01485
+No gene name	E5E91_01485
+No gene name	E5E91_01490
+No gene name	E5E91_01490
+nth	E5E91_01495
+nth	E5E91_01495
+No gene name	E5E91_01500
+No gene name	E5E91_01500
+No gene name	E5E91_01505
+No gene name	E5E91_01505
+tatA	E5E91_01510
+tatA	E5E91_01510
+No gene name	E5E91_01515
+No gene name	E5E91_01520
+No gene name	E5E91_01520
+No gene name	E5E91_01525
+No gene name	E5E91_01525
+No gene name	E5E91_01530
+No gene name	E5E91_01530
+No gene name	E5E91_01535
+No gene name	E5E91_01535
+No gene name	E5E91_01540
+No gene name	E5E91_01540
+No gene name	E5E91_01545
+No gene name	E5E91_01545
+No gene name	E5E91_01550
+No gene name	E5E91_01550
+No gene name	E5E91_01555
+No gene name	E5E91_01555
+No gene name	E5E91_01560
+No gene name	E5E91_01560
+glmS	E5E91_01565
+glmS	E5E91_01565
+No gene name	E5E91_01570
+No gene name	E5E91_01570
+No gene name	E5E91_01575
+No gene name	E5E91_01575
+No gene name	E5E91_01580
+No gene name	E5E91_01580
+rpsG	E5E91_01585
+rpsG	E5E91_01585
+fusA	E5E91_01590
+fusA	E5E91_01590
+No gene name	E5E91_01595
+No gene name	E5E91_01595
+tuf	E5E91_01600
+tuf	E5E91_01600
+rpsJ	E5E91_01605
+rpsJ	E5E91_01605
+No gene name	E5E91_01610
+No gene name	E5E91_01610
+rplD	E5E91_01615
+rplD	E5E91_01615
+No gene name	E5E91_01620
+No gene name	E5E91_01620
+rplB	E5E91_01625
+rplB	E5E91_01625
+rpsS	E5E91_01630
+rpsS	E5E91_01630
+No gene name	E5E91_01635
+No gene name	E5E91_01635
+rpsC	E5E91_01640
+rpsC	E5E91_01640
+rplP	E5E91_01645
+rplP	E5E91_01645
+No gene name	E5E91_01650
+No gene name	E5E91_01650
+rpsQ	E5E91_01655
+rpsQ	E5E91_01655
+rplN	E5E91_01660
+rplN	E5E91_01660
+No gene name	E5E91_01665
+No gene name	E5E91_01665
+rplE	E5E91_01670
+rplE	E5E91_01670
+No gene name	E5E91_01675
+No gene name	E5E91_01675
+No gene name	E5E91_01680
+No gene name	E5E91_01680
+No gene name	E5E91_01685
+No gene name	E5E91_01685
+No gene name	E5E91_01690
+No gene name	E5E91_01690
+No gene name	E5E91_01695
+No gene name	E5E91_01695
+No gene name	E5E91_01700
+No gene name	E5E91_01700
+No gene name	E5E91_01705
+No gene name	E5E91_01705
+No gene name	E5E91_01710
+No gene name	E5E91_01710
+No gene name	E5E91_01715
+No gene name	E5E91_01715
+No gene name	E5E91_01720
+No gene name	E5E91_01720
+No gene name	E5E91_01725
+No gene name	E5E91_01725
+No gene name	E5E91_01730
+No gene name	E5E91_01730
+No gene name	E5E91_01735
+No gene name	E5E91_01735
+No gene name	E5E91_01740
+No gene name	E5E91_01740
+No gene name	E5E91_01745
+No gene name	E5E91_01745
+No gene name	E5E91_01750
+No gene name	E5E91_01750
+No gene name	E5E91_01755
+No gene name	E5E91_01755
+No gene name	E5E91_01760
+rpsO	E5E91_01765
+rpsO	E5E91_01765
+No gene name	E5E91_01770
+No gene name	E5E91_01770
+No gene name	E5E91_01775
+No gene name	E5E91_01775
+No gene name	E5E91_01780
+No gene name	E5E91_01780
+No gene name	E5E91_01785
+No gene name	E5E91_01785
+No gene name	E5E91_01790
+No gene name	E5E91_01790
+ccmE	E5E91_01795
+ccmE	E5E91_01795
+No gene name	E5E91_01800
+No gene name	E5E91_01800
+No gene name	E5E91_01805
+No gene name	E5E91_01805
+No gene name	E5E91_01810
+No gene name	E5E91_01810
+No gene name	E5E91_01815
+No gene name	E5E91_01815
+No gene name	E5E91_01820
+No gene name	E5E91_01820
+rnr	E5E91_01825
+rnr	E5E91_01825
+xth	E5E91_01830
+xth	E5E91_01830
+No gene name	E5E91_01835
+No gene name	E5E91_01835
+No gene name	E5E91_01840
+No gene name	E5E91_01840
+No gene name	E5E91_01845
+No gene name	E5E91_01845
+No gene name	E5E91_01850
+No gene name	E5E91_01850
+No gene name	E5E91_01855
+No gene name	E5E91_01855
+No gene name	E5E91_01860
+No gene name	E5E91_01860
+No gene name	E5E91_01865
+No gene name	E5E91_01865
+No gene name	E5E91_01870
+No gene name	E5E91_01870
+No gene name	E5E91_01875
+No gene name	E5E91_01875
+No gene name	E5E91_01880
+No gene name	E5E91_01880
+No gene name	E5E91_01885
+No gene name	E5E91_01885
+mqnE	E5E91_01890
+mqnE	E5E91_01890
+No gene name	E5E91_01895
+No gene name	E5E91_01895
+No gene name	E5E91_01900
+No gene name	E5E91_01900
+No gene name	E5E91_01905
+No gene name	E5E91_01905
+No gene name	E5E91_01910
+No gene name	E5E91_01910
+No gene name	E5E91_01915
+No gene name	E5E91_01915
+lysS	E5E91_01920
+lysS	E5E91_01920
+cax	E5E91_01925
+cax	E5E91_01925
+No gene name	E5E91_01930
+No gene name	E5E91_01930
+No gene name	E5E91_01935
+No gene name	E5E91_01935
+No gene name	E5E91_01940
+No gene name	E5E91_01940
+sdaAA	E5E91_01945
+sdaAA	E5E91_01945
+No gene name	E5E91_01950
+No gene name	E5E91_01950
+No gene name	E5E91_01955
+No gene name	E5E91_01955
+No gene name	E5E91_01960
+No gene name	E5E91_01960
+No gene name	E5E91_01965
+No gene name	E5E91_01965
+tsaD	E5E91_01970
+tsaD	E5E91_01970
+No gene name	E5E91_01975
+No gene name	E5E91_01975
+No gene name	E5E91_01980
+No gene name	E5E91_01980
+No gene name	E5E91_01985
+No gene name	E5E91_01985
+ispG	E5E91_01990
+ispG	E5E91_01990
+No gene name	E5E91_01995
+No gene name	E5E91_01995
+No gene name	E5E91_02000
+No gene name	E5E91_02000
+No gene name	E5E91_02005
+No gene name	E5E91_02005
+No gene name	E5E91_02010
+No gene name	E5E91_02010
+No gene name	E5E91_02015
+No gene name	E5E91_02015
+No gene name	E5E91_02020
+No gene name	E5E91_02020
+No gene name	E5E91_02025
+No gene name	E5E91_02025
+No gene name	E5E91_02030
+No gene name	E5E91_02030
+No gene name	E5E91_02035
+No gene name	E5E91_02035
+No gene name	E5E91_02040
+No gene name	E5E91_02040
+No gene name	E5E91_02045
+No gene name	E5E91_02045
+No gene name	E5E91_02050
+No gene name	E5E91_02050
+No gene name	E5E91_02055
+No gene name	E5E91_02055
+No gene name	E5E91_02060
+No gene name	E5E91_02060
+No gene name	E5E91_02065
+No gene name	E5E91_02065
+No gene name	E5E91_02070
+No gene name	E5E91_02070
+No gene name	E5E91_02075
+No gene name	E5E91_02075
+pulA	E5E91_02080
+pulA	E5E91_02080
+ccmA	E5E91_02085
+ccmA	E5E91_02085
+No gene name	E5E91_02090
+No gene name	E5E91_02090
+No gene name	E5E91_02095
+No gene name	E5E91_02095
+No gene name	E5E91_02100
+No gene name	E5E91_02100
+No gene name	E5E91_02105
+No gene name	E5E91_02105
+No gene name	E5E91_02110
+No gene name	E5E91_02110
+No gene name	E5E91_02115
+No gene name	E5E91_02115
+No gene name	E5E91_02120
+No gene name	E5E91_02120
+No gene name	E5E91_02125
+No gene name	E5E91_02125
+No gene name	E5E91_02130
+No gene name	E5E91_02130
+No gene name	E5E91_02135
+No gene name	E5E91_02135
+mazF	E5E91_02140
+mazF	E5E91_02140
+No gene name	E5E91_02145
+No gene name	E5E91_02145
+No gene name	E5E91_02150
+No gene name	E5E91_02150
+hrpB	E5E91_02155
+hrpB	E5E91_02155
+No gene name	E5E91_02160
+No gene name	E5E91_02160
+No gene name	E5E91_02165
+No gene name	E5E91_02165
+No gene name	E5E91_02170
+No gene name	E5E91_02170
+No gene name	E5E91_02175
+No gene name	E5E91_02175
+hisB	E5E91_02180
+hisB	E5E91_02180
+No gene name	E5E91_02185
+No gene name	E5E91_02185
+hisH	E5E91_02190
+hisH	E5E91_02190
+No gene name	E5E91_02195
+No gene name	E5E91_02195
+No gene name	E5E91_02200
+No gene name	E5E91_02200
+No gene name	E5E91_02205
+No gene name	E5E91_02205
+No gene name	E5E91_02210
+No gene name	E5E91_02210
+No gene name	E5E91_02215
+No gene name	E5E91_02215
+No gene name	E5E91_02220
+No gene name	E5E91_02220
+No gene name	E5E91_02225
+No gene name	E5E91_02225
+No gene name	E5E91_02230
+No gene name	E5E91_02230
+No gene name	E5E91_02235
+No gene name	E5E91_02235
+No gene name	E5E91_02240
+No gene name	E5E91_02240
+No gene name	E5E91_02245
+No gene name	E5E91_02245
+No gene name	E5E91_02250
+No gene name	E5E91_02250
+No gene name	E5E91_02255
+No gene name	E5E91_02255
+No gene name	E5E91_02260
+No gene name	E5E91_02260
+ruvC	E5E91_02265
+ruvC	E5E91_02265
+No gene name	E5E91_02270
+No gene name	E5E91_02270
+No gene name	E5E91_02275
+No gene name	E5E91_02275
+No gene name	E5E91_02280
+No gene name	E5E91_02280
+No gene name	E5E91_02285
+No gene name	E5E91_02285
+No gene name	E5E91_02290
+No gene name	E5E91_02290
+No gene name	E5E91_02295
+No gene name	E5E91_02295
+pyrE	E5E91_02300
+pyrE	E5E91_02300
+No gene name	E5E91_02305
+No gene name	E5E91_02305
+No gene name	E5E91_02310
+No gene name	E5E91_02310
+No gene name	E5E91_02315
+No gene name	E5E91_02315
+No gene name	E5E91_02320
+No gene name	E5E91_02320
+No gene name	E5E91_02325
+No gene name	E5E91_02325
+No gene name	E5E91_02330
+No gene name	E5E91_02330
+No gene name	E5E91_02335
+No gene name	E5E91_02335
+No gene name	E5E91_02340
+No gene name	E5E91_02340
+No gene name	E5E91_02345
+No gene name	E5E91_02345
+No gene name	E5E91_02350
+No gene name	E5E91_02350
+No gene name	E5E91_02355
+No gene name	E5E91_02355
+No gene name	E5E91_02360
+No gene name	E5E91_02360
+No gene name	E5E91_02365
+No gene name	E5E91_02365
+No gene name	E5E91_02370
+No gene name	E5E91_02370
+No gene name	E5E91_02375
+No gene name	E5E91_02375
+treY	E5E91_02380
+treY	E5E91_02380
+treZ	E5E91_02385
+treZ	E5E91_02385
+No gene name	E5E91_02390
+No gene name	E5E91_02390
+No gene name	E5E91_02395
+No gene name	E5E91_02395
+No gene name	E5E91_02400
+No gene name	E5E91_02400
+No gene name	E5E91_02405
+No gene name	E5E91_02405
+No gene name	E5E91_02410
+No gene name	E5E91_02410
+No gene name	E5E91_02415
+No gene name	E5E91_02415
+No gene name	E5E91_02420
+No gene name	E5E91_02420
+No gene name	E5E91_02425
+No gene name	E5E91_02425
+No gene name	E5E91_02430
+No gene name	E5E91_02430
+No gene name	E5E91_02435
+No gene name	E5E91_02435
+No gene name	E5E91_02440
+No gene name	E5E91_02440
+No gene name	E5E91_02445
+No gene name	E5E91_02445
+No gene name	E5E91_02450
+No gene name	E5E91_02450
+No gene name	E5E91_02455
+No gene name	E5E91_02455
+No gene name	E5E91_02460
+No gene name	E5E91_02460
+No gene name	E5E91_02465
+No gene name	E5E91_02465
+ttcA	E5E91_02470
+ttcA	E5E91_02470
+No gene name	E5E91_02475
+No gene name	E5E91_02475
+No gene name	E5E91_02480
+No gene name	E5E91_02480
+No gene name	E5E91_02485
+No gene name	E5E91_02485
+No gene name	E5E91_02490
+No gene name	E5E91_02490
+No gene name	E5E91_02495
+No gene name	E5E91_02495
+No gene name	E5E91_02500
+No gene name	E5E91_02500
+No gene name	E5E91_02505
+No gene name	E5E91_02505
+No gene name	E5E91_02510
+No gene name	E5E91_02510
+No gene name	E5E91_02515
+No gene name	E5E91_02515
+No gene name	E5E91_02520
+No gene name	E5E91_02520
+No gene name	E5E91_02525
+No gene name	E5E91_02525
+No gene name	E5E91_02530
+No gene name	E5E91_02530
+No gene name	E5E91_02535
+No gene name	E5E91_02535
+No gene name	E5E91_02540
+No gene name	E5E91_02540
+pdxH	E5E91_02545
+pdxH	E5E91_02545
+No gene name	E5E91_02550
+No gene name	E5E91_02550
+sdaAB	E5E91_02555
+sdaAB	E5E91_02555
+No gene name	E5E91_02560
+No gene name	E5E91_02565
+murJ	E5E91_02570
+murJ	E5E91_02570
+No gene name	E5E91_02575
+No gene name	E5E91_02575
+No gene name	E5E91_02580
+No gene name	E5E91_02580
+No gene name	E5E91_02585
+No gene name	E5E91_02585
+No gene name	E5E91_02590
+No gene name	E5E91_02590
+No gene name	E5E91_02595
+No gene name	E5E91_02595
+No gene name	E5E91_02600
+No gene name	E5E91_02600
+No gene name	E5E91_02605
+No gene name	E5E91_02605
+No gene name	E5E91_02610
+No gene name	E5E91_02610
+No gene name	E5E91_02615
+No gene name	E5E91_02615
+dnaE	E5E91_02620
+dnaE	E5E91_02620
+No gene name	E5E91_02625
+No gene name	E5E91_02625
+No gene name	E5E91_02630
+No gene name	E5E91_02630
+No gene name	E5E91_02635
+No gene name	E5E91_02635
+No gene name	E5E91_02640
+No gene name	E5E91_02640
+No gene name	E5E91_02645
+No gene name	E5E91_02645
+No gene name	E5E91_02650
+No gene name	E5E91_02655
+No gene name	E5E91_02655
+No gene name	E5E91_02660
+No gene name	E5E91_02660
+No gene name	E5E91_02665
+No gene name	E5E91_02665
+No gene name	E5E91_02670
+No gene name	E5E91_02670
+No gene name	E5E91_02675
+No gene name	E5E91_02675
+No gene name	E5E91_02680
+No gene name	E5E91_02680
+No gene name	E5E91_02685
+No gene name	E5E91_02685
+No gene name	E5E91_02690
+No gene name	E5E91_02690
+No gene name	E5E91_02695
+No gene name	E5E91_02695
+No gene name	E5E91_02700
+No gene name	E5E91_02700
+No gene name	E5E91_02705
+No gene name	E5E91_02705
+No gene name	E5E91_02710
+No gene name	E5E91_02710
+No gene name	E5E91_02715
+No gene name	E5E91_02715
+No gene name	E5E91_02720
+No gene name	E5E91_02720
+No gene name	E5E91_02725
+No gene name	E5E91_02725
+No gene name	E5E91_02730
+No gene name	E5E91_02730
+No gene name	E5E91_02735
+No gene name	E5E91_02735
+No gene name	E5E91_02740
+No gene name	E5E91_02740
+No gene name	E5E91_02745
+No gene name	E5E91_02745
+No gene name	E5E91_02750
+No gene name	E5E91_02750
+No gene name	E5E91_02755
+No gene name	E5E91_02755
+No gene name	E5E91_02760
+No gene name	E5E91_02760
+No gene name	E5E91_02765
+No gene name	E5E91_02770
+No gene name	E5E91_02770
+No gene name	E5E91_02775
+No gene name	E5E91_02775
+No gene name	E5E91_02780
+No gene name	E5E91_02780
+No gene name	E5E91_02785
+No gene name	E5E91_02785
+No gene name	E5E91_02790
+No gene name	E5E91_02790
+No gene name	E5E91_02795
+No gene name	E5E91_02795
+No gene name	E5E91_02800
+No gene name	E5E91_02800
+No gene name	E5E91_02805
+No gene name	E5E91_02805
+No gene name	E5E91_02810
+No gene name	E5E91_02810
+No gene name	E5E91_02815
+No gene name	E5E91_02815
+No gene name	E5E91_02820
+No gene name	E5E91_02820
+No gene name	E5E91_02825
+No gene name	E5E91_02825
+No gene name	E5E91_02830
+No gene name	E5E91_02830
+No gene name	E5E91_02835
+No gene name	E5E91_02835
+No gene name	E5E91_02840
+No gene name	E5E91_02840
+dnaB	E5E91_02845
+dnaB	E5E91_02845
+No gene name	E5E91_02850
+No gene name	E5E91_02850
+No gene name	E5E91_02855
+No gene name	E5E91_02855
+No gene name	E5E91_02860
+No gene name	E5E91_02860
+No gene name	E5E91_02865
+No gene name	E5E91_02865
+No gene name	E5E91_02870
+No gene name	E5E91_02870
+hemL	E5E91_02875
+hemL	E5E91_02875
+No gene name	E5E91_02880
+No gene name	E5E91_02880
+No gene name	E5E91_02885
+No gene name	E5E91_02885
+trpS	E5E91_02890
+trpS	E5E91_02890
+No gene name	E5E91_02895
+No gene name	E5E91_02900
+No gene name	E5E91_02905
+No gene name	E5E91_02905
+No gene name	E5E91_02910
+No gene name	E5E91_02910
+No gene name	E5E91_02915
+No gene name	E5E91_02915
+No gene name	E5E91_02920
+No gene name	E5E91_02920
+No gene name	E5E91_02925
+No gene name	E5E91_02925
+No gene name	E5E91_02930
+No gene name	E5E91_02930
+No gene name	E5E91_02935
+No gene name	E5E91_02935
+No gene name	E5E91_02940
+No gene name	E5E91_02940
+ilvA	E5E91_02945
+ilvA	E5E91_02945
+No gene name	E5E91_02950
+No gene name	E5E91_02950
+No gene name	E5E91_02955
+No gene name	E5E91_02960
+No gene name	E5E91_02965
+No gene name	E5E91_02965
+No gene name	E5E91_02970
+No gene name	E5E91_02970
+No gene name	E5E91_02975
+No gene name	E5E91_02975
+No gene name	E5E91_02980
+No gene name	E5E91_02980
+No gene name	E5E91_02985
+No gene name	E5E91_02985
+No gene name	E5E91_02990
+No gene name	E5E91_02990
+No gene name	E5E91_02995
+No gene name	E5E91_02995
+secA	E5E91_03000
+secA	E5E91_03000
+No gene name	E5E91_03005
+No gene name	E5E91_03005
+No gene name	E5E91_03010
+No gene name	E5E91_03010
+No gene name	E5E91_03015
+No gene name	E5E91_03015
+coaBC	E5E91_03020
+coaBC	E5E91_03020
+No gene name	E5E91_03025
+No gene name	E5E91_03025
+No gene name	E5E91_03030
+No gene name	E5E91_03030
+No gene name	E5E91_03035
+No gene name	E5E91_03035
+No gene name	E5E91_03040
+No gene name	E5E91_03040
+purU	E5E91_03045
+purU	E5E91_03045
+No gene name	E5E91_03050
+No gene name	E5E91_03050
+clpS	E5E91_03055
+clpS	E5E91_03055
+No gene name	E5E91_03060
+No gene name	E5E91_03060
+No gene name	E5E91_03065
+No gene name	E5E91_03065
+No gene name	E5E91_03070
+No gene name	E5E91_03070
+yidD	E5E91_03075
+yidD	E5E91_03075
+No gene name	E5E91_03080
+No gene name	E5E91_03080
+No gene name	E5E91_03085
+No gene name	E5E91_03085
+No gene name	E5E91_03090
+No gene name	E5E91_03090
+No gene name	E5E91_03095
+No gene name	E5E91_03095
+No gene name	E5E91_03100
+No gene name	E5E91_03105
+No gene name	E5E91_03105
+No gene name	E5E91_03110
+No gene name	E5E91_03110
+ruvB	E5E91_03115
+ruvB	E5E91_03115
+No gene name	E5E91_03120
+No gene name	E5E91_03120
+No gene name	E5E91_03125
+No gene name	E5E91_03125
+No gene name	E5E91_03130
+No gene name	E5E91_03130
+No gene name	E5E91_03135
+No gene name	E5E91_03135
+No gene name	E5E91_03140
+No gene name	E5E91_03140
+No gene name	E5E91_03145
+No gene name	E5E91_03145
+No gene name	E5E91_03150
+No gene name	E5E91_03150
+No gene name	E5E91_03155
+No gene name	E5E91_03155
+No gene name	E5E91_03160
+No gene name	E5E91_03160
+No gene name	E5E91_03165
+No gene name	E5E91_03165
+groL	E5E91_03170
+groL	E5E91_03170
+No gene name	E5E91_03175
+No gene name	E5E91_03175
+No gene name	E5E91_03180
+No gene name	E5E91_03180
+No gene name	E5E91_03185
+No gene name	E5E91_03185
+No gene name	E5E91_03190
+No gene name	E5E91_03190
+No gene name	E5E91_03195
+No gene name	E5E91_03195
+No gene name	E5E91_03200
+No gene name	E5E91_03200
+No gene name	E5E91_03205
+No gene name	E5E91_03205
+No gene name	E5E91_03210
+No gene name	E5E91_03210
+No gene name	E5E91_03215
+No gene name	E5E91_03215
+No gene name	E5E91_03220
+No gene name	E5E91_03220
+No gene name	E5E91_03225
+No gene name	E5E91_03225
+No gene name	E5E91_03230
+No gene name	E5E91_03230
+No gene name	E5E91_03235
+No gene name	E5E91_03235
+No gene name	E5E91_03240
+No gene name	E5E91_03240
+No gene name	E5E91_03245
+No gene name	E5E91_03245
+No gene name	E5E91_03250
+No gene name	E5E91_03250
+No gene name	E5E91_03255
+No gene name	E5E91_03255
+No gene name	E5E91_03260
+No gene name	E5E91_03260
+No gene name	E5E91_03265
+No gene name	E5E91_03265
+murG	E5E91_03270
+murG	E5E91_03270
+murC	E5E91_03275
+murC	E5E91_03275
+No gene name	E5E91_03280
+No gene name	E5E91_03280
+No gene name	E5E91_03285
+No gene name	E5E91_03285
+ftsA	E5E91_03290
+ftsA	E5E91_03290
+ftsZ	E5E91_03295
+ftsZ	E5E91_03295
+No gene name	E5E91_03300
+No gene name	E5E91_03300
+No gene name	E5E91_03305
+No gene name	E5E91_03305
+No gene name	E5E91_03310
+No gene name	E5E91_03310
+pfkA	E5E91_03315
+pfkA	E5E91_03315
+rsmI	E5E91_03320
+rsmI	E5E91_03320
+No gene name	E5E91_03325
+No gene name	E5E91_03325
+No gene name	E5E91_03330
+No gene name	E5E91_03330
+No gene name	E5E91_03335
+No gene name	E5E91_03335
+No gene name	E5E91_03340
+No gene name	E5E91_03345
+No gene name	E5E91_03350
+No gene name	E5E91_03350
+No gene name	E5E91_03355
+No gene name	E5E91_03355
+coaD	E5E91_03360
+coaD	E5E91_03360
+No gene name	E5E91_03365
+No gene name	E5E91_03365
+No gene name	E5E91_03370
+No gene name	E5E91_03370
+No gene name	E5E91_03375
+No gene name	E5E91_03375
+No gene name	E5E91_03380
+No gene name	E5E91_03380
+No gene name	E5E91_03385
+No gene name	E5E91_03385
+No gene name	E5E91_03390
+No gene name	E5E91_03390
+No gene name	E5E91_03395
+No gene name	E5E91_03395
+No gene name	E5E91_03400
+No gene name	E5E91_03400
+rocF	E5E91_03405
+rocF	E5E91_03405
+No gene name	E5E91_03410
+No gene name	E5E91_03410
+No gene name	E5E91_03415
+No gene name	E5E91_03415
+No gene name	E5E91_03420
+No gene name	E5E91_03420
+No gene name	E5E91_03425
+No gene name	E5E91_03425
+No gene name	E5E91_03430
+No gene name	E5E91_03430
+No gene name	E5E91_03435
+No gene name	E5E91_03435
+No gene name	E5E91_03440
+No gene name	E5E91_03440
+No gene name	E5E91_03445
+No gene name	E5E91_03445
+No gene name	E5E91_03450
+No gene name	E5E91_03450
+No gene name	E5E91_03455
+No gene name	E5E91_03455
+No gene name	E5E91_03460
+No gene name	E5E91_03460
+No gene name	E5E91_03465
+No gene name	E5E91_03465
+No gene name	E5E91_03470
+No gene name	E5E91_03470
+No gene name	E5E91_03475
+No gene name	E5E91_03475
+No gene name	E5E91_03480
+No gene name	E5E91_03480
+carB	E5E91_03485
+carB	E5E91_03485
+No gene name	E5E91_03490
+No gene name	E5E91_03490
+No gene name	E5E91_03495
+No gene name	E5E91_03495
+No gene name	E5E91_03500
+No gene name	E5E91_03500
+No gene name	E5E91_03505
+No gene name	E5E91_03505
+No gene name	E5E91_03510
+No gene name	E5E91_03510
+No gene name	E5E91_03515
+No gene name	E5E91_03515
+No gene name	E5E91_03520
+No gene name	E5E91_03520
+No gene name	E5E91_03525
+No gene name	E5E91_03525
+No gene name	E5E91_03530
+No gene name	E5E91_03530
+argH	E5E91_03535
+argH	E5E91_03535
+No gene name	E5E91_03540
+No gene name	E5E91_03540
+No gene name	E5E91_03545
+No gene name	E5E91_03545
+No gene name	E5E91_03550
+No gene name	E5E91_03550
+No gene name	E5E91_03555
+No gene name	E5E91_03555
+No gene name	E5E91_03560
+No gene name	E5E91_03560
+No gene name	E5E91_03565
+No gene name	E5E91_03565
+No gene name	E5E91_03570
+No gene name	E5E91_03570
+No gene name	E5E91_03575
+No gene name	E5E91_03575
+No gene name	E5E91_03580
+No gene name	E5E91_03580
+No gene name	E5E91_03585
+No gene name	E5E91_03585
+No gene name	E5E91_03590
+No gene name	E5E91_03590
+No gene name	E5E91_03595
+No gene name	E5E91_03595
+No gene name	E5E91_03600
+No gene name	E5E91_03600
+No gene name	E5E91_03605
+No gene name	E5E91_03605
+No gene name	E5E91_03610
+No gene name	E5E91_03610
+No gene name	E5E91_03615
+No gene name	E5E91_03615
+No gene name	E5E91_03620
+No gene name	E5E91_03620
+No gene name	E5E91_03625
+No gene name	E5E91_03625
+No gene name	E5E91_03630
+No gene name	E5E91_03630
+No gene name	E5E91_03635
+No gene name	E5E91_03635
+No gene name	E5E91_03640
+No gene name	E5E91_03640
+No gene name	E5E91_03645
+No gene name	E5E91_03645
+No gene name	E5E91_03650
+No gene name	E5E91_03650
+No gene name	E5E91_03655
+No gene name	E5E91_03655
+No gene name	E5E91_03660
+No gene name	E5E91_03660
+No gene name	E5E91_03665
+No gene name	E5E91_03665
+No gene name	E5E91_03670
+No gene name	E5E91_03670
+No gene name	E5E91_03675
+No gene name	E5E91_03675
+No gene name	E5E91_03680
+No gene name	E5E91_03680
+No gene name	E5E91_03685
+No gene name	E5E91_03685
+No gene name	E5E91_03690
+No gene name	E5E91_03690
+No gene name	E5E91_03695
+No gene name	E5E91_03695
+No gene name	E5E91_03700
+No gene name	E5E91_03700
+No gene name	E5E91_03705
+No gene name	E5E91_03705
+No gene name	E5E91_03710
+No gene name	E5E91_03710
+No gene name	E5E91_03715
+No gene name	E5E91_03715
+No gene name	E5E91_03720
+No gene name	E5E91_03720
+No gene name	E5E91_03725
+No gene name	E5E91_03725
+No gene name	E5E91_03730
+No gene name	E5E91_03730
+No gene name	E5E91_03735
+No gene name	E5E91_03735
+No gene name	E5E91_03740
+No gene name	E5E91_03740
+No gene name	E5E91_03745
+No gene name	E5E91_03745
+No gene name	E5E91_03750
+No gene name	E5E91_03750
+No gene name	E5E91_03755
+No gene name	E5E91_03755
+No gene name	E5E91_03760
+No gene name	E5E91_03760
+No gene name	E5E91_03765
+No gene name	E5E91_03765
+No gene name	E5E91_03770
+No gene name	E5E91_03770
+No gene name	E5E91_03775
+No gene name	E5E91_03775
+No gene name	E5E91_03780
+No gene name	E5E91_03780
+No gene name	E5E91_03785
+No gene name	E5E91_03785
+No gene name	E5E91_03790
+No gene name	E5E91_03790
+No gene name	E5E91_03795
+No gene name	E5E91_03795
+No gene name	E5E91_03800
+No gene name	E5E91_03800
+No gene name	E5E91_03805
+No gene name	E5E91_03805
+No gene name	E5E91_03810
+No gene name	E5E91_03810
+hisF	E5E91_03815
+hisF	E5E91_03815
+No gene name	E5E91_03820
+No gene name	E5E91_03820
+No gene name	E5E91_03825
+No gene name	E5E91_03825
+No gene name	E5E91_03830
+No gene name	E5E91_03830
+No gene name	E5E91_03835
+No gene name	E5E91_03835
+No gene name	E5E91_03840
+No gene name	E5E91_03840
+No gene name	E5E91_03845
+No gene name	E5E91_03845
+No gene name	E5E91_03850
+No gene name	E5E91_03850
+No gene name	E5E91_03855
+No gene name	E5E91_03855
+argR	E5E91_03860
+argR	E5E91_03860
+No gene name	E5E91_03865
+No gene name	E5E91_03865
+No gene name	E5E91_03870
+No gene name	E5E91_03870
+No gene name	E5E91_03875
+No gene name	E5E91_03875
+No gene name	E5E91_03880
+No gene name	E5E91_03880
+No gene name	E5E91_03885
+No gene name	E5E91_03885
+rlmB	E5E91_03890
+rlmB	E5E91_03890
+No gene name	E5E91_03895
+No gene name	E5E91_03895
+No gene name	E5E91_03900
+No gene name	E5E91_03900
+minE	E5E91_03905
+minE	E5E91_03905
+minD	E5E91_03910
+minD	E5E91_03910
+No gene name	E5E91_03915
+No gene name	E5E91_03915
+No gene name	E5E91_03920
+No gene name	E5E91_03920
+No gene name	E5E91_03925
+No gene name	E5E91_03925
+tsaB	E5E91_03930
+tsaB	E5E91_03930
+No gene name	E5E91_03935
+No gene name	E5E91_03935
+No gene name	E5E91_03940
+No gene name	E5E91_03940
+No gene name	E5E91_03945
+No gene name	E5E91_03945
+No gene name	E5E91_03950
+No gene name	E5E91_03950
+No gene name	E5E91_03955
+No gene name	E5E91_03955
+No gene name	E5E91_03960
+No gene name	E5E91_03960
+No gene name	E5E91_03965
+No gene name	E5E91_03965
+No gene name	E5E91_03970
+No gene name	E5E91_03970
+lipA	E5E91_03975
+lipA	E5E91_03975
+No gene name	E5E91_03980
+No gene name	E5E91_03980
+No gene name	E5E91_03985
+No gene name	E5E91_03985
+No gene name	E5E91_03990
+No gene name	E5E91_03990
+No gene name	E5E91_03995
+No gene name	E5E91_03995
+pilM	E5E91_04000
+pilM	E5E91_04000
+No gene name	E5E91_04005
+No gene name	E5E91_04005
+No gene name	E5E91_04010
+No gene name	E5E91_04010
+No gene name	E5E91_04015
+No gene name	E5E91_04015
+No gene name	E5E91_04020
+No gene name	E5E91_04020
+No gene name	E5E91_04025
+No gene name	E5E91_04025
+aroC	E5E91_04030
+aroC	E5E91_04030
+No gene name	E5E91_04035
+No gene name	E5E91_04035
+aroB	E5E91_04040
+aroB	E5E91_04040
+aroQ	E5E91_04045
+aroQ	E5E91_04045
+No gene name	E5E91_04050
+No gene name	E5E91_04050
+No gene name	E5E91_04055
+No gene name	E5E91_04055
+No gene name	E5E91_04060
+No gene name	E5E91_04060
+No gene name	E5E91_04065
+No gene name	E5E91_04065
+No gene name	E5E91_04070
+No gene name	E5E91_04070
+No gene name	E5E91_04075
+No gene name	E5E91_04075
+No gene name	E5E91_04080
+No gene name	E5E91_04080
+No gene name	E5E91_04085
+No gene name	E5E91_04085
+No gene name	E5E91_04090
+No gene name	E5E91_04090
+No gene name	E5E91_04095
+No gene name	E5E91_04095
+No gene name	E5E91_04100
+No gene name	E5E91_04100
+cysK	E5E91_04105
+cysK	E5E91_04105
+No gene name	E5E91_04110
+No gene name	E5E91_04110
+No gene name	E5E91_04115
+No gene name	E5E91_04115
+No gene name	E5E91_04120
+No gene name	E5E91_04120
+No gene name	E5E91_04125
+No gene name	E5E91_04125
+No gene name	E5E91_04130
+No gene name	E5E91_04130
+No gene name	E5E91_04135
+No gene name	E5E91_04135
+No gene name	E5E91_04140
+No gene name	E5E91_04140
+No gene name	E5E91_04145
+No gene name	E5E91_04145
+No gene name	E5E91_04150
+No gene name	E5E91_04150
+No gene name	E5E91_04155
+No gene name	E5E91_04155
+No gene name	E5E91_04160
+No gene name	E5E91_04160
+No gene name	E5E91_04165
+No gene name	E5E91_04165
+No gene name	E5E91_04170
+No gene name	E5E91_04170
+No gene name	E5E91_04175
+No gene name	E5E91_04175
+No gene name	E5E91_04180
+No gene name	E5E91_04180
+tatC	E5E91_04185
+tatC	E5E91_04185
+lgt	E5E91_04190
+lgt	E5E91_04190
+glmU	E5E91_04195
+glmU	E5E91_04195
+No gene name	E5E91_04200
+No gene name	E5E91_04200
+No gene name	E5E91_04205
+No gene name	E5E91_04205
+No gene name	E5E91_04210
+No gene name	E5E91_04210
+No gene name	E5E91_04215
+No gene name	E5E91_04215
+pruA	E5E91_04220
+pruA	E5E91_04220
+No gene name	E5E91_04225
+No gene name	E5E91_04225
+No gene name	E5E91_04230
+No gene name	E5E91_04230
+No gene name	E5E91_04235
+No gene name	E5E91_04235
+No gene name	E5E91_04240
+No gene name	E5E91_04240
+No gene name	E5E91_04245
+No gene name	E5E91_04245
+recO	E5E91_04250
+recO	E5E91_04250
+No gene name	E5E91_04255
+No gene name	E5E91_04255
+No gene name	E5E91_04260
+No gene name	E5E91_04260
+No gene name	E5E91_04265
+No gene name	E5E91_04265
+No gene name	E5E91_04270
+No gene name	E5E91_04270
+No gene name	E5E91_04275
+No gene name	E5E91_04275
+No gene name	E5E91_04280
+No gene name	E5E91_04280
+No gene name	E5E91_04285
+No gene name	E5E91_04285
+No gene name	E5E91_04290
+No gene name	E5E91_04290
+aceA	E5E91_04295
+aceA	E5E91_04295
+No gene name	E5E91_04300
+No gene name	E5E91_04300
+No gene name	E5E91_04305
+No gene name	E5E91_04305
+No gene name	E5E91_04310
+No gene name	E5E91_04310
+No gene name	E5E91_04315
+No gene name	E5E91_04315
+No gene name	E5E91_04320
+No gene name	E5E91_04320
+No gene name	E5E91_04325
+No gene name	E5E91_04325
+No gene name	E5E91_04330
+No gene name	E5E91_04330
+No gene name	E5E91_04335
+No gene name	E5E91_04335
+No gene name	E5E91_04340
+No gene name	E5E91_04340
+No gene name	E5E91_04345
+No gene name	E5E91_04345
+No gene name	E5E91_04350
+No gene name	E5E91_04350
+No gene name	E5E91_04355
+No gene name	E5E91_04355
+No gene name	E5E91_04360
+No gene name	E5E91_04360
+No gene name	E5E91_04365
+No gene name	E5E91_04365
+No gene name	E5E91_04370
+No gene name	E5E91_04370
+No gene name	E5E91_04375
+No gene name	E5E91_04375
+rpiA	E5E91_04380
+rpiA	E5E91_04380
+No gene name	E5E91_04385
+No gene name	E5E91_04385
+No gene name	E5E91_04390
+No gene name	E5E91_04390
+No gene name	E5E91_04395
+No gene name	E5E91_04395
+No gene name	E5E91_04400
+No gene name	E5E91_04400
+No gene name	E5E91_04405
+No gene name	E5E91_04405
+No gene name	E5E91_04410
+No gene name	E5E91_04410
+ssrA	E5E91_04415
+No gene name	E5E91_04420
+No gene name	E5E91_04425
+No gene name	E5E91_04425
+No gene name	E5E91_04430
+No gene name	E5E91_04430
+No gene name	E5E91_04435
+No gene name	E5E91_04435
+No gene name	E5E91_04440
+No gene name	E5E91_04440
+No gene name	E5E91_04445
+No gene name	E5E91_04445
+No gene name	E5E91_04450
+No gene name	E5E91_04450
+rraA	E5E91_04455
+rraA	E5E91_04455
+No gene name	E5E91_04460
+No gene name	E5E91_04460
+crtI	E5E91_04465
+crtI	E5E91_04465
+No gene name	E5E91_04470
+No gene name	E5E91_04470
+No gene name	E5E91_04475
+No gene name	E5E91_04475
+No gene name	E5E91_04480
+No gene name	E5E91_04480
+No gene name	E5E91_04485
+No gene name	E5E91_04485
+No gene name	E5E91_04490
+No gene name	E5E91_04490
+No gene name	E5E91_04495
+No gene name	E5E91_04495
+purH	E5E91_04500
+purH	E5E91_04500
+No gene name	E5E91_04505
+No gene name	E5E91_04505
+No gene name	E5E91_04510
+No gene name	E5E91_04510
+No gene name	E5E91_04515
+No gene name	E5E91_04515
+No gene name	E5E91_04520
+No gene name	E5E91_04520
+No gene name	E5E91_04525
+No gene name	E5E91_04525
+No gene name	E5E91_04530
+No gene name	E5E91_04535
+No gene name	E5E91_04535
+No gene name	E5E91_04540
+No gene name	E5E91_04540
+No gene name	E5E91_04545
+No gene name	E5E91_04545
+No gene name	E5E91_04550
+No gene name	E5E91_04550
+No gene name	E5E91_04555
+No gene name	E5E91_04555
+No gene name	E5E91_04560
+No gene name	E5E91_04560
+No gene name	E5E91_04565
+No gene name	E5E91_04565
+No gene name	E5E91_04570
+No gene name	E5E91_04570
+No gene name	E5E91_04575
+No gene name	E5E91_04575
+No gene name	E5E91_04580
+No gene name	E5E91_04580
+No gene name	E5E91_04585
+No gene name	E5E91_04585
+No gene name	E5E91_04590
+No gene name	E5E91_04590
+No gene name	E5E91_04595
+No gene name	E5E91_04595
+No gene name	E5E91_04600
+No gene name	E5E91_04600
+No gene name	E5E91_04605
+No gene name	E5E91_04605
+No gene name	E5E91_04610
+No gene name	E5E91_04610
+No gene name	E5E91_04615
+No gene name	E5E91_04615
+No gene name	E5E91_04620
+No gene name	E5E91_04620
+No gene name	E5E91_04625
+No gene name	E5E91_04625
+No gene name	E5E91_04630
+No gene name	E5E91_04630
+No gene name	E5E91_04635
+No gene name	E5E91_04635
+No gene name	E5E91_04640
+No gene name	E5E91_04640
+No gene name	E5E91_04645
+No gene name	E5E91_04645
+rnpB	E5E91_04650
+No gene name	E5E91_04655
+No gene name	E5E91_04655
+No gene name	E5E91_04660
+No gene name	E5E91_04660
+No gene name	E5E91_04665
+No gene name	E5E91_04665
+rnhA	E5E91_04670
+rnhA	E5E91_04670
+No gene name	E5E91_04675
+No gene name	E5E91_04675
+No gene name	E5E91_04680
+No gene name	E5E91_04680
+No gene name	E5E91_04685
+No gene name	E5E91_04685
+No gene name	E5E91_04690
+No gene name	E5E91_04690
+No gene name	E5E91_04695
+No gene name	E5E91_04695
+No gene name	E5E91_04700
+No gene name	E5E91_04700
+No gene name	E5E91_04705
+No gene name	E5E91_04705
+No gene name	E5E91_04710
+No gene name	E5E91_04710
+No gene name	E5E91_04715
+No gene name	E5E91_04715
+No gene name	E5E91_04720
+No gene name	E5E91_04720
+rpoC	E5E91_04725
+rpoC	E5E91_04725
+No gene name	E5E91_04730
+No gene name	E5E91_04730
+No gene name	E5E91_04735
+No gene name	E5E91_04735
+No gene name	E5E91_04740
+No gene name	E5E91_04740
+rpoD	E5E91_04745
+rpoD	E5E91_04745
+No gene name	E5E91_04750
+No gene name	E5E91_04750
+No gene name	E5E91_04755
+No gene name	E5E91_04755
+No gene name	E5E91_04760
+No gene name	E5E91_04760
+No gene name	E5E91_04765
+No gene name	E5E91_04765
+No gene name	E5E91_04770
+No gene name	E5E91_04770
+No gene name	E5E91_04775
+No gene name	E5E91_04780
+No gene name	E5E91_04785
+No gene name	E5E91_04785
+No gene name	E5E91_04790
+No gene name	E5E91_04790
+No gene name	E5E91_04795
+No gene name	E5E91_04795
+No gene name	E5E91_04800
+No gene name	E5E91_04800
+No gene name	E5E91_04805
+No gene name	E5E91_04805
+No gene name	E5E91_04810
+No gene name	E5E91_04810
+No gene name	E5E91_04815
+No gene name	E5E91_04815
+No gene name	E5E91_04820
+No gene name	E5E91_04820
+No gene name	E5E91_04825
+No gene name	E5E91_04825
+No gene name	E5E91_04830
+No gene name	E5E91_04830
+No gene name	E5E91_04835
+No gene name	E5E91_04835
+No gene name	E5E91_04840
+No gene name	E5E91_04840
+No gene name	E5E91_04845
+No gene name	E5E91_04845
+No gene name	E5E91_04850
+No gene name	E5E91_04850
+No gene name	E5E91_04855
+No gene name	E5E91_04855
+rlmN	E5E91_04860
+rlmN	E5E91_04860
+No gene name	E5E91_04865
+No gene name	E5E91_04865
+No gene name	E5E91_04870
+No gene name	E5E91_04870
+No gene name	E5E91_04875
+No gene name	E5E91_04875
+No gene name	E5E91_04880
+No gene name	E5E91_04880
+trpB	E5E91_04885
+trpB	E5E91_04885
+No gene name	E5E91_04890
+No gene name	E5E91_04890
+No gene name	E5E91_04895
+No gene name	E5E91_04895
+trxA	E5E91_04900
+trxA	E5E91_04900
+No gene name	E5E91_04905
+No gene name	E5E91_04905
+No gene name	E5E91_04910
+No gene name	E5E91_04910
+No gene name	E5E91_04915
+No gene name	E5E91_04915
+No gene name	E5E91_04920
+No gene name	E5E91_04920
+No gene name	E5E91_04925
+No gene name	E5E91_04925
+No gene name	E5E91_04930
+No gene name	E5E91_04930
+No gene name	E5E91_04935
+No gene name	E5E91_04935
+sdhA	E5E91_04940
+sdhA	E5E91_04940
+No gene name	E5E91_04945
+No gene name	E5E91_04945
+sdhC	E5E91_04950
+sdhC	E5E91_04950
+No gene name	E5E91_04955
+No gene name	E5E91_04955
+No gene name	E5E91_04960
+No gene name	E5E91_04960
+No gene name	E5E91_04965
+No gene name	E5E91_04965
+No gene name	E5E91_04970
+No gene name	E5E91_04970
+No gene name	E5E91_04975
+No gene name	E5E91_04975
+No gene name	E5E91_04980
+No gene name	E5E91_04980
+No gene name	E5E91_04985
+No gene name	E5E91_04985
+No gene name	E5E91_04990
+No gene name	E5E91_04990
+No gene name	E5E91_04995
+No gene name	E5E91_04995
+No gene name	E5E91_05000
+No gene name	E5E91_05000
+No gene name	E5E91_05005
+No gene name	E5E91_05005
+No gene name	E5E91_05010
+No gene name	E5E91_05010
+metH	E5E91_05015
+metH	E5E91_05015
+No gene name	E5E91_05020
+No gene name	E5E91_05020
+No gene name	E5E91_05025
+No gene name	E5E91_05025
+No gene name	E5E91_05030
+No gene name	E5E91_05030
+No gene name	E5E91_05035
+No gene name	E5E91_05035
+No gene name	E5E91_05040
+No gene name	E5E91_05040
+No gene name	E5E91_05045
+No gene name	E5E91_05045
+No gene name	E5E91_05050
+No gene name	E5E91_05050
+No gene name	E5E91_05055
+No gene name	E5E91_05055
+No gene name	E5E91_05060
+No gene name	E5E91_05060
+No gene name	E5E91_05065
+No gene name	E5E91_05065
+No gene name	E5E91_05070
+No gene name	E5E91_05070
+No gene name	E5E91_05075
+No gene name	E5E91_05075
+No gene name	E5E91_05080
+No gene name	E5E91_05080
+pdhA	E5E91_05085
+pdhA	E5E91_05085
+No gene name	E5E91_05090
+No gene name	E5E91_05090
+No gene name	E5E91_05095
+No gene name	E5E91_05095
+No gene name	E5E91_05100
+No gene name	E5E91_05100
+No gene name	E5E91_05105
+No gene name	E5E91_05105
+No gene name	E5E91_05110
+No gene name	E5E91_05110
+No gene name	E5E91_05115
+No gene name	E5E91_05115
+No gene name	E5E91_05120
+No gene name	E5E91_05120
+No gene name	E5E91_05125
+No gene name	E5E91_05125
+No gene name	E5E91_05130
+No gene name	E5E91_05130
+No gene name	E5E91_05135
+No gene name	E5E91_05135
+No gene name	E5E91_05140
+No gene name	E5E91_05140
+No gene name	E5E91_05145
+No gene name	E5E91_05145
+No gene name	E5E91_05150
+No gene name	E5E91_05150
+No gene name	E5E91_05155
+No gene name	E5E91_05155
+No gene name	E5E91_05160
+No gene name	E5E91_05160
+No gene name	E5E91_05165
+No gene name	E5E91_05165
+No gene name	E5E91_05170
+No gene name	E5E91_05170
+No gene name	E5E91_05175
+No gene name	E5E91_05175
+No gene name	E5E91_05180
+No gene name	E5E91_05180
+No gene name	E5E91_05185
+No gene name	E5E91_05185
+No gene name	E5E91_05190
+No gene name	E5E91_05190
+No gene name	E5E91_05195
+No gene name	E5E91_05195
+No gene name	E5E91_05200
+No gene name	E5E91_05200
+No gene name	E5E91_05205
+No gene name	E5E91_05205
+aroF	E5E91_05210
+aroF	E5E91_05210
+No gene name	E5E91_05215
+No gene name	E5E91_05215
+No gene name	E5E91_05220
+No gene name	E5E91_05220
+No gene name	E5E91_05225
+No gene name	E5E91_05225
+No gene name	E5E91_05230
+No gene name	E5E91_05230
+dgt	E5E91_05235
+dgt	E5E91_05235
+No gene name	E5E91_05240
+No gene name	E5E91_05240
+ribF	E5E91_05245
+ribF	E5E91_05245
+No gene name	E5E91_05250
+No gene name	E5E91_05250
+No gene name	E5E91_05255
+No gene name	E5E91_05255
+No gene name	E5E91_05260
+No gene name	E5E91_05260
+No gene name	E5E91_05265
+No gene name	E5E91_05265
+No gene name	E5E91_05270
+No gene name	E5E91_05270
+No gene name	E5E91_05275
+No gene name	E5E91_05275
+No gene name	E5E91_05280
+No gene name	E5E91_05280
+mnmE	E5E91_05285
+mnmE	E5E91_05285
+No gene name	E5E91_05290
+No gene name	E5E91_05290
+No gene name	E5E91_05295
+No gene name	E5E91_05295
+No gene name	E5E91_05300
+No gene name	E5E91_05300
+No gene name	E5E91_05305
+No gene name	E5E91_05305
+No gene name	E5E91_05310
+No gene name	E5E91_05310
+No gene name	E5E91_05315
+No gene name	E5E91_05315
+No gene name	E5E91_05320
+No gene name	E5E91_05320
+No gene name	E5E91_05325
+No gene name	E5E91_05325
+No gene name	E5E91_05330
+No gene name	E5E91_05330
+No gene name	E5E91_05335
+No gene name	E5E91_05335
+No gene name	E5E91_05340
+No gene name	E5E91_05340
+No gene name	E5E91_05345
+No gene name	E5E91_05345
+No gene name	E5E91_05350
+No gene name	E5E91_05350
+No gene name	E5E91_05355
+No gene name	E5E91_05355
+No gene name	E5E91_05360
+No gene name	E5E91_05360
+No gene name	E5E91_05365
+No gene name	E5E91_05365
+No gene name	E5E91_05370
+No gene name	E5E91_05370
+No gene name	E5E91_05375
+No gene name	E5E91_05375
+No gene name	E5E91_05380
+No gene name	E5E91_05380
+No gene name	E5E91_05385
+No gene name	E5E91_05385
+No gene name	E5E91_05390
+No gene name	E5E91_05390
+No gene name	E5E91_05395
+No gene name	E5E91_05395
+mutS	E5E91_05400
+mutS	E5E91_05400
+No gene name	E5E91_05405
+No gene name	E5E91_05405
+No gene name	E5E91_05410
+No gene name	E5E91_05410
+No gene name	E5E91_05415
+No gene name	E5E91_05415
+No gene name	E5E91_05420
+No gene name	E5E91_05420
+No gene name	E5E91_05425
+No gene name	E5E91_05425
+No gene name	E5E91_05430
+No gene name	E5E91_05430
+clpB	E5E91_05435
+clpB	E5E91_05435
+No gene name	E5E91_05440
+No gene name	E5E91_05440
+No gene name	E5E91_05445
+No gene name	E5E91_05445
+No gene name	E5E91_05450
+No gene name	E5E91_05450
+No gene name	E5E91_05455
+No gene name	E5E91_05455
+No gene name	E5E91_05460
+No gene name	E5E91_05460
+No gene name	E5E91_05465
+No gene name	E5E91_05465
+No gene name	E5E91_05470
+No gene name	E5E91_05470
+No gene name	E5E91_05475
+No gene name	E5E91_05475
+No gene name	E5E91_05480
+No gene name	E5E91_05480
+aspS	E5E91_05485
+aspS	E5E91_05485
+No gene name	E5E91_05490
+No gene name	E5E91_05490
+No gene name	E5E91_05495
+No gene name	E5E91_05495
+No gene name	E5E91_05500
+No gene name	E5E91_05500
+No gene name	E5E91_05505
+No gene name	E5E91_05505
+meaB	E5E91_05510
+meaB	E5E91_05510
+No gene name	E5E91_05515
+No gene name	E5E91_05515
+No gene name	E5E91_05520
+No gene name	E5E91_05520
+No gene name	E5E91_05525
+No gene name	E5E91_05525
+No gene name	E5E91_05530
+No gene name	E5E91_05530
+No gene name	E5E91_05535
+No gene name	E5E91_05535
+No gene name	E5E91_05540
+No gene name	E5E91_05540
+No gene name	E5E91_05545
+No gene name	E5E91_05545
+No gene name	E5E91_05550
+No gene name	E5E91_05550
+No gene name	E5E91_05555
+No gene name	E5E91_05555
+No gene name	E5E91_05560
+No gene name	E5E91_05560
+No gene name	E5E91_05565
+No gene name	E5E91_05565
+No gene name	E5E91_05570
+No gene name	E5E91_05570
+No gene name	E5E91_05575
+No gene name	E5E91_05575
+No gene name	E5E91_05580
+No gene name	E5E91_05580
+No gene name	E5E91_05585
+No gene name	E5E91_05585
+fabZ	E5E91_05590
+fabZ	E5E91_05590
+No gene name	E5E91_05595
+No gene name	E5E91_05595
+No gene name	E5E91_05600
+No gene name	E5E91_05600
+No gene name	E5E91_05605
+No gene name	E5E91_05605
+No gene name	E5E91_05610
+No gene name	E5E91_05610
+No gene name	E5E91_05615
+No gene name	E5E91_05615
+No gene name	E5E91_05620
+No gene name	E5E91_05620
+No gene name	E5E91_05625
+No gene name	E5E91_05625
+raiA	E5E91_05630
+raiA	E5E91_05630
+No gene name	E5E91_05635
+No gene name	E5E91_05635
+scpA	E5E91_05640
+scpA	E5E91_05640
+No gene name	E5E91_05645
+No gene name	E5E91_05645
+alr	E5E91_05650
+alr	E5E91_05650
+fni	E5E91_05655
+fni	E5E91_05655
+No gene name	E5E91_05660
+No gene name	E5E91_05660
+recF	E5E91_05665
+recF	E5E91_05665
+No gene name	E5E91_05670
+No gene name	E5E91_05670
+No gene name	E5E91_05675
+No gene name	E5E91_05675
+No gene name	E5E91_05680
+No gene name	E5E91_05680
+No gene name	E5E91_05685
+No gene name	E5E91_05685
+trpS	E5E91_05690
+trpS	E5E91_05690
+No gene name	E5E91_05695
+No gene name	E5E91_05695
+No gene name	E5E91_05700
+No gene name	E5E91_05700
+aroA	E5E91_05705
+aroA	E5E91_05705
+No gene name	E5E91_05710
+No gene name	E5E91_05710
+No gene name	E5E91_05715
+No gene name	E5E91_05715
+No gene name	E5E91_05720
+No gene name	E5E91_05720
+No gene name	E5E91_05725
+No gene name	E5E91_05725
+No gene name	E5E91_05730
+No gene name	E5E91_05730
+No gene name	E5E91_05735
+No gene name	E5E91_05735
+No gene name	E5E91_05740
+No gene name	E5E91_05740
+No gene name	E5E91_05745
+No gene name	E5E91_05745
+No gene name	E5E91_05750
+No gene name	E5E91_05750
+radA	E5E91_05755
+radA	E5E91_05755
+No gene name	E5E91_05760
+No gene name	E5E91_05760
+No gene name	E5E91_05765
+No gene name	E5E91_05765
+No gene name	E5E91_05770
+No gene name	E5E91_05770
+No gene name	E5E91_05775
+No gene name	E5E91_05775
+pyrR	E5E91_05780
+pyrR	E5E91_05780
+No gene name	E5E91_05785
+No gene name	E5E91_05785
+No gene name	E5E91_05790
+No gene name	E5E91_05790
+No gene name	E5E91_05795
+No gene name	E5E91_05795
+No gene name	E5E91_05800
+No gene name	E5E91_05800
+No gene name	E5E91_05805
+No gene name	E5E91_05805
+No gene name	E5E91_05810
+No gene name	E5E91_05810
+No gene name	E5E91_05815
+No gene name	E5E91_05815
+No gene name	E5E91_05820
+No gene name	E5E91_05820
+No gene name	E5E91_05825
+No gene name	E5E91_05825
+No gene name	E5E91_05830
+No gene name	E5E91_05835
+No gene name	E5E91_05835
+No gene name	E5E91_05840
+No gene name	E5E91_05840
+No gene name	E5E91_05845
+No gene name	E5E91_05845
+murA	E5E91_05850
+murA	E5E91_05850
+No gene name	E5E91_05855
+No gene name	E5E91_05855
+No gene name	E5E91_05860
+No gene name	E5E91_05860
+No gene name	E5E91_05865
+No gene name	E5E91_05865
+recJ	E5E91_05870
+recJ	E5E91_05870
+No gene name	E5E91_05875
+No gene name	E5E91_05875
+No gene name	E5E91_05880
+No gene name	E5E91_05880
+No gene name	E5E91_05885
+No gene name	E5E91_05885
+hemG	E5E91_05890
+hemG	E5E91_05890
+No gene name	E5E91_05895
+No gene name	E5E91_05895
+ilvD	E5E91_05900
+ilvD	E5E91_05900
+hemE	E5E91_05905
+hemE	E5E91_05905
+No gene name	E5E91_05910
+No gene name	E5E91_05910
+No gene name	E5E91_05915
+No gene name	E5E91_05915
+No gene name	E5E91_05920
+No gene name	E5E91_05920
+No gene name	E5E91_05925
+No gene name	E5E91_05925
+No gene name	E5E91_05930
+No gene name	E5E91_05930
+No gene name	E5E91_05935
+No gene name	E5E91_05935
+No gene name	E5E91_05940
+No gene name	E5E91_05940
+No gene name	E5E91_05945
+No gene name	E5E91_05945
+No gene name	E5E91_05950
+No gene name	E5E91_05950
+No gene name	E5E91_05955
+No gene name	E5E91_05955
+No gene name	E5E91_05960
+No gene name	E5E91_05960
+lepA	E5E91_05965
+lepA	E5E91_05965
+No gene name	E5E91_05970
+No gene name	E5E91_05970
+No gene name	E5E91_05975
+No gene name	E5E91_05975
+No gene name	E5E91_05980
+No gene name	E5E91_05980
+No gene name	E5E91_05985
+No gene name	E5E91_05985
+miaB	E5E91_05990
+miaB	E5E91_05990
+No gene name	E5E91_05995
+No gene name	E5E91_05995
+No gene name	E5E91_06000
+No gene name	E5E91_06000
+No gene name	E5E91_06005
+No gene name	E5E91_06005
+No gene name	E5E91_06010
+No gene name	E5E91_06010
+No gene name	E5E91_06015
+No gene name	E5E91_06015
+No gene name	E5E91_06020
+No gene name	E5E91_06020
+No gene name	E5E91_06025
+No gene name	E5E91_06025
+No gene name	E5E91_06030
+No gene name	E5E91_06030
+uraD	E5E91_06035
+uraD	E5E91_06035
+No gene name	E5E91_06040
+No gene name	E5E91_06040
+pucL	E5E91_06045
+pucL	E5E91_06045
+uraH	E5E91_06050
+uraH	E5E91_06050
+greA	E5E91_06055
+greA	E5E91_06055
+No gene name	E5E91_06060
+No gene name	E5E91_06060
+No gene name	E5E91_06065
+No gene name	E5E91_06065
+No gene name	E5E91_06070
+No gene name	E5E91_06070
+No gene name	E5E91_06075
+No gene name	E5E91_06075
+No gene name	E5E91_06080
+No gene name	E5E91_06080
+nudC	E5E91_06085
+nudC	E5E91_06085
+No gene name	E5E91_06090
+No gene name	E5E91_06090
+No gene name	E5E91_06095
+No gene name	E5E91_06095
+No gene name	E5E91_06100
+No gene name	E5E91_06100
+No gene name	E5E91_06105
+No gene name	E5E91_06105
+No gene name	E5E91_06110
+No gene name	E5E91_06110
+No gene name	E5E91_06115
+No gene name	E5E91_06115
+No gene name	E5E91_06120
+No gene name	E5E91_06120
+No gene name	E5E91_06125
+No gene name	E5E91_06125
+No gene name	E5E91_06130
+No gene name	E5E91_06130
+No gene name	E5E91_06135
+No gene name	E5E91_06135
+No gene name	E5E91_06140
+No gene name	E5E91_06140
+No gene name	E5E91_06145
+No gene name	E5E91_06145
+No gene name	E5E91_06150
+No gene name	E5E91_06150
+No gene name	E5E91_06155
+No gene name	E5E91_06155
+No gene name	E5E91_06160
+No gene name	E5E91_06160
+No gene name	E5E91_06165
+No gene name	E5E91_06165
+No gene name	E5E91_06170
+No gene name	E5E91_06170
+No gene name	E5E91_06175
+No gene name	E5E91_06175
+No gene name	E5E91_06180
+No gene name	E5E91_06180
+No gene name	E5E91_06185
+No gene name	E5E91_06185
+No gene name	E5E91_06190
+No gene name	E5E91_06190
+No gene name	E5E91_06195
+No gene name	E5E91_06195
+No gene name	E5E91_06200
+No gene name	E5E91_06200
+No gene name	E5E91_06205
+No gene name	E5E91_06205
+No gene name	E5E91_06210
+No gene name	E5E91_06210
+No gene name	E5E91_06215
+No gene name	E5E91_06215
+No gene name	E5E91_06220
+No gene name	E5E91_06220
+No gene name	E5E91_06225
+No gene name	E5E91_06225
+No gene name	E5E91_06230
+No gene name	E5E91_06230
+typA	E5E91_06235
+typA	E5E91_06235
+No gene name	E5E91_06240
+No gene name	E5E91_06240
+No gene name	E5E91_06245
+No gene name	E5E91_06245
+No gene name	E5E91_06250
+No gene name	E5E91_06250
+No gene name	E5E91_06255
+No gene name	E5E91_06255
+No gene name	E5E91_06260
+No gene name	E5E91_06260
+pcaC	E5E91_06265
+pcaC	E5E91_06265
+deoC	E5E91_06270
+deoC	E5E91_06270
+maf	E5E91_06275
+maf	E5E91_06275
+tilS	E5E91_06280
+tilS	E5E91_06280
+No gene name	E5E91_06285
+No gene name	E5E91_06285
+No gene name	E5E91_06290
+No gene name	E5E91_06290
+No gene name	E5E91_06295
+No gene name	E5E91_06295
+No gene name	E5E91_06300
+No gene name	E5E91_06300
+No gene name	E5E91_06305
+No gene name	E5E91_06305
+No gene name	E5E91_06310
+No gene name	E5E91_06310
+No gene name	E5E91_06315
+No gene name	E5E91_06315
+No gene name	E5E91_06320
+No gene name	E5E91_06320
+No gene name	E5E91_06325
+No gene name	E5E91_06325
+No gene name	E5E91_06330
+No gene name	E5E91_06330
+No gene name	E5E91_06335
+No gene name	E5E91_06335
+feoB	E5E91_06340
+feoB	E5E91_06340
+No gene name	E5E91_06345
+No gene name	E5E91_06345
+No gene name	E5E91_06350
+No gene name	E5E91_06350
+No gene name	E5E91_06355
+No gene name	E5E91_06355
+No gene name	E5E91_06360
+No gene name	E5E91_06360
+No gene name	E5E91_06365
+No gene name	E5E91_06365
+No gene name	E5E91_06370
+No gene name	E5E91_06370
+No gene name	E5E91_06375
+No gene name	E5E91_06375
+No gene name	E5E91_06380
+No gene name	E5E91_06380
+No gene name	E5E91_06385
+No gene name	E5E91_06385
+No gene name	E5E91_06390
+No gene name	E5E91_06390
+No gene name	E5E91_06395
+No gene name	E5E91_06395
+No gene name	E5E91_06400
+No gene name	E5E91_06400
+No gene name	E5E91_06405
+No gene name	E5E91_06405
+No gene name	E5E91_06410
+No gene name	E5E91_06410
+No gene name	E5E91_06415
+No gene name	E5E91_06415
+No gene name	E5E91_06420
+No gene name	E5E91_06420
+No gene name	E5E91_06425
+No gene name	E5E91_06425
+No gene name	E5E91_06430
+No gene name	E5E91_06430
+lysS	E5E91_06435
+lysS	E5E91_06435
+No gene name	E5E91_06440
+No gene name	E5E91_06440
+No gene name	E5E91_06445
+No gene name	E5E91_06445
+No gene name	E5E91_06450
+No gene name	E5E91_06450
+No gene name	E5E91_06455
+No gene name	E5E91_06455
+No gene name	E5E91_06460
+No gene name	E5E91_06460
+holA	E5E91_06465
+holA	E5E91_06465
+No gene name	E5E91_06470
+No gene name	E5E91_06470
+No gene name	E5E91_06475
+No gene name	E5E91_06475
+sucC	E5E91_06480
+sucC	E5E91_06480
+sucD	E5E91_06485
+sucD	E5E91_06485
+No gene name	E5E91_06490
+No gene name	E5E91_06490
+No gene name	E5E91_06495
+No gene name	E5E91_06495
+No gene name	E5E91_06500
+No gene name	E5E91_06500
+No gene name	E5E91_06505
+No gene name	E5E91_06505
+No gene name	E5E91_06510
+No gene name	E5E91_06510
+No gene name	E5E91_06515
+No gene name	E5E91_06515
+No gene name	E5E91_06520
+No gene name	E5E91_06520
+No gene name	E5E91_06525
+No gene name	E5E91_06525
+No gene name	E5E91_06530
+No gene name	E5E91_06530
+No gene name	E5E91_06535
+No gene name	E5E91_06535
+No gene name	E5E91_06540
+No gene name	E5E91_06540
+No gene name	E5E91_06545
+No gene name	E5E91_06545
+No gene name	E5E91_06550
+No gene name	E5E91_06550
+No gene name	E5E91_06555
+No gene name	E5E91_06555
+No gene name	E5E91_06560
+No gene name	E5E91_06560
+No gene name	E5E91_06565
+No gene name	E5E91_06565
+No gene name	E5E91_06570
+No gene name	E5E91_06575
+No gene name	E5E91_06580
+No gene name	E5E91_06580
+No gene name	E5E91_06585
+No gene name	E5E91_06585
+No gene name	E5E91_06590
+No gene name	E5E91_06590
+No gene name	E5E91_06595
+No gene name	E5E91_06595
+No gene name	E5E91_06600
+No gene name	E5E91_06600
+asnS	E5E91_06605
+asnS	E5E91_06605
+No gene name	E5E91_06610
+No gene name	E5E91_06610
+No gene name	E5E91_06615
+No gene name	E5E91_06615
+No gene name	E5E91_06620
+No gene name	E5E91_06620
+No gene name	E5E91_06625
+No gene name	E5E91_06625
+ruvA	E5E91_06630
+ruvA	E5E91_06630
+gatC	E5E91_06635
+gatC	E5E91_06635
+serS	E5E91_06640
+serS	E5E91_06640
+No gene name	E5E91_06645
+No gene name	E5E91_06645
+No gene name	E5E91_06650
+No gene name	E5E91_06650
+No gene name	E5E91_06655
+No gene name	E5E91_06655
+No gene name	E5E91_06660
+No gene name	E5E91_06660
+No gene name	E5E91_06665
+No gene name	E5E91_06665
+No gene name	E5E91_06670
+No gene name	E5E91_06670
+No gene name	E5E91_06675
+No gene name	E5E91_06675
+No gene name	E5E91_06680
+No gene name	E5E91_06680
+No gene name	E5E91_06685
+No gene name	E5E91_06685
+No gene name	E5E91_06690
+No gene name	E5E91_06690
+No gene name	E5E91_06695
+No gene name	E5E91_06695
+recQ	E5E91_06700
+recQ	E5E91_06700
+No gene name	E5E91_06705
+No gene name	E5E91_06705
+No gene name	E5E91_06710
+No gene name	E5E91_06710
+No gene name	E5E91_06715
+No gene name	E5E91_06715
+No gene name	E5E91_06720
+No gene name	E5E91_06720
+rpsP	E5E91_06725
+rpsP	E5E91_06725
+No gene name	E5E91_06730
+No gene name	E5E91_06730
+No gene name	E5E91_06735
+No gene name	E5E91_06735
+No gene name	E5E91_06740
+No gene name	E5E91_06740
+No gene name	E5E91_06745
+No gene name	E5E91_06745
+No gene name	E5E91_06750
+No gene name	E5E91_06750
+No gene name	E5E91_06755
+No gene name	E5E91_06755
+No gene name	E5E91_06760
+No gene name	E5E91_06760
+No gene name	E5E91_06765
+No gene name	E5E91_06765
+No gene name	E5E91_06770
+No gene name	E5E91_06770
+No gene name	E5E91_06775
+No gene name	E5E91_06775
+No gene name	E5E91_06780
+No gene name	E5E91_06780
+No gene name	E5E91_06785
+No gene name	E5E91_06785
+No gene name	E5E91_06790
+No gene name	E5E91_06790
+No gene name	E5E91_06795
+No gene name	E5E91_06795
+No gene name	E5E91_06800
+No gene name	E5E91_06800
+recX	E5E91_06805
+recX	E5E91_06805
+No gene name	E5E91_06810
+map	E5E91_06815
+map	E5E91_06815
+No gene name	E5E91_06820
+No gene name	E5E91_06820
+No gene name	E5E91_06825
+No gene name	E5E91_06825
+No gene name	E5E91_06830
+No gene name	E5E91_06830
+No gene name	E5E91_06835
+No gene name	E5E91_06835
+No gene name	E5E91_06840
+No gene name	E5E91_06840
+No gene name	E5E91_06845
+No gene name	E5E91_06845
+No gene name	E5E91_06850
+No gene name	E5E91_06850
+No gene name	E5E91_06855
+No gene name	E5E91_06855
+No gene name	E5E91_06860
+No gene name	E5E91_06860
+lepB	E5E91_06865
+lepB	E5E91_06865
+No gene name	E5E91_06870
+No gene name	E5E91_06870
+truB	E5E91_06875
+truB	E5E91_06875
+No gene name	E5E91_06880
+No gene name	E5E91_06880
+No gene name	E5E91_06885
+No gene name	E5E91_06885
+No gene name	E5E91_06890
+No gene name	E5E91_06890
+No gene name	E5E91_06895
+No gene name	E5E91_06895
+No gene name	E5E91_06900
+No gene name	E5E91_06900
+No gene name	E5E91_06905
+No gene name	E5E91_06905
+No gene name	E5E91_06910
+No gene name	E5E91_06910
+No gene name	E5E91_06915
+No gene name	E5E91_06915
+nagZ	E5E91_06920
+nagZ	E5E91_06920
+No gene name	E5E91_06925
+No gene name	E5E91_06925
+benE	E5E91_06930
+benE	E5E91_06930
+fsa	E5E91_06935
+fsa	E5E91_06935
+No gene name	E5E91_06940
+No gene name	E5E91_06940
+No gene name	E5E91_06945
+No gene name	E5E91_06945
+No gene name	E5E91_06950
+No gene name	E5E91_06950
+No gene name	E5E91_06955
+No gene name	E5E91_06955
+pgk	E5E91_06960
+pgk	E5E91_06960
+gap	E5E91_06965
+gap	E5E91_06965
+No gene name	E5E91_06970
+No gene name	E5E91_06970
+No gene name	E5E91_06975
+No gene name	E5E91_06975
+aspS	E5E91_06980
+aspS	E5E91_06980
+No gene name	E5E91_06985
+No gene name	E5E91_06985
+No gene name	E5E91_06990
+No gene name	E5E91_06990
+No gene name	E5E91_06995
+No gene name	E5E91_06995
+No gene name	E5E91_07000
+No gene name	E5E91_07000
+No gene name	E5E91_07005
+No gene name	E5E91_07005
+lnt	E5E91_07010
+lnt	E5E91_07010
+uvrC	E5E91_07015
+uvrC	E5E91_07015
+No gene name	E5E91_07020
+No gene name	E5E91_07020
+No gene name	E5E91_07025
+No gene name	E5E91_07025
+No gene name	E5E91_07030
+No gene name	E5E91_07030
+No gene name	E5E91_07035
+No gene name	E5E91_07035
+No gene name	E5E91_07040
+No gene name	E5E91_07040
+No gene name	E5E91_07045
+No gene name	E5E91_07045
+No gene name	E5E91_07050
+No gene name	E5E91_07050
+No gene name	E5E91_07055
+No gene name	E5E91_07055
+No gene name	E5E91_07060
+No gene name	E5E91_07060
+No gene name	E5E91_07065
+No gene name	E5E91_07065
+No gene name	E5E91_07070
+No gene name	E5E91_07070
+pdxT	E5E91_07075
+pdxT	E5E91_07075
+pdxS	E5E91_07080
+pdxS	E5E91_07080
+No gene name	E5E91_07085
+No gene name	E5E91_07085
+No gene name	E5E91_07090
+No gene name	E5E91_07090
+No gene name	E5E91_07095
+No gene name	E5E91_07095
+No gene name	E5E91_07100
+No gene name	E5E91_07100
+No gene name	E5E91_07105
+No gene name	E5E91_07105
+No gene name	E5E91_07110
+No gene name	E5E91_07110
+topA	E5E91_07115
+topA	E5E91_07115
+No gene name	E5E91_07120
+No gene name	E5E91_07120
+No gene name	E5E91_07125
+No gene name	E5E91_07125
+hpt	E5E91_07130
+hpt	E5E91_07130
+No gene name	E5E91_07135
+No gene name	E5E91_07135
+No gene name	E5E91_07140
+No gene name	E5E91_07140
+No gene name	E5E91_07145
+No gene name	E5E91_07145
+No gene name	E5E91_07150
+No gene name	E5E91_07150
+No gene name	E5E91_07155
+No gene name	E5E91_07155
+No gene name	E5E91_07160
+No gene name	E5E91_07160
+No gene name	E5E91_07165
+No gene name	E5E91_07165
+ychF	E5E91_07170
+ychF	E5E91_07170
+No gene name	E5E91_07175
+No gene name	E5E91_07175
+No gene name	E5E91_07180
+No gene name	E5E91_07180
+No gene name	E5E91_07185
+No gene name	E5E91_07185
+No gene name	E5E91_07190
+No gene name	E5E91_07190
+No gene name	E5E91_07195
+No gene name	E5E91_07195
+No gene name	E5E91_07200
+No gene name	E5E91_07200
+No gene name	E5E91_07205
+No gene name	E5E91_07205
+No gene name	E5E91_07210
+No gene name	E5E91_07210
+No gene name	E5E91_07215
+No gene name	E5E91_07215
+No gene name	E5E91_07220
+No gene name	E5E91_07220
+No gene name	E5E91_07225
+No gene name	E5E91_07225
+No gene name	E5E91_07230
+No gene name	E5E91_07230
+No gene name	E5E91_07235
+No gene name	E5E91_07235
+No gene name	E5E91_07240
+No gene name	E5E91_07240
+rpe	E5E91_07245
+rpe	E5E91_07245
+No gene name	E5E91_07250
+No gene name	E5E91_07250
+No gene name	E5E91_07255
+No gene name	E5E91_07255
+No gene name	E5E91_07260
+No gene name	E5E91_07260
+No gene name	E5E91_07265
+No gene name	E5E91_07265
+No gene name	E5E91_07270
+No gene name	E5E91_07270
+No gene name	E5E91_07275
+No gene name	E5E91_07275
+No gene name	E5E91_07280
+No gene name	E5E91_07280
+nspC	E5E91_07285
+nspC	E5E91_07285
+No gene name	E5E91_07290
+No gene name	E5E91_07290
+No gene name	E5E91_07295
+No gene name	E5E91_07295
+No gene name	E5E91_07300
+No gene name	E5E91_07300
+No gene name	E5E91_07305
+No gene name	E5E91_07305
+No gene name	E5E91_07310
+No gene name	E5E91_07310
+No gene name	E5E91_07315
+No gene name	E5E91_07315
+No gene name	E5E91_07320
+No gene name	E5E91_07320
+No gene name	E5E91_07325
+No gene name	E5E91_07325
+No gene name	E5E91_07330
+No gene name	E5E91_07330
+No gene name	E5E91_07335
+No gene name	E5E91_07335
+No gene name	E5E91_07340
+No gene name	E5E91_07340
+No gene name	E5E91_07345
+No gene name	E5E91_07345
+No gene name	E5E91_07350
+No gene name	E5E91_07350
+dnaJ	E5E91_07355
+dnaJ	E5E91_07355
+No gene name	E5E91_07360
+No gene name	E5E91_07360
+trpC	E5E91_07365
+trpC	E5E91_07365
+lepB	E5E91_07370
+lepB	E5E91_07370
+No gene name	E5E91_07375
+No gene name	E5E91_07375
+No gene name	E5E91_07380
+No gene name	E5E91_07380
+No gene name	E5E91_07385
+No gene name	E5E91_07385
+purD	E5E91_07390
+purD	E5E91_07390
+No gene name	E5E91_07395
+No gene name	E5E91_07395
+metG	E5E91_07400
+metG	E5E91_07400
+No gene name	E5E91_07405
+No gene name	E5E91_07405
+rapZ	E5E91_07410
+rapZ	E5E91_07410
+No gene name	E5E91_07415
+No gene name	E5E91_07415
+No gene name	E5E91_07420
+No gene name	E5E91_07420
+No gene name	E5E91_07425
+No gene name	E5E91_07425
+No gene name	E5E91_07430
+No gene name	E5E91_07430
+No gene name	E5E91_07435
+No gene name	E5E91_07435
+No gene name	E5E91_07440
+No gene name	E5E91_07440
+No gene name	E5E91_07445
+No gene name	E5E91_07445
+No gene name	E5E91_07450
+No gene name	E5E91_07450
+No gene name	E5E91_07455
+No gene name	E5E91_07455
+No gene name	E5E91_07460
+No gene name	E5E91_07460
+No gene name	E5E91_07465
+No gene name	E5E91_07465
+No gene name	E5E91_07470
+No gene name	E5E91_07470
+No gene name	E5E91_07475
+No gene name	E5E91_07475
+No gene name	E5E91_07480
+No gene name	E5E91_07480
+No gene name	E5E91_07485
+No gene name	E5E91_07485
+No gene name	E5E91_07490
+No gene name	E5E91_07490
+No gene name	E5E91_07495
+No gene name	E5E91_07495
+No gene name	E5E91_07500
+No gene name	E5E91_07500
+No gene name	E5E91_07505
+No gene name	E5E91_07505
+No gene name	E5E91_07510
+No gene name	E5E91_07510
+No gene name	E5E91_07515
+No gene name	E5E91_07515
+No gene name	E5E91_07520
+No gene name	E5E91_07520
+No gene name	E5E91_07525
+No gene name	E5E91_07525
+No gene name	E5E91_07530
+No gene name	E5E91_07530
+queG	E5E91_07535
+queG	E5E91_07535
+No gene name	E5E91_07540
+No gene name	E5E91_07540
+No gene name	E5E91_07545
+No gene name	E5E91_07545
+No gene name	E5E91_07550
+No gene name	E5E91_07550
+No gene name	E5E91_07555
+No gene name	E5E91_07555
+No gene name	E5E91_07560
+No gene name	E5E91_07560
+No gene name	E5E91_07565
+No gene name	E5E91_07565
+No gene name	E5E91_07570
+No gene name	E5E91_07570
+No gene name	E5E91_07575
+No gene name	E5E91_07575
+No gene name	E5E91_07580
+No gene name	E5E91_07580
+smpB	E5E91_07585
+smpB	E5E91_07585
+No gene name	E5E91_07590
+No gene name	E5E91_07590
+No gene name	E5E91_07595
+No gene name	E5E91_07595
+No gene name	E5E91_07600
+No gene name	E5E91_07600
+No gene name	E5E91_07605
+No gene name	E5E91_07605
+No gene name	E5E91_07610
+No gene name	E5E91_07615
+No gene name	E5E91_07615
+No gene name	E5E91_07620
+No gene name	E5E91_07620
+dxs	E5E91_07625
+dxs	E5E91_07625
+No gene name	E5E91_07630
+No gene name	E5E91_07630
+recN	E5E91_07635
+recN	E5E91_07635
+No gene name	E5E91_07640
+No gene name	E5E91_07640
+No gene name	E5E91_07645
+No gene name	E5E91_07645
+No gene name	E5E91_07650
+No gene name	E5E91_07650
+No gene name	E5E91_07655
+No gene name	E5E91_07655
+No gene name	E5E91_07660
+No gene name	E5E91_07660
+No gene name	E5E91_07665
+No gene name	E5E91_07665
+No gene name	E5E91_07670
+No gene name	E5E91_07670
+No gene name	E5E91_07675
+No gene name	E5E91_07675
+No gene name	E5E91_07680
+No gene name	E5E91_07680
+No gene name	E5E91_07685
+No gene name	E5E91_07685
+No gene name	E5E91_07690
+No gene name	E5E91_07690
+No gene name	E5E91_07695
+No gene name	E5E91_07695
+No gene name	E5E91_07700
+No gene name	E5E91_07700
+No gene name	E5E91_07705
+No gene name	E5E91_07705
+No gene name	E5E91_07710
+No gene name	E5E91_07710
+No gene name	E5E91_07715
+No gene name	E5E91_07715
+nuoL	E5E91_07720
+nuoL	E5E91_07720
+nuoK	E5E91_07725
+nuoK	E5E91_07725
+No gene name	E5E91_07730
+No gene name	E5E91_07730
+nuoI	E5E91_07735
+nuoI	E5E91_07735
+nuoH	E5E91_07740
+nuoH	E5E91_07740
+No gene name	E5E91_07745
+No gene name	E5E91_07745
+No gene name	E5E91_07750
+No gene name	E5E91_07750
+nuoE	E5E91_07755
+nuoE	E5E91_07755
+No gene name	E5E91_07760
+No gene name	E5E91_07760
+No gene name	E5E91_07765
+No gene name	E5E91_07765
+No gene name	E5E91_07770
+No gene name	E5E91_07770
+No gene name	E5E91_07775
+No gene name	E5E91_07775
+No gene name	E5E91_07780
+No gene name	E5E91_07780
+No gene name	E5E91_07785
+No gene name	E5E91_07785
+No gene name	E5E91_07790
+No gene name	E5E91_07790
+No gene name	E5E91_07795
+No gene name	E5E91_07795
+No gene name	E5E91_07800
+No gene name	E5E91_07800
+No gene name	E5E91_07805
+No gene name	E5E91_07805
+No gene name	E5E91_07810
+No gene name	E5E91_07810
+rpsB	E5E91_07815
+rpsB	E5E91_07815
+No gene name	E5E91_07820
+No gene name	E5E91_07820
+No gene name	E5E91_07825
+No gene name	E5E91_07825
+ilvB	E5E91_07830
+ilvB	E5E91_07830
+ilvN	E5E91_07835
+ilvN	E5E91_07835
+No gene name	E5E91_07840
+No gene name	E5E91_07840
+ilvC	E5E91_07845
+ilvC	E5E91_07845
+No gene name	E5E91_07850
+No gene name	E5E91_07850
+No gene name	E5E91_07855
+No gene name	E5E91_07855
+proC	E5E91_07860
+proC	E5E91_07860
+No gene name	E5E91_07865
+No gene name	E5E91_07865
+No gene name	E5E91_07870
+No gene name	E5E91_07870
+No gene name	E5E91_07875
+No gene name	E5E91_07875
+rsmA	E5E91_07880
+rsmA	E5E91_07880
+No gene name	E5E91_07885
+No gene name	E5E91_07885
+No gene name	E5E91_07890
+No gene name	E5E91_07890
+No gene name	E5E91_07895
+No gene name	E5E91_07895
+No gene name	E5E91_07900
+No gene name	E5E91_07900
+No gene name	E5E91_07905
+No gene name	E5E91_07905
+No gene name	E5E91_07910
+No gene name	E5E91_07910
+No gene name	E5E91_07915
+No gene name	E5E91_07915
+No gene name	E5E91_07920
+No gene name	E5E91_07920
+No gene name	E5E91_07925
+No gene name	E5E91_07925
+No gene name	E5E91_07930
+No gene name	E5E91_07930
+No gene name	E5E91_07935
+No gene name	E5E91_07935
+No gene name	E5E91_07940
+No gene name	E5E91_07940
+No gene name	E5E91_07945
+No gene name	E5E91_07945
+No gene name	E5E91_07950
+No gene name	E5E91_07950
+No gene name	E5E91_07955
+No gene name	E5E91_07955
+No gene name	E5E91_07960
+No gene name	E5E91_07960
+No gene name	E5E91_07965
+No gene name	E5E91_07965
+No gene name	E5E91_07970
+No gene name	E5E91_07970
+No gene name	E5E91_07975
+No gene name	E5E91_07975
+No gene name	E5E91_07980
+No gene name	E5E91_07980
+No gene name	E5E91_07985
+No gene name	E5E91_07985
+No gene name	E5E91_07990
+No gene name	E5E91_07990
+No gene name	E5E91_07995
+No gene name	E5E91_07995
+No gene name	E5E91_08000
+No gene name	E5E91_08000
+No gene name	E5E91_08005
+No gene name	E5E91_08005
+ftsE	E5E91_08010
+ftsE	E5E91_08010
+No gene name	E5E91_08015
+No gene name	E5E91_08015
+No gene name	E5E91_08020
+No gene name	E5E91_08020
+No gene name	E5E91_08025
+No gene name	E5E91_08025
+No gene name	E5E91_08030
+No gene name	E5E91_08030
+bshA	E5E91_08035
+bshA	E5E91_08035
+No gene name	E5E91_08040
+No gene name	E5E91_08040
+No gene name	E5E91_08045
+No gene name	E5E91_08045
+No gene name	E5E91_08050
+No gene name	E5E91_08050
+No gene name	E5E91_08055
+No gene name	E5E91_08055
+No gene name	E5E91_08060
+No gene name	E5E91_08060
+No gene name	E5E91_08065
+No gene name	E5E91_08065
+No gene name	E5E91_08070
+No gene name	E5E91_08070
+upp	E5E91_08075
+upp	E5E91_08075
+No gene name	E5E91_08080
+No gene name	E5E91_08080
+No gene name	E5E91_08085
+No gene name	E5E91_08085
+No gene name	E5E91_08090
+No gene name	E5E91_08090
+No gene name	E5E91_08095
+No gene name	E5E91_08095
+No gene name	E5E91_08100
+No gene name	E5E91_08100
+No gene name	E5E91_08105
+No gene name	E5E91_08105
+No gene name	E5E91_08110
+No gene name	E5E91_08110
+No gene name	E5E91_08115
+No gene name	E5E91_08115
+No gene name	E5E91_08120
+No gene name	E5E91_08120
+No gene name	E5E91_08125
+No gene name	E5E91_08125
+No gene name	E5E91_08130
+No gene name	E5E91_08130
+No gene name	E5E91_08135
+No gene name	E5E91_08135
+No gene name	E5E91_08140
+No gene name	E5E91_08140
+queA	E5E91_08145
+queA	E5E91_08145
+No gene name	E5E91_08150
+No gene name	E5E91_08150
+No gene name	E5E91_08155
+No gene name	E5E91_08155
+No gene name	E5E91_08160
+No gene name	E5E91_08160
+No gene name	E5E91_08165
+No gene name	E5E91_08165
+No gene name	E5E91_08170
+No gene name	E5E91_08170
+No gene name	E5E91_08175
+No gene name	E5E91_08175
+No gene name	E5E91_08180
+No gene name	E5E91_08180
+No gene name	E5E91_08185
+No gene name	E5E91_08185
+No gene name	E5E91_08190
+No gene name	E5E91_08190
+No gene name	E5E91_08195
+No gene name	E5E91_08195
+No gene name	E5E91_08200
+No gene name	E5E91_08200
+No gene name	E5E91_08205
+No gene name	E5E91_08205
+fba	E5E91_08210
+fba	E5E91_08210
+No gene name	E5E91_08215
+No gene name	E5E91_08215
+No gene name	E5E91_08220
+No gene name	E5E91_08220
+No gene name	E5E91_08225
+No gene name	E5E91_08225
+gnd	E5E91_08230
+gnd	E5E91_08230
+No gene name	E5E91_08235
+No gene name	E5E91_08235
+No gene name	E5E91_08240
+No gene name	E5E91_08240
+No gene name	E5E91_08245
+No gene name	E5E91_08245
+No gene name	E5E91_08250
+No gene name	E5E91_08250
+No gene name	E5E91_08255
+No gene name	E5E91_08255
+No gene name	E5E91_08260
+No gene name	E5E91_08260
+No gene name	E5E91_08265
+No gene name	E5E91_08265
+No gene name	E5E91_08270
+No gene name	E5E91_08270
+No gene name	E5E91_08275
+No gene name	E5E91_08275
+No gene name	E5E91_08280
+No gene name	E5E91_08280
+No gene name	E5E91_08285
+No gene name	E5E91_08285
+No gene name	E5E91_08290
+No gene name	E5E91_08290
+No gene name	E5E91_08295
+No gene name	E5E91_08295
+No gene name	E5E91_08300
+No gene name	E5E91_08300
+No gene name	E5E91_08305
+No gene name	E5E91_08305
+No gene name	E5E91_08310
+No gene name	E5E91_08310
+No gene name	E5E91_08315
+No gene name	E5E91_08315
+No gene name	E5E91_08320
+No gene name	E5E91_08320
+No gene name	E5E91_08325
+No gene name	E5E91_08325
+No gene name	E5E91_08330
+No gene name	E5E91_08330
+xpt	E5E91_08335
+xpt	E5E91_08335
+No gene name	E5E91_08340
+No gene name	E5E91_08340
+No gene name	E5E91_08345
+No gene name	E5E91_08345
+No gene name	E5E91_08350
+No gene name	E5E91_08350
+No gene name	E5E91_08355
+No gene name	E5E91_08355
+No gene name	E5E91_08360
+No gene name	E5E91_08360
+No gene name	E5E91_08365
+No gene name	E5E91_08365
+No gene name	E5E91_08370
+No gene name	E5E91_08370
+ilvE	E5E91_08375
+ilvE	E5E91_08375
+pepF	E5E91_08380
+pepF	E5E91_08380
+No gene name	E5E91_08385
+No gene name	E5E91_08385
+No gene name	E5E91_08390
+No gene name	E5E91_08390
+No gene name	E5E91_08395
+No gene name	E5E91_08395
+No gene name	E5E91_08400
+No gene name	E5E91_08405
+No gene name	E5E91_08405
+No gene name	E5E91_08410
+No gene name	E5E91_08410
+No gene name	E5E91_08415
+No gene name	E5E91_08415
+No gene name	E5E91_08420
+No gene name	E5E91_08420
+No gene name	E5E91_08425
+No gene name	E5E91_08425
+No gene name	E5E91_08430
+No gene name	E5E91_08430
+malQ	E5E91_08435
+malQ	E5E91_08435
+No gene name	E5E91_08440
+No gene name	E5E91_08440
+No gene name	E5E91_08445
+No gene name	E5E91_08445
+No gene name	E5E91_08450
+No gene name	E5E91_08450
+No gene name	E5E91_08455
+No gene name	E5E91_08455
+No gene name	E5E91_08460
+No gene name	E5E91_08460
+No gene name	E5E91_08465
+No gene name	E5E91_08465
+No gene name	E5E91_08470
+No gene name	E5E91_08470
+No gene name	E5E91_08475
+No gene name	E5E91_08475
+bshC	E5E91_08480
+bshC	E5E91_08480
+No gene name	E5E91_08485
+No gene name	E5E91_08485
+No gene name	E5E91_08490
+No gene name	E5E91_08490
+No gene name	E5E91_08495
+No gene name	E5E91_08495
+No gene name	E5E91_08500
+No gene name	E5E91_08500
+No gene name	E5E91_08505
+No gene name	E5E91_08505
+No gene name	E5E91_08510
+No gene name	E5E91_08510
+No gene name	E5E91_08515
+No gene name	E5E91_08515
+No gene name	E5E91_08520
+No gene name	E5E91_08520
+No gene name	E5E91_08525
+No gene name	E5E91_08525
+No gene name	E5E91_08530
+No gene name	E5E91_08530
+No gene name	E5E91_08535
+No gene name	E5E91_08535
+No gene name	E5E91_08540
+No gene name	E5E91_08540
+No gene name	E5E91_08545
+No gene name	E5E91_08545
+No gene name	E5E91_08550
+No gene name	E5E91_08550
+No gene name	E5E91_08555
+No gene name	E5E91_08555
+No gene name	E5E91_08560
+No gene name	E5E91_08560
+mqnB	E5E91_08565
+mqnB	E5E91_08565
+No gene name	E5E91_08570
+No gene name	E5E91_08570
+No gene name	E5E91_08575
+No gene name	E5E91_08575
+No gene name	E5E91_08580
+No gene name	E5E91_08580
+No gene name	E5E91_08585
+No gene name	E5E91_08585
+No gene name	E5E91_08590
+No gene name	E5E91_08590
+No gene name	E5E91_08595
+No gene name	E5E91_08595
+No gene name	E5E91_08600
+No gene name	E5E91_08600
+No gene name	E5E91_08605
+No gene name	E5E91_08605
+No gene name	E5E91_08610
+No gene name	E5E91_08610
+No gene name	E5E91_08615
+No gene name	E5E91_08615
+No gene name	E5E91_08620
+No gene name	E5E91_08620
+No gene name	E5E91_08625
+No gene name	E5E91_08625
+No gene name	E5E91_08630
+No gene name	E5E91_08630
+No gene name	E5E91_08635
+No gene name	E5E91_08635
+No gene name	E5E91_08640
+No gene name	E5E91_08640
+No gene name	E5E91_08645
+No gene name	E5E91_08645
+No gene name	E5E91_08650
+No gene name	E5E91_08650
+No gene name	E5E91_08655
+No gene name	E5E91_08655
+No gene name	E5E91_08660
+No gene name	E5E91_08660
+No gene name	E5E91_08665
+No gene name	E5E91_08665
+No gene name	E5E91_08670
+No gene name	E5E91_08670
+No gene name	E5E91_08675
+No gene name	E5E91_08675
+No gene name	E5E91_08680
+No gene name	E5E91_08680
+No gene name	E5E91_08685
+No gene name	E5E91_08685
+glgC	E5E91_08690
+glgC	E5E91_08690
+miaA	E5E91_08695
+miaA	E5E91_08695
+No gene name	E5E91_08700
+No gene name	E5E91_08700
+No gene name	E5E91_08705
+No gene name	E5E91_08705
+No gene name	E5E91_08710
+No gene name	E5E91_08710
+No gene name	E5E91_08715
+No gene name	E5E91_08715
+No gene name	E5E91_08720
+No gene name	E5E91_08720
+No gene name	E5E91_08725
+No gene name	E5E91_08725
+No gene name	E5E91_08730
+No gene name	E5E91_08730
+dusA	E5E91_08735
+dusA	E5E91_08735
+No gene name	E5E91_08740
+No gene name	E5E91_08740
+No gene name	E5E91_08745
+No gene name	E5E91_08745
+No gene name	E5E91_08750
+No gene name	E5E91_08750
+No gene name	E5E91_08755
+No gene name	E5E91_08755
+No gene name	E5E91_08760
+No gene name	E5E91_08760
+No gene name	E5E91_08765
+No gene name	E5E91_08765
+argJ	E5E91_08770
+argJ	E5E91_08770
+No gene name	E5E91_08775
+No gene name	E5E91_08775
+No gene name	E5E91_08780
+No gene name	E5E91_08780
+polA	E5E91_08785
+polA	E5E91_08785
+No gene name	E5E91_08790
+No gene name	E5E91_08790
+No gene name	E5E91_08795
+No gene name	E5E91_08795
+No gene name	E5E91_08800
+No gene name	E5E91_08800
+No gene name	E5E91_08805
+No gene name	E5E91_08805
+No gene name	E5E91_08810
+No gene name	E5E91_08810
+aat	E5E91_08815
+aat	E5E91_08815
+No gene name	E5E91_08820
+No gene name	E5E91_08820
+No gene name	E5E91_08825
+No gene name	E5E91_08825
+No gene name	E5E91_08830
+No gene name	E5E91_08830
+No gene name	E5E91_08835
+No gene name	E5E91_08835
+No gene name	E5E91_08840
+No gene name	E5E91_08840
+No gene name	E5E91_08845
+No gene name	E5E91_08845
+acnA	E5E91_08850
+acnA	E5E91_08850
+No gene name	E5E91_08855
+No gene name	E5E91_08855
+No gene name	E5E91_08860
+No gene name	E5E91_08860
+No gene name	E5E91_08865
+No gene name	E5E91_08865
+No gene name	E5E91_08870
+No gene name	E5E91_08870
+No gene name	E5E91_08875
+No gene name	E5E91_08875
+No gene name	E5E91_08880
+No gene name	E5E91_08880
+No gene name	E5E91_08885
+No gene name	E5E91_08885
+ppsA	E5E91_08890
+ppsA	E5E91_08890
+No gene name	E5E91_08895
+No gene name	E5E91_08895
+No gene name	E5E91_08900
+No gene name	E5E91_08900
+glcF	E5E91_08905
+glcF	E5E91_08905
+No gene name	E5E91_08910
+No gene name	E5E91_08910
+No gene name	E5E91_08915
+No gene name	E5E91_08915
+No gene name	E5E91_08920
+No gene name	E5E91_08920
+No gene name	E5E91_08925
+No gene name	E5E91_08925
+No gene name	E5E91_08930
+No gene name	E5E91_08930
+cpdB	E5E91_08935
+cpdB	E5E91_08935
+No gene name	E5E91_08940
+No gene name	E5E91_08940
+lepB	E5E91_08945
+lepB	E5E91_08945
+No gene name	E5E91_08950
+No gene name	E5E91_08950
+No gene name	E5E91_08955
+No gene name	E5E91_08955
+No gene name	E5E91_08960
+No gene name	E5E91_08960
+No gene name	E5E91_08965
+No gene name	E5E91_08965
+No gene name	E5E91_08970
+No gene name	E5E91_08970
+No gene name	E5E91_08975
+No gene name	E5E91_08975
+No gene name	E5E91_08980
+No gene name	E5E91_08980
+No gene name	E5E91_08985
+No gene name	E5E91_08985
+No gene name	E5E91_08990
+No gene name	E5E91_08990
+meaB	E5E91_08995
+meaB	E5E91_08995
+No gene name	E5E91_09000
+No gene name	E5E91_09000
+No gene name	E5E91_09005
+No gene name	E5E91_09005
+No gene name	E5E91_09010
+No gene name	E5E91_09010
+No gene name	E5E91_09015
+No gene name	E5E91_09015
+No gene name	E5E91_09020
+No gene name	E5E91_09020
+No gene name	E5E91_09025
+No gene name	E5E91_09025
+No gene name	E5E91_09030
+No gene name	E5E91_09035
+No gene name	E5E91_09035
+No gene name	E5E91_09040
+No gene name	E5E91_09040
+No gene name	E5E91_09045
+No gene name	E5E91_09045
+No gene name	E5E91_09050
+No gene name	E5E91_09050
+No gene name	E5E91_09055
+No gene name	E5E91_09055
+lysA	E5E91_09060
+lysA	E5E91_09060
+mnmA	E5E91_09065
+mnmA	E5E91_09065
+No gene name	E5E91_09070
+No gene name	E5E91_09070
+No gene name	E5E91_09075
+No gene name	E5E91_09075
+No gene name	E5E91_09080
+No gene name	E5E91_09080
+No gene name	E5E91_09085
+No gene name	E5E91_09085
+No gene name	E5E91_09090
+No gene name	E5E91_09090
+No gene name	E5E91_09095
+No gene name	E5E91_09095
+No gene name	E5E91_09100
+No gene name	E5E91_09100
+trpD	E5E91_09105
+trpD	E5E91_09105
+No gene name	E5E91_09110
+No gene name	E5E91_09110
+No gene name	E5E91_09115
+No gene name	E5E91_09115
+No gene name	E5E91_09120
+No gene name	E5E91_09120
+uvrA	E5E91_09125
+uvrA	E5E91_09125
+No gene name	E5E91_09130
+No gene name	E5E91_09130
+No gene name	E5E91_09135
+No gene name	E5E91_09135
+No gene name	E5E91_09140
+No gene name	E5E91_09140
+No gene name	E5E91_09145
+No gene name	E5E91_09145
+No gene name	E5E91_09150
+No gene name	E5E91_09150
+No gene name	E5E91_09155
+No gene name	E5E91_09155
+No gene name	E5E91_09160
+No gene name	E5E91_09160
+No gene name	E5E91_09165
+No gene name	E5E91_09165
+No gene name	E5E91_09170
+No gene name	E5E91_09170
+No gene name	E5E91_09175
+No gene name	E5E91_09175
+No gene name	E5E91_09180
+No gene name	E5E91_09180
+No gene name	E5E91_09185
+No gene name	E5E91_09185
+No gene name	E5E91_09190
+No gene name	E5E91_09190
+leuB	E5E91_09195
+leuB	E5E91_09195
+No gene name	E5E91_09200
+No gene name	E5E91_09200
+No gene name	E5E91_09205
+No gene name	E5E91_09205
+No gene name	E5E91_09210
+No gene name	E5E91_09210
+No gene name	E5E91_09215
+No gene name	E5E91_09215
+No gene name	E5E91_09220
+No gene name	E5E91_09220
+No gene name	E5E91_09225
+No gene name	E5E91_09225
+trpE	E5E91_09230
+trpE	E5E91_09230
+No gene name	E5E91_09235
+No gene name	E5E91_09235
+No gene name	E5E91_09240
+No gene name	E5E91_09240
+No gene name	E5E91_09245
+No gene name	E5E91_09245
+No gene name	E5E91_09250
+No gene name	E5E91_09250
+No gene name	E5E91_09255
+No gene name	E5E91_09255
+rimP	E5E91_09260
+rimP	E5E91_09260
+nusA	E5E91_09265
+nusA	E5E91_09265
+No gene name	E5E91_09270
+No gene name	E5E91_09270
+infB	E5E91_09275
+infB	E5E91_09275
+No gene name	E5E91_09280
+No gene name	E5E91_09280
+No gene name	E5E91_09285
+No gene name	E5E91_09285
+No gene name	E5E91_09290
+No gene name	E5E91_09290
+No gene name	E5E91_09295
+No gene name	E5E91_09295
+No gene name	E5E91_09300
+No gene name	E5E91_09300
+No gene name	E5E91_09305
+No gene name	E5E91_09305
+No gene name	E5E91_09310
+No gene name	E5E91_09310
+No gene name	E5E91_09315
+No gene name	E5E91_09315
+No gene name	E5E91_09320
+No gene name	E5E91_09320
+No gene name	E5E91_09325
+No gene name	E5E91_09325
+No gene name	E5E91_09330
+No gene name	E5E91_09330
+gcvH	E5E91_09335
+gcvH	E5E91_09335
+gcvT	E5E91_09340
+gcvT	E5E91_09340
+No gene name	E5E91_09345
+No gene name	E5E91_09345
+No gene name	E5E91_09350
+No gene name	E5E91_09350
+No gene name	E5E91_09355
+No gene name	E5E91_09355
+No gene name	E5E91_09360
+No gene name	E5E91_09360
+No gene name	E5E91_09365
+No gene name	E5E91_09365
+No gene name	E5E91_09370
+No gene name	E5E91_09370
+No gene name	E5E91_09375
+No gene name	E5E91_09375
+uvsE	E5E91_09380
+uvsE	E5E91_09380
+No gene name	E5E91_09385
+No gene name	E5E91_09385
+No gene name	E5E91_09390
+No gene name	E5E91_09390
+secD	E5E91_09395
+secD	E5E91_09395
+No gene name	E5E91_09400
+No gene name	E5E91_09400
+No gene name	E5E91_09405
+No gene name	E5E91_09405
+secG	E5E91_09410
+secG	E5E91_09410
+No gene name	E5E91_09415
+No gene name	E5E91_09415
+No gene name	E5E91_09420
+No gene name	E5E91_09420
+proB	E5E91_09425
+proB	E5E91_09425
+No gene name	E5E91_09430
+No gene name	E5E91_09430
+No gene name	E5E91_09435
+No gene name	E5E91_09435
+No gene name	E5E91_09440
+No gene name	E5E91_09440
+No gene name	E5E91_09445
+No gene name	E5E91_09445
+No gene name	E5E91_09450
+No gene name	E5E91_09450
+No gene name	E5E91_09455
+No gene name	E5E91_09455
+No gene name	E5E91_09460
+No gene name	E5E91_09460
+No gene name	E5E91_09465
+No gene name	E5E91_09465
+ffh	E5E91_09470
+ffh	E5E91_09470
+No gene name	E5E91_09475
+No gene name	E5E91_09475
+No gene name	E5E91_09480
+No gene name	E5E91_09480
+No gene name	E5E91_09485
+No gene name	E5E91_09485
+No gene name	E5E91_09490
+No gene name	E5E91_09490
+No gene name	E5E91_09495
+No gene name	E5E91_09495
+No gene name	E5E91_09500
+No gene name	E5E91_09500
+No gene name	E5E91_09505
+No gene name	E5E91_09505
+No gene name	E5E91_09510
+No gene name	E5E91_09510
+No gene name	E5E91_09515
+No gene name	E5E91_09515
+No gene name	E5E91_09520
+No gene name	E5E91_09520
+No gene name	E5E91_09525
+No gene name	E5E91_09525
+No gene name	E5E91_09530
+No gene name	E5E91_09530
+No gene name	E5E91_09535
+No gene name	E5E91_09535
+No gene name	E5E91_09540
+No gene name	E5E91_09540
+No gene name	E5E91_09545
+No gene name	E5E91_09545
+No gene name	E5E91_09550
+No gene name	E5E91_09550
+No gene name	E5E91_09555
+No gene name	E5E91_09555
+No gene name	E5E91_09560
+No gene name	E5E91_09560
+No gene name	E5E91_09565
+No gene name	E5E91_09565
+No gene name	E5E91_09570
+No gene name	E5E91_09570
+No gene name	E5E91_09575
+No gene name	E5E91_09575
+No gene name	E5E91_09580
+No gene name	E5E91_09580
+gatA	E5E91_09585
+gatA	E5E91_09585
+No gene name	E5E91_09590
+No gene name	E5E91_09590
+No gene name	E5E91_09595
+No gene name	E5E91_09595
+No gene name	E5E91_09600
+No gene name	E5E91_09600
+scpB	E5E91_09605
+scpB	E5E91_09605
+No gene name	E5E91_09610
+No gene name	E5E91_09610
+No gene name	E5E91_09615
+No gene name	E5E91_09615
+No gene name	E5E91_09620
+No gene name	E5E91_09620
+No gene name	E5E91_09625
+No gene name	E5E91_09625
+rsmH	E5E91_09630
+rsmH	E5E91_09630
+No gene name	E5E91_09635
+No gene name	E5E91_09635
+No gene name	E5E91_09640
+No gene name	E5E91_09640
+No gene name	E5E91_09645
+No gene name	E5E91_09645
+No gene name	E5E91_09650
+No gene name	E5E91_09650
+No gene name	E5E91_09655
+No gene name	E5E91_09655
+No gene name	E5E91_09660
+No gene name	E5E91_09660
+No gene name	E5E91_09665
+No gene name	E5E91_09665
+guaA	E5E91_09670
+guaA	E5E91_09670
+No gene name	E5E91_09675
+No gene name	E5E91_09675
+No gene name	E5E91_09680
+No gene name	E5E91_09680
+No gene name	E5E91_09685
+No gene name	E5E91_09685
+guaB	E5E91_09690
+guaB	E5E91_09690
+No gene name	E5E91_09695
+No gene name	E5E91_09695
+No gene name	E5E91_09700
+No gene name	E5E91_09700
+No gene name	E5E91_09705
+No gene name	E5E91_09705
+No gene name	E5E91_09710
+No gene name	E5E91_09710
+No gene name	E5E91_09715
+No gene name	E5E91_09715
+No gene name	E5E91_09720
+No gene name	E5E91_09720
+No gene name	E5E91_09725
+No gene name	E5E91_09725
+No gene name	E5E91_09730
+No gene name	E5E91_09730
+No gene name	E5E91_09735
+No gene name	E5E91_09735
+No gene name	E5E91_09740
+No gene name	E5E91_09740
+No gene name	E5E91_09745
+No gene name	E5E91_09745
+No gene name	E5E91_09750
+No gene name	E5E91_09750
+No gene name	E5E91_09755
+No gene name	E5E91_09755
+No gene name	E5E91_09760
+No gene name	E5E91_09760
+No gene name	E5E91_09765
+No gene name	E5E91_09765
+No gene name	E5E91_09770
+No gene name	E5E91_09770
+No gene name	E5E91_09775
+No gene name	E5E91_09775
+ald	E5E91_09780
+ald	E5E91_09780
+No gene name	E5E91_09785
+No gene name	E5E91_09785
+No gene name	E5E91_09790
+No gene name	E5E91_09790
+No gene name	E5E91_09795
+No gene name	E5E91_09795
+No gene name	E5E91_09800
+No gene name	E5E91_09800
+No gene name	E5E91_09805
+No gene name	E5E91_09805
+No gene name	E5E91_09810
+No gene name	E5E91_09810
+No gene name	E5E91_09815
+No gene name	E5E91_09815
+No gene name	E5E91_09820
+No gene name	E5E91_09820
+No gene name	E5E91_09825
+No gene name	E5E91_09825
+No gene name	E5E91_09830
+No gene name	E5E91_09830
+No gene name	E5E91_09835
+No gene name	E5E91_09835
+No gene name	E5E91_09840
+No gene name	E5E91_09840
+No gene name	E5E91_09845
+No gene name	E5E91_09845
+No gene name	E5E91_09850
+No gene name	E5E91_09850
+No gene name	E5E91_09855
+No gene name	E5E91_09855
+No gene name	E5E91_09860
+No gene name	E5E91_09860
+No gene name	E5E91_09865
+No gene name	E5E91_09865
+No gene name	E5E91_09870
+No gene name	E5E91_09870
+gyrA	E5E91_09875
+gyrA	E5E91_09875
+No gene name	E5E91_09880
+No gene name	E5E91_09880
+No gene name	E5E91_09885
+No gene name	E5E91_09885
+recG	E5E91_09890
+recG	E5E91_09890
+No gene name	E5E91_09895
+No gene name	E5E91_09895
+No gene name	E5E91_09900
+No gene name	E5E91_09900
+No gene name	E5E91_09905
+No gene name	E5E91_09905
+No gene name	E5E91_09910
+No gene name	E5E91_09910
+No gene name	E5E91_09915
+No gene name	E5E91_09915
+No gene name	E5E91_09920
+No gene name	E5E91_09920
+No gene name	E5E91_09925
+No gene name	E5E91_09925
+No gene name	E5E91_09930
+No gene name	E5E91_09930
+No gene name	E5E91_09935
+No gene name	E5E91_09935
+No gene name	E5E91_09940
+No gene name	E5E91_09940
+No gene name	E5E91_09945
+No gene name	E5E91_09945
+No gene name	E5E91_09950
+No gene name	E5E91_09950
+No gene name	E5E91_09955
+No gene name	E5E91_09955
+No gene name	E5E91_09960
+No gene name	E5E91_09960
+No gene name	E5E91_09965
+No gene name	E5E91_09965
+No gene name	E5E91_09970
+No gene name	E5E91_09970
+No gene name	E5E91_09975
+No gene name	E5E91_09975
+No gene name	E5E91_09980
+No gene name	E5E91_09980
+ppk1	E5E91_09985
+ppk1	E5E91_09985
+No gene name	E5E91_09990
+No gene name	E5E91_09990
+fabF	E5E91_09995
+fabF	E5E91_09995
+acpP	E5E91_10000
+acpP	E5E91_10000
+fabG	E5E91_10005
+fabG	E5E91_10005
+No gene name	E5E91_10010
+No gene name	E5E91_10010
+fabD	E5E91_10015
+fabD	E5E91_10015
+No gene name	E5E91_10020
+No gene name	E5E91_10020
+No gene name	E5E91_10025
+No gene name	E5E91_10025
+tig	E5E91_10030
+tig	E5E91_10030
+No gene name	E5E91_10035
+No gene name	E5E91_10035
+No gene name	E5E91_10040
+No gene name	E5E91_10040
+No gene name	E5E91_10045
+No gene name	E5E91_10045
+No gene name	E5E91_10050
+No gene name	E5E91_10050
+No gene name	E5E91_10055
+No gene name	E5E91_10055
+No gene name	E5E91_10060
+No gene name	E5E91_10060
+No gene name	E5E91_10065
+No gene name	E5E91_10065
+No gene name	E5E91_10070
+No gene name	E5E91_10070
+No gene name	E5E91_10075
+No gene name	E5E91_10075
+No gene name	E5E91_10080
+No gene name	E5E91_10080
+No gene name	E5E91_10085
+No gene name	E5E91_10085
+No gene name	E5E91_10090
+No gene name	E5E91_10090
+No gene name	E5E91_10095
+No gene name	E5E91_10095
+No gene name	E5E91_10100
+No gene name	E5E91_10100
+No gene name	E5E91_10105
+No gene name	E5E91_10105
+No gene name	E5E91_10110
+No gene name	E5E91_10110
+No gene name	E5E91_10115
+No gene name	E5E91_10115
+No gene name	E5E91_10120
+No gene name	E5E91_10120
+pgeF	E5E91_10125
+pgeF	E5E91_10125
+No gene name	E5E91_10130
+No gene name	E5E91_10130
+No gene name	E5E91_10135
+No gene name	E5E91_10135
+No gene name	E5E91_10140
+No gene name	E5E91_10140
+No gene name	E5E91_10145
+No gene name	E5E91_10145
+No gene name	E5E91_10150
+No gene name	E5E91_10150
+No gene name	E5E91_10155
+No gene name	E5E91_10155
+clpX	E5E91_10160
+clpX	E5E91_10160
+lon	E5E91_10165
+lon	E5E91_10165
+No gene name	E5E91_10170
+No gene name	E5E91_10170
+No gene name	E5E91_10175
+No gene name	E5E91_10175
+No gene name	E5E91_10180
+No gene name	E5E91_10180
+No gene name	E5E91_10185
+No gene name	E5E91_10185
+No gene name	E5E91_10190
+No gene name	E5E91_10190
+No gene name	E5E91_10195
+No gene name	E5E91_10195
+No gene name	E5E91_10200
+No gene name	E5E91_10200
+trxB	E5E91_10205
+trxB	E5E91_10205
+No gene name	E5E91_10210
+No gene name	E5E91_10215
+No gene name	E5E91_10215
+No gene name	E5E91_10220
+No gene name	E5E91_10220
+No gene name	E5E91_10225
+No gene name	E5E91_10225
+No gene name	E5E91_10230
+No gene name	E5E91_10230
+No gene name	E5E91_10235
+No gene name	E5E91_10235
+No gene name	E5E91_10240
+No gene name	E5E91_10240
+No gene name	E5E91_10245
+No gene name	E5E91_10245
+No gene name	E5E91_10250
+No gene name	E5E91_10250
+truD	E5E91_10255
+truD	E5E91_10255
+No gene name	E5E91_10260
+No gene name	E5E91_10260
+No gene name	E5E91_10265
+No gene name	E5E91_10265
+No gene name	E5E91_10270
+No gene name	E5E91_10270
+No gene name	E5E91_10275
+No gene name	E5E91_10275
+plsX	E5E91_10280
+plsX	E5E91_10280
+No gene name	E5E91_10285
+No gene name	E5E91_10285
+No gene name	E5E91_10290
+No gene name	E5E91_10290
+No gene name	E5E91_10295
+No gene name	E5E91_10295
+No gene name	E5E91_10300
+No gene name	E5E91_10300
+No gene name	E5E91_10305
+No gene name	E5E91_10305
+No gene name	E5E91_10310
+No gene name	E5E91_10310
+No gene name	E5E91_10315
+No gene name	E5E91_10315
+rplT	E5E91_10320
+rplT	E5E91_10320
+rpmI	E5E91_10325
+rpmI	E5E91_10325
+No gene name	E5E91_10330
+No gene name	E5E91_10330
+No gene name	E5E91_10335
+No gene name	E5E91_10335
+No gene name	E5E91_10340
+No gene name	E5E91_10340
+No gene name	E5E91_10345
+No gene name	E5E91_10345
+No gene name	E5E91_10350
+No gene name	E5E91_10350
+trmD	E5E91_10355
+trmD	E5E91_10355
+No gene name	E5E91_10360
+No gene name	E5E91_10360
+glpX	E5E91_10365
+glpX	E5E91_10365
+No gene name	E5E91_10370
+No gene name	E5E91_10370
+No gene name	E5E91_10375
+No gene name	E5E91_10375
+No gene name	E5E91_10380
+No gene name	E5E91_10380
+No gene name	E5E91_10385
+No gene name	E5E91_10385
+No gene name	E5E91_10390
+No gene name	E5E91_10390
+No gene name	E5E91_10395
+No gene name	E5E91_10395
+No gene name	E5E91_10400
+No gene name	E5E91_10405
+No gene name	E5E91_10405
+No gene name	E5E91_10410
+No gene name	E5E91_10410
+No gene name	E5E91_10415
+No gene name	E5E91_10415
+No gene name	E5E91_10420
+No gene name	E5E91_10420
+No gene name	E5E91_10425
+No gene name	E5E91_10425
+No gene name	E5E91_10430
+No gene name	E5E91_10430
+No gene name	E5E91_10435
+No gene name	E5E91_10435
+No gene name	E5E91_10440
+No gene name	E5E91_10440
+No gene name	E5E91_10445
+No gene name	E5E91_10445
+No gene name	E5E91_10450
+No gene name	E5E91_10450
+No gene name	E5E91_10455
+No gene name	E5E91_10455
+No gene name	E5E91_10460
+No gene name	E5E91_10460
+No gene name	E5E91_10465
+No gene name	E5E91_10470
+No gene name	E5E91_10470
+No gene name	E5E91_10475
+No gene name	E5E91_10475
+No gene name	E5E91_10480
+No gene name	E5E91_10480
+No gene name	E5E91_10485
+No gene name	E5E91_10485
+No gene name	E5E91_10490
+No gene name	E5E91_10490
+No gene name	E5E91_10495
+No gene name	E5E91_10495
+treS	E5E91_10500
+treS	E5E91_10500
+No gene name	E5E91_10505
+No gene name	E5E91_10505
+No gene name	E5E91_10510
+No gene name	E5E91_10510
+No gene name	E5E91_10515
+No gene name	E5E91_10515
+No gene name	E5E91_10520
+No gene name	E5E91_10520
+No gene name	E5E91_10525
+No gene name	E5E91_10525
+No gene name	E5E91_10530
+No gene name	E5E91_10530
+No gene name	E5E91_10535
+No gene name	E5E91_10535
+No gene name	E5E91_10540
+No gene name	E5E91_10540
+rplK	E5E91_10545
+rplK	E5E91_10545
+No gene name	E5E91_10550
+No gene name	E5E91_10550
+secE	E5E91_10555
+secE	E5E91_10555
+rpmG	E5E91_10560
+rpmG	E5E91_10560
+tuf	E5E91_10565
+tuf	E5E91_10565
+No gene name	E5E91_10570
+No gene name	E5E91_10575
+No gene name	E5E91_10580
+No gene name	E5E91_10585
+No gene name	E5E91_10590
+No gene name	E5E91_10590
+No gene name	E5E91_10595
+No gene name	E5E91_10595
+No gene name	E5E91_10600
+No gene name	E5E91_10600
+No gene name	E5E91_10605
+No gene name	E5E91_10605
+No gene name	E5E91_10610
+No gene name	E5E91_10610
+No gene name	E5E91_10615
+No gene name	E5E91_10620
+No gene name	E5E91_10620
+No gene name	E5E91_10625
+No gene name	E5E91_10625
+No gene name	E5E91_10630
+No gene name	E5E91_10630
+No gene name	E5E91_10635
+No gene name	E5E91_10635
+No gene name	E5E91_10640
+No gene name	E5E91_10640
+No gene name	E5E91_10645
+No gene name	E5E91_10645
+No gene name	E5E91_10650
+No gene name	E5E91_10650
+pnp	E5E91_10655
+pnp	E5E91_10655
+No gene name	E5E91_10660
+No gene name	E5E91_10660
+No gene name	E5E91_10665
+No gene name	E5E91_10665
+No gene name	E5E91_10670
+No gene name	E5E91_10670
+nusB	E5E91_10675
+nusB	E5E91_10675
+No gene name	E5E91_10680
+No gene name	E5E91_10680
+ligA	E5E91_10685
+ligA	E5E91_10685
+No gene name	E5E91_10690
+No gene name	E5E91_10690
+No gene name	E5E91_10695
+No gene name	E5E91_10695
+No gene name	E5E91_10700
+No gene name	E5E91_10700
+No gene name	E5E91_10705
+No gene name	E5E91_10705
+No gene name	E5E91_10710
+No gene name	E5E91_10710
+No gene name	E5E91_10715
+No gene name	E5E91_10715
+No gene name	E5E91_10720
+No gene name	E5E91_10720
+No gene name	E5E91_10725
+No gene name	E5E91_10725
+No gene name	E5E91_10730
+No gene name	E5E91_10730
+No gene name	E5E91_10735
+No gene name	E5E91_10735
+No gene name	E5E91_10740
+No gene name	E5E91_10740
+thrS	E5E91_10745
+thrS	E5E91_10745
+No gene name	E5E91_10750
+No gene name	E5E91_10750
+No gene name	E5E91_10755
+No gene name	E5E91_10755
+No gene name	E5E91_10760
+No gene name	E5E91_10760
+No gene name	E5E91_10765
+No gene name	E5E91_10765
+No gene name	E5E91_10770
+No gene name	E5E91_10770
+No gene name	E5E91_10775
+No gene name	E5E91_10775
+No gene name	E5E91_10780
+No gene name	E5E91_10780
+No gene name	E5E91_10785
+No gene name	E5E91_10785
+No gene name	E5E91_10790
+No gene name	E5E91_10790
+No gene name	E5E91_10795
+No gene name	E5E91_10795
+ybeY	E5E91_10800
+ybeY	E5E91_10800
+No gene name	E5E91_10805
+No gene name	E5E91_10805
+No gene name	E5E91_10810
+No gene name	E5E91_10810
+No gene name	E5E91_10815
+No gene name	E5E91_10815
+No gene name	E5E91_10820
+No gene name	E5E91_10820
+No gene name	E5E91_10825
+No gene name	E5E91_10825
+No gene name	E5E91_10830
+No gene name	E5E91_10830
+No gene name	E5E91_10835
+No gene name	E5E91_10835
+No gene name	E5E91_10840
+No gene name	E5E91_10840
+sufD	E5E91_10845
+sufD	E5E91_10845
+No gene name	E5E91_10850
+No gene name	E5E91_10850
+No gene name	E5E91_10855
+No gene name	E5E91_10855
+No gene name	E5E91_10860
+No gene name	E5E91_10860
+No gene name	E5E91_10865
+No gene name	E5E91_10865
+sufB	E5E91_10870
+sufB	E5E91_10870
+sufC	E5E91_10875
+sufC	E5E91_10875
+No gene name	E5E91_10880
+No gene name	E5E91_10880
+No gene name	E5E91_10885
+rpsN	E5E91_10890
+rpsN	E5E91_10890
+rpsH	E5E91_10895
+rpsH	E5E91_10895
+No gene name	E5E91_10900
+No gene name	E5E91_10900
+No gene name	E5E91_10905
+No gene name	E5E91_10905
+No gene name	E5E91_10910
+No gene name	E5E91_10910
+rpmD	E5E91_10915
+rpmD	E5E91_10915
+No gene name	E5E91_10920
+No gene name	E5E91_10920
+secY	E5E91_10925
+secY	E5E91_10925
+No gene name	E5E91_10930
+No gene name	E5E91_10930
+No gene name	E5E91_10935
+No gene name	E5E91_10935
+No gene name	E5E91_10940
+No gene name	E5E91_10940
+No gene name	E5E91_10945
+No gene name	E5E91_10945
+No gene name	E5E91_10950
+No gene name	E5E91_10950
+No gene name	E5E91_10955
+No gene name	E5E91_10955
+infA	E5E91_10960
+infA	E5E91_10960
+rpmJ	E5E91_10965
+rpmJ	E5E91_10965
+rpsM	E5E91_10970
+rpsM	E5E91_10970
+rpsK	E5E91_10975
+rpsK	E5E91_10975
+rpsD	E5E91_10980
+rpsD	E5E91_10980
+No gene name	E5E91_10985
+No gene name	E5E91_10985
+No gene name	E5E91_10990
+No gene name	E5E91_10990
+No gene name	E5E91_10995
+No gene name	E5E91_10995
+No gene name	E5E91_11000
+No gene name	E5E91_11000
+No gene name	E5E91_11005
+No gene name	E5E91_11005
+No gene name	E5E91_11010
+No gene name	E5E91_11010
+lptB	E5E91_11015
+lptB	E5E91_11015
+No gene name	E5E91_11020
+No gene name	E5E91_11020
+No gene name	E5E91_11025
+No gene name	E5E91_11025
+No gene name	E5E91_11030
+No gene name	E5E91_11030
+No gene name	E5E91_11035
+No gene name	E5E91_11035
+No gene name	E5E91_11040
+No gene name	E5E91_11040
+hisD	E5E91_11045
+hisD	E5E91_11045
+No gene name	E5E91_11050
+No gene name	E5E91_11050
+No gene name	E5E91_11055
+No gene name	E5E91_11055
+No gene name	E5E91_11060
+No gene name	E5E91_11060
+No gene name	E5E91_11065
+No gene name	E5E91_11065
+No gene name	E5E91_11070
+No gene name	E5E91_11070
+No gene name	E5E91_11075
+No gene name	E5E91_11075
+No gene name	E5E91_11080
+No gene name	E5E91_11080
+No gene name	E5E91_11085
+No gene name	E5E91_11085
+yidC	E5E91_11090
+yidC	E5E91_11090
+yidD	E5E91_11095
+yidD	E5E91_11095
+rnpA	E5E91_11100
+rnpA	E5E91_11100
+No gene name	E5E91_11105
+No gene name	E5E91_11105
+No gene name	E5E91_11110
+No gene name	E5E91_11110
+No gene name	E5E91_11115
+No gene name	E5E91_11115
+No gene name	E5E91_11120
+No gene name	E5E91_11120
+No gene name	E5E91_11125
+No gene name	E5E91_11125
+No gene name	E5E91_11130
+No gene name	E5E91_11130
+No gene name	E5E91_11135
+No gene name	E5E91_11135
+No gene name	E5E91_11140
+No gene name	E5E91_11140
+hemB	E5E91_11145
+hemB	E5E91_11145
+No gene name	E5E91_11150
+No gene name	E5E91_11150
+No gene name	E5E91_11155
+No gene name	E5E91_11155
+No gene name	E5E91_11160
+No gene name	E5E91_11160
+ispH	E5E91_11165
+ispH	E5E91_11165
+No gene name	E5E91_11170
+No gene name	E5E91_11170
+No gene name	E5E91_11175
+No gene name	E5E91_11175
+deoD	E5E91_11180
+deoD	E5E91_11180
+No gene name	E5E91_11185
+No gene name	E5E91_11185
+No gene name	E5E91_11190
+No gene name	E5E91_11190
+No gene name	E5E91_11195
+No gene name	E5E91_11195
+No gene name	E5E91_11200
+No gene name	E5E91_11200
+No gene name	E5E91_11205
+No gene name	E5E91_11205
+No gene name	E5E91_11210
+No gene name	E5E91_11210
+No gene name	E5E91_11215
+No gene name	E5E91_11215
+No gene name	E5E91_11220
+No gene name	E5E91_11220
+No gene name	E5E91_11225
+No gene name	E5E91_11225
+No gene name	E5E91_11230
+No gene name	E5E91_11230
+No gene name	E5E91_11235
+No gene name	E5E91_11235
+cdd	E5E91_11240
+cdd	E5E91_11240
+No gene name	E5E91_11245
+No gene name	E5E91_11245
+No gene name	E5E91_11250
+No gene name	E5E91_11250
+No gene name	E5E91_11255
+No gene name	E5E91_11255
+No gene name	E5E91_11260
+No gene name	E5E91_11260
+No gene name	E5E91_11265
+No gene name	E5E91_11265
+No gene name	E5E91_11270
+No gene name	E5E91_11270
+No gene name	E5E91_11275
+No gene name	E5E91_11275
+No gene name	E5E91_11280
+No gene name	E5E91_11285
+No gene name	E5E91_11290
+No gene name	E5E91_11295
+No gene name	E5E91_11295
+No gene name	E5E91_11300
+No gene name	E5E91_11300
+No gene name	E5E91_11305
+No gene name	E5E91_11305
+No gene name	E5E91_11310
+No gene name	E5E91_11310
+No gene name	E5E91_11315
+No gene name	E5E91_11320
+No gene name	E5E91_11320
+No gene name	E5E91_11325
+No gene name	E5E91_11325
+No gene name	E5E91_11330
+No gene name	E5E91_11330
+No gene name	E5E91_11335
+No gene name	E5E91_11335
+lysW	E5E91_11340
+lysW	E5E91_11340
+lysX	E5E91_11345
+lysX	E5E91_11345
+No gene name	E5E91_11350
+No gene name	E5E91_11350
+No gene name	E5E91_11355
+No gene name	E5E91_11355
+No gene name	E5E91_11360
+No gene name	E5E91_11360
+No gene name	E5E91_11365
+No gene name	E5E91_11365
+No gene name	E5E91_11370
+No gene name	E5E91_11370
+No gene name	E5E91_11375
+No gene name	E5E91_11375
+pyrF	E5E91_11380
+pyrF	E5E91_11380
+No gene name	E5E91_11385
+No gene name	E5E91_11385
+galE	E5E91_11390
+galE	E5E91_11390
+No gene name	E5E91_11395
+No gene name	E5E91_11395
+No gene name	E5E91_11400
+No gene name	E5E91_11400
+No gene name	E5E91_11405
+No gene name	E5E91_11405
+No gene name	E5E91_11410
+No gene name	E5E91_11410
+No gene name	E5E91_11415
+No gene name	E5E91_11415
+No gene name	E5E91_11420
+No gene name	E5E91_11420
+No gene name	E5E91_11425
+No gene name	E5E91_11425
+No gene name	E5E91_11430
+No gene name	E5E91_11430
+No gene name	E5E91_11435
+No gene name	E5E91_11435
+trmH	E5E91_11440
+trmH	E5E91_11440
+No gene name	E5E91_11445
+No gene name	E5E91_11445
+No gene name	E5E91_11450
+No gene name	E5E91_11450
+No gene name	E5E91_11455
+No gene name	E5E91_11455
+No gene name	E5E91_11460
+No gene name	E5E91_11460
+No gene name	E5E91_11465
+No gene name	E5E91_11465
+No gene name	E5E91_11470
+No gene name	E5E91_11470
+No gene name	E5E91_11475
+No gene name	E5E91_11475
+No gene name	E5E91_11480
+No gene name	E5E91_11480
+No gene name	E5E91_11485
+No gene name	E5E91_11485
+No gene name	E5E91_11490
+No gene name	E5E91_11490
+No gene name	E5E91_11495
+No gene name	E5E91_11495
+No gene name	E5E91_11500
+No gene name	E5E91_11500
+No gene name	E5E91_11505
+No gene name	E5E91_11505
+No gene name	E5E91_11510
+No gene name	E5E91_11510
+No gene name	E5E91_11515
+No gene name	E5E91_11515
+No gene name	E5E91_11520
+No gene name	E5E91_11520
+No gene name	E5E91_11525
+No gene name	E5E91_11525
+No gene name	E5E91_11530
+No gene name	E5E91_11530
+No gene name	E5E91_11535
+No gene name	E5E91_11535
+No gene name	E5E91_11540
+No gene name	E5E91_11540
+No gene name	E5E91_11545
+No gene name	E5E91_11545
+No gene name	E5E91_11550
+No gene name	E5E91_11550
+No gene name	E5E91_11555
+No gene name	E5E91_11555
+No gene name	E5E91_11560
+No gene name	E5E91_11560
+ffs	E5E91_11565
+No gene name	E5E91_11570
+No gene name	E5E91_11570
+No gene name	E5E91_11575
+No gene name	E5E91_11575
+No gene name	E5E91_11580
+No gene name	E5E91_11580
+No gene name	E5E91_11585
+No gene name	E5E91_11585
+No gene name	E5E91_11590
+No gene name	E5E91_11590
+No gene name	E5E91_11595
+No gene name	E5E91_11595
+No gene name	E5E91_11600
+No gene name	E5E91_11600
+phoU	E5E91_11605
+phoU	E5E91_11605
+No gene name	E5E91_11610
+No gene name	E5E91_11610
+No gene name	E5E91_11615
+No gene name	E5E91_11615
+No gene name	E5E91_11620
+No gene name	E5E91_11620
+No gene name	E5E91_11625
+No gene name	E5E91_11625
+No gene name	E5E91_11630
+No gene name	E5E91_11630
+No gene name	E5E91_11635
+No gene name	E5E91_11635
+No gene name	E5E91_11640
+No gene name	E5E91_11640
+No gene name	E5E91_11645
+No gene name	E5E91_11645
+No gene name	E5E91_11650
+rrf	E5E91_11655
+No gene name	E5E91_11660
+No gene name	E5E91_11665
+No gene name	E5E91_11665
+No gene name	E5E91_11670
+No gene name	E5E91_11670
+No gene name	E5E91_11675
+No gene name	E5E91_11675
+tkt	E5E91_11680
+tkt	E5E91_11680
+No gene name	E5E91_11685
+No gene name	E5E91_11685
+No gene name	E5E91_11690
+No gene name	E5E91_11690
+No gene name	E5E91_11695
+No gene name	E5E91_11695
+ftsY	E5E91_11700
+ftsY	E5E91_11700
+No gene name	E5E91_11705
+No gene name	E5E91_11705
+No gene name	E5E91_11710
+No gene name	E5E91_11710
+No gene name	E5E91_11715
+No gene name	E5E91_11715
+No gene name	E5E91_11720
+No gene name	E5E91_11720
+No gene name	E5E91_11725
+No gene name	E5E91_11725
+No gene name	E5E91_11730
+No gene name	E5E91_11730
+No gene name	E5E91_11735
+No gene name	E5E91_11735
+No gene name	E5E91_11740
+No gene name	E5E91_11740
+No gene name	E5E91_11745
+No gene name	E5E91_11745
+No gene name	E5E91_11750
+No gene name	E5E91_11750
+No gene name	E5E91_11755
+No gene name	E5E91_11755
+No gene name	E5E91_11760
+No gene name	E5E91_11760
+No gene name	E5E91_11765
+No gene name	E5E91_11765
+No gene name	E5E91_11770
+No gene name	E5E91_11770
+No gene name	E5E91_11775
+No gene name	E5E91_11775
+uvrB	E5E91_11780
+uvrB	E5E91_11780
+No gene name	E5E91_11785
+No gene name	E5E91_11785
+No gene name	E5E91_11790
+No gene name	E5E91_11790
+No gene name	E5E91_11795
+No gene name	E5E91_11795
+No gene name	E5E91_11800
+No gene name	E5E91_11800
+No gene name	E5E91_11805
+No gene name	E5E91_11805
+No gene name	E5E91_11810
+No gene name	E5E91_11810
+No gene name	E5E91_11815
+No gene name	E5E91_11815
+No gene name	E5E91_11820
+No gene name	E5E91_11820
+No gene name	E5E91_11825
+No gene name	E5E91_11825
+mutY	E5E91_11830
+mutY	E5E91_11830
+No gene name	E5E91_11835
+No gene name	E5E91_11835
+No gene name	E5E91_11840
+No gene name	E5E91_11840
+No gene name	E5E91_11845
+No gene name	E5E91_11850
+No gene name	E5E91_11850
+No gene name	E5E91_11855
+No gene name	E5E91_11855
+truA	E5E91_11860
+truA	E5E91_11860
+No gene name	E5E91_11865
+No gene name	E5E91_11865
+No gene name	E5E91_11870
+No gene name	E5E91_11870
+No gene name	E5E91_11875
+No gene name	E5E91_11875
+No gene name	E5E91_11880
+No gene name	E5E91_11880
+No gene name	E5E91_11885
+No gene name	E5E91_11885
+No gene name	E5E91_11890
+No gene name	E5E91_11890
+No gene name	E5E91_11895
+No gene name	E5E91_11895
+No gene name	E5E91_11900
+No gene name	E5E91_11900
+No gene name	E5E91_11905
+No gene name	E5E91_11905
+alaS	E5E91_11910
+alaS	E5E91_11910
+No gene name	E5E91_11915
+No gene name	E5E91_11915
+No gene name	E5E91_11920
+No gene name	E5E91_11920
+No gene name	E5E91_11925
+No gene name	E5E91_11925
+No gene name	E5E91_11930
+No gene name	E5E91_11930
+No gene name	E5E91_11935
+No gene name	E5E91_11935
+No gene name	E5E91_11940
+No gene name	E5E91_11940
+No gene name	E5E91_11945
+No gene name	E5E91_11945
+No gene name	E5E91_11950
+No gene name	E5E91_11950
+der	E5E91_11955
+der	E5E91_11955
+No gene name	E5E91_11960
+No gene name	E5E91_11960
+No gene name	E5E91_11965
+No gene name	E5E91_11965
+No gene name	E5E91_11970
+No gene name	E5E91_11970
+No gene name	E5E91_11975
+No gene name	E5E91_11975
+No gene name	E5E91_11980
+No gene name	E5E91_11980
+No gene name	E5E91_11985
+No gene name	E5E91_11985
+No gene name	E5E91_11990
+No gene name	E5E91_11990
+No gene name	E5E91_11995
+No gene name	E5E91_11995
+No gene name	E5E91_12000
+No gene name	E5E91_12000
+No gene name	E5E91_12005
+No gene name	E5E91_12005
+No gene name	E5E91_12010
+No gene name	E5E91_12010
+No gene name	E5E91_12015
+No gene name	E5E91_12015
+No gene name	E5E91_12020
+No gene name	E5E91_12020
+paaI	E5E91_12025
+paaI	E5E91_12025
+No gene name	E5E91_12030
+No gene name	E5E91_12030
+No gene name	E5E91_12035
+No gene name	E5E91_12035
+No gene name	E5E91_12040
+No gene name	E5E91_12040
+No gene name	E5E91_12045
+No gene name	E5E91_12045
+No gene name	E5E91_12050
+No gene name	E5E91_12050
+No gene name	E5E91_12055
+No gene name	E5E91_12055
+No gene name	E5E91_12060
+No gene name	E5E91_12060
+No gene name	E5E91_12065
+No gene name	E5E91_12065
+No gene name	E5E91_12070
+No gene name	E5E91_12070
+No gene name	E5E91_12075
+No gene name	E5E91_12075
+No gene name	E5E91_12080
+No gene name	E5E91_12080
+No gene name	E5E91_12085
+No gene name	E5E91_12085
+No gene name	E5E91_12090
+No gene name	E5E91_12090
+No gene name	E5E91_12095
+No gene name	E5E91_12095
+thpR	E5E91_12100
+thpR	E5E91_12100
+recA	E5E91_12105
+recA	E5E91_12105
+No gene name	E5E91_12110
+No gene name	E5E91_12110
+No gene name	E5E91_12115
+No gene name	E5E91_12115
+No gene name	E5E91_12120
+No gene name	E5E91_12120
+No gene name	E5E91_12125
+No gene name	E5E91_12125
+No gene name	E5E91_12130
+No gene name	E5E91_12130
+No gene name	E5E91_12135
+No gene name	E5E91_12135
+No gene name	E5E91_12140
+No gene name	E5E91_12140
+No gene name	E5E91_12145
+No gene name	E5E91_12145
+No gene name	E5E91_12150
+No gene name	E5E91_12150
+No gene name	E5E91_12155
+No gene name	E5E91_12155
+No gene name	E5E91_12160
+No gene name	E5E91_12160
+No gene name	E5E91_12165
+No gene name	E5E91_12165
+tsaE	E5E91_12170
+tsaE	E5E91_12170
+hemC	E5E91_12175
+hemC	E5E91_12175
+No gene name	E5E91_12180
+No gene name	E5E91_12180
+No gene name	E5E91_12185
+No gene name	E5E91_12185
+pheS	E5E91_12190
+pheS	E5E91_12190
+No gene name	E5E91_12195
+No gene name	E5E91_12195
+No gene name	E5E91_12200
+No gene name	E5E91_12200
+No gene name	E5E91_12205
+No gene name	E5E91_12205
+No gene name	E5E91_12210
+No gene name	E5E91_12210
+No gene name	E5E91_12215
+No gene name	E5E91_12215
+No gene name	E5E91_12220
+No gene name	E5E91_12220
+No gene name	E5E91_12225
+No gene name	E5E91_12225
+No gene name	E5E91_12230
+No gene name	E5E91_12230
+No gene name	E5E91_12235
+No gene name	E5E91_12235
+No gene name	E5E91_12240
+No gene name	E5E91_12240
+bshB1	E5E91_12245
+bshB1	E5E91_12245
+rpmF	E5E91_12250
+rpmF	E5E91_12250
+No gene name	E5E91_12255
+No gene name	E5E91_12255
+No gene name	E5E91_12260
+No gene name	E5E91_12260
+No gene name	E5E91_12265
+No gene name	E5E91_12265
+lpdA	E5E91_12270
+lpdA	E5E91_12270
+No gene name	E5E91_12275
+No gene name	E5E91_12275
+No gene name	E5E91_12280
+No gene name	E5E91_12280
+No gene name	E5E91_12285
+No gene name	E5E91_12285
+No gene name	E5E91_12290
+No gene name	E5E91_12290
+No gene name	E5E91_12295
+No gene name	E5E91_12295
+No gene name	E5E91_12300
+No gene name	E5E91_12300
+No gene name	E5E91_12305
+No gene name	E5E91_12305
+No gene name	E5E91_12310
+No gene name	E5E91_12310
+No gene name	E5E91_12315
+No gene name	E5E91_12315
+No gene name	E5E91_12320
+No gene name	E5E91_12320
+No gene name	E5E91_12325
+No gene name	E5E91_12325
+paaZ	E5E91_12330
+paaZ	E5E91_12330
+No gene name	E5E91_12335
+No gene name	E5E91_12335
+paaJ	E5E91_12340
+paaJ	E5E91_12340
+paaI	E5E91_12345
+paaI	E5E91_12345
+No gene name	E5E91_12350
+No gene name	E5E91_12350
+paaG	E5E91_12355
+paaG	E5E91_12355
+No gene name	E5E91_12360
+No gene name	E5E91_12360
+No gene name	E5E91_12365
+No gene name	E5E91_12365
+No gene name	E5E91_12370
+No gene name	E5E91_12370
+No gene name	E5E91_12375
+No gene name	E5E91_12375
+No gene name	E5E91_12380
+No gene name	E5E91_12380
+No gene name	E5E91_12385
+No gene name	E5E91_12385
+No gene name	E5E91_12390
+No gene name	E5E91_12390
+No gene name	E5E91_12395
+No gene name	E5E91_12395
+No gene name	E5E91_12400
+No gene name	E5E91_12400
+No gene name	E5E91_12405
+No gene name	E5E91_12405
+surE	E5E91_12410
+surE	E5E91_12410
+No gene name	E5E91_12415
+No gene name	E5E91_12415
+No gene name	E5E91_12420
+No gene name	E5E91_12420
+No gene name	E5E91_12425
+No gene name	E5E91_12425
+No gene name	E5E91_12430
+No gene name	E5E91_12430
+No gene name	E5E91_12435
+No gene name	E5E91_12435
+No gene name	E5E91_12440
+No gene name	E5E91_12440
+No gene name	E5E91_12445
+No gene name	E5E91_12445
+No gene name	E5E91_12450
+No gene name	E5E91_12450
+No gene name	E5E91_12455
+No gene name	E5E91_12460
+No gene name	E5E91_12460
+No gene name	E5E91_12465
+No gene name	E5E91_12465
+No gene name	E5E91_12470
+No gene name	E5E91_12470
+No gene name	E5E91_12475
+No gene name	E5E91_12475
+No gene name	E5E91_12480
+No gene name	E5E91_12480
+dnaX	E5E91_12485
+dnaX	E5E91_12485
+No gene name	E5E91_12490
+No gene name	E5E91_12490
+chrA	E5E91_12495
+chrA	E5E91_12495
+No gene name	E5E91_12500
+No gene name	E5E91_12500
+No gene name	E5E91_12505
+No gene name	E5E91_12505
+No gene name	E5E91_12510
+No gene name	E5E91_12510
+No gene name	E5E91_12515
+No gene name	E5E91_12515
+No gene name	E5E91_12520
+No gene name	E5E91_12520
+No gene name	E5E91_12525
+No gene name	E5E91_12525
+No gene name	E5E91_12530
+No gene name	E5E91_12530
+No gene name	E5E91_12535
+No gene name	E5E91_12535
+mscL	E5E91_12540
+mscL	E5E91_12540
+No gene name	E5E91_12545
+No gene name	E5E91_12545
+No gene name	E5E91_12550
+No gene name	E5E91_12550
+No gene name	E5E91_12555
+No gene name	E5E91_12555
+No gene name	E5E91_12560
+No gene name	E5E91_12560
+No gene name	E5E91_12565
+No gene name	E5E91_12565
+No gene name	E5E91_12570
+No gene name	E5E91_12570
+No gene name	E5E91_12575
+No gene name	E5E91_12575
+No gene name	E5E91_12580
+No gene name	E5E91_12580
+No gene name	E5E91_12585
+No gene name	E5E91_12585
+No gene name	E5E91_12590
+No gene name	E5E91_12590
+No gene name	E5E91_12595
+No gene name	E5E91_12595
+No gene name	E5E91_12600
+No gene name	E5E91_12600
+No gene name	E5E91_12605
+No gene name	E5E91_12605
+No gene name	E5E91_12610
+No gene name	E5E91_12610
+No gene name	E5E91_12615
+No gene name	E5E91_12615
+No gene name	E5E91_12620
+No gene name	E5E91_12620
+No gene name	E5E91_12625
+No gene name	E5E91_12625
+No gene name	E5E91_12630
+No gene name	E5E91_12630
+No gene name	E5E91_12635
+No gene name	E5E91_12635
+No gene name	E5E91_12640
+No gene name	E5E91_12640
+argB	E5E91_12645
+argB	E5E91_12645
+No gene name	E5E91_12650
+No gene name	E5E91_12650
+No gene name	E5E91_12655
+No gene name	E5E91_12655
+No gene name	E5E91_12660
+No gene name	E5E91_12660
+No gene name	E5E91_12665
+No gene name	E5E91_12665
+No gene name	E5E91_12670
+No gene name	E5E91_12670
+No gene name	E5E91_12675
+No gene name	E5E91_12675
+No gene name	E5E91_12680
+No gene name	E5E91_12680
+No gene name	E5E91_12685
+No gene name	E5E91_12685
+No gene name	E5E91_12690
+No gene name	E5E91_12690
+No gene name	E5E91_12695
+No gene name	E5E91_12695
+No gene name	E5E91_12700
+No gene name	E5E91_12700
+No gene name	E5E91_12705
+No gene name	E5E91_12705
+No gene name	E5E91_12710
+No gene name	E5E91_12710
+No gene name	E5E91_12715
+No gene name	E5E91_12715
+No gene name	E5E91_12720
+No gene name	E5E91_12720
+No gene name	E5E91_12725
+No gene name	E5E91_12725
+No gene name	E5E91_12730
+No gene name	E5E91_12730
+No gene name	E5E91_12735
+No gene name	E5E91_12735
+No gene name	E5E91_12740
+No gene name	E5E91_12740
+rny	E5E91_12745
+rny	E5E91_12745
+No gene name	E5E91_12750
+No gene name	E5E91_12750
+No gene name	E5E91_12755
+No gene name	E5E91_12755
+No gene name	E5E91_12760
+No gene name	E5E91_12760
+No gene name	E5E91_12765
+No gene name	E5E91_12765
+No gene name	E5E91_12770
+No gene name	E5E91_12770
+No gene name	E5E91_12775
+No gene name	E5E91_12775
+No gene name	E5E91_12780
+No gene name	E5E91_12780
+No gene name	E5E91_12785
+No gene name	E5E91_12785
+acs	E5E91_12790
+acs	E5E91_12790
+No gene name	E5E91_12795
+No gene name	E5E91_12795
+No gene name	E5E91_12800
+No gene name	E5E91_12805
+No gene name	E5E91_12805
+No gene name	E5E91_12810
+No gene name	E5E91_12810
+No gene name	E5E91_12815
+No gene name	E5E91_12815
+No gene name	E5E91_12820
+No gene name	E5E91_12820
+No gene name	E5E91_12825
+No gene name	E5E91_12825
+No gene name	E5E91_12830
+No gene name	E5E91_12830
+No gene name	E5E91_12835
+No gene name	E5E91_12835
+No gene name	E5E91_12840
+No gene name	E5E91_12840
+No gene name	E5E91_12845
+No gene name	E5E91_12845
+No gene name	E5E91_12850
+No gene name	E5E91_12850
+No gene name	E5E91_12855
+No gene name	E5E91_12855
+No gene name	E5E91_12860
+No gene name	E5E91_12860
+No gene name	E5E91_12865
+No gene name	E5E91_12865
+No gene name	E5E91_12870
+No gene name	E5E91_12870
+No gene name	E5E91_12875
+No gene name	E5E91_12875
+No gene name	E5E91_12880
+No gene name	E5E91_12880
+No gene name	E5E91_12885
+No gene name	E5E91_12885
+No gene name	E5E91_12890
+No gene name	E5E91_12890
+No gene name	E5E91_12895
+No gene name	E5E91_12895
+No gene name	E5E91_12900
+No gene name	E5E91_12900
+No gene name	E5E91_12905
+No gene name	E5E91_12905
+No gene name	E5E91_12910
+No gene name	E5E91_12910
+No gene name	E5E91_12915
+No gene name	E5E91_12915
+No gene name	E5E91_12920
+No gene name	E5E91_12920
+No gene name	E5E91_12925
+No gene name	E5E91_12925
+murD	E5E91_12930
+murD	E5E91_12930
+No gene name	E5E91_12935
+No gene name	E5E91_12935
+No gene name	E5E91_12940
+No gene name	E5E91_12940
+No gene name	E5E91_12945
+No gene name	E5E91_12945
+No gene name	E5E91_12950
+No gene name	E5E91_12950
+No gene name	E5E91_12955
+No gene name	E5E91_12955
+No gene name	E5E91_12960
+No gene name	E5E91_12960
+No gene name	E5E91_12965
+No gene name	E5E91_12965
+No gene name	E5E91_12970
+No gene name	E5E91_12970
+No gene name	E5E91_12975
+No gene name	E5E91_12975
+No gene name	E5E91_12980
+No gene name	E5E91_12980
+No gene name	E5E91_12985
+No gene name	E5E91_12985
+No gene name	E5E91_12990
+No gene name	E5E91_12990
+ruvX	E5E91_12995
+ruvX	E5E91_12995
+No gene name	E5E91_13000
+No gene name	E5E91_13000
+No gene name	E5E91_13005
+No gene name	E5E91_13005
+No gene name	E5E91_13010
+No gene name	E5E91_13010
+No gene name	E5E91_13015
+No gene name	E5E91_13015
+No gene name	E5E91_13020
+No gene name	E5E91_13020
+No gene name	E5E91_13025
+No gene name	E5E91_13025
+No gene name	E5E91_13030
+No gene name	E5E91_13030
+No gene name	E5E91_13035
+No gene name	E5E91_13035
+No gene name	E5E91_13040
+No gene name	E5E91_13040
+No gene name	E5E91_13045
+No gene name	E5E91_13045
+No gene name	E5E91_13050
+No gene name	E5E91_13050
+No gene name	E5E91_13055
+No gene name	E5E91_13055
+No gene name	E5E91_13060
+No gene name	E5E91_13060
+No gene name	E5E91_13065
+No gene name	E5E91_13065
+No gene name	E5E91_13070
+No gene name	E5E91_13070
+No gene name	E5E91_13075
+No gene name	E5E91_13075
+lpdA	E5E91_13080
+lpdA	E5E91_13080
+No gene name	E5E91_13085
+No gene name	E5E91_13090
+No gene name	E5E91_13090
+No gene name	E5E91_13095
+No gene name	E5E91_13095
+No gene name	E5E91_13100
+No gene name	E5E91_13100
+No gene name	E5E91_13105
+No gene name	E5E91_13105
+No gene name	E5E91_13110
+No gene name	E5E91_13110
+No gene name	E5E91_13115
+No gene name	E5E91_13115
+aguB	E5E91_13120
+aguB	E5E91_13120
+msrP	E5E91_13125
+msrP	E5E91_13125
+No gene name	E5E91_13130
+No gene name	E5E91_13130
+No gene name	E5E91_13135
+No gene name	E5E91_13135
+No gene name	E5E91_13140
+No gene name	E5E91_13140
+No gene name	E5E91_13145
+No gene name	E5E91_13145
+No gene name	E5E91_13150
+No gene name	E5E91_13150
+No gene name	E5E91_13155
+No gene name	E5E91_13155
+No gene name	E5E91_13160
+No gene name	E5E91_13160
+cmk	E5E91_13165
+cmk	E5E91_13165
+No gene name	E5E91_13170
+No gene name	E5E91_13170
+No gene name	E5E91_13175
+No gene name	E5E91_13175
+No gene name	E5E91_13180
+No gene name	E5E91_13180
+No gene name	E5E91_13185
+No gene name	E5E91_13185
+No gene name	E5E91_13190
+No gene name	E5E91_13190
+No gene name	E5E91_13195
+No gene name	E5E91_13195
+No gene name	E5E91_13200
+No gene name	E5E91_13200
+No gene name	E5E91_13205
+No gene name	E5E91_13205
+mltG	E5E91_13210
+mltG	E5E91_13210
+No gene name	E5E91_13215
+No gene name	E5E91_13215
+No gene name	E5E91_13220
+No gene name	E5E91_13220
+gatB	E5E91_13225
+gatB	E5E91_13225
+No gene name	E5E91_13230
+No gene name	E5E91_13230
+No gene name	E5E91_13235
+No gene name	E5E91_13235
+No gene name	E5E91_13240
+No gene name	E5E91_13240
+No gene name	E5E91_13245
+No gene name	E5E91_13245
+No gene name	E5E91_13250
+No gene name	E5E91_13250
+No gene name	E5E91_13255
+No gene name	E5E91_13255
+No gene name	E5E91_13260
+No gene name	E5E91_13260
+No gene name	E5E91_13265
+No gene name	E5E91_13265
+No gene name	E5E91_13270
+No gene name	E5E91_13270
+No gene name	E5E91_13275
+No gene name	E5E91_13275
+No gene name	E5E91_13280
+No gene name	E5E91_13280
+No gene name	E5E91_13285
+No gene name	E5E91_13285
+No gene name	E5E91_13290
+No gene name	E5E91_13290
+No gene name	E5E91_13295
+No gene name	E5E91_13295
+No gene name	E5E91_13300
+No gene name	E5E91_13300
+No gene name	E5E91_13305
+No gene name	E5E91_13305
+moaC	E5E91_13310
+moaC	E5E91_13310
+No gene name	E5E91_13315
+No gene name	E5E91_13315
+No gene name	E5E91_13320
+No gene name	E5E91_13320
+No gene name	E5E91_13325
+No gene name	E5E91_13325
+No gene name	E5E91_13330
+No gene name	E5E91_13330
+No gene name	E5E91_13335
+No gene name	E5E91_13335
+No gene name	E5E91_13340
+No gene name	E5E91_13340
+tgt	E5E91_13345
+tgt	E5E91_13345
+No gene name	E5E91_13350
+rrf	E5E91_13355
+No gene name	E5E91_13360
+rsfS	E5E91_13365
+rsfS	E5E91_13365
+No gene name	E5E91_13370
+No gene name	E5E91_13370
+No gene name	E5E91_13375
+No gene name	E5E91_13375
+No gene name	E5E91_13380
+No gene name	E5E91_13380
+No gene name	E5E91_13385
+No gene name	E5E91_13385
+No gene name	E5E91_13390
+No gene name	E5E91_13390
+xseB	E5E91_13395
+xseB	E5E91_13395
+No gene name	E5E91_13400
+No gene name	E5E91_13400
+No gene name	E5E91_13405
+No gene name	E5E91_13405
+No gene name	E5E91_13410
+No gene name	E5E91_13410
+No gene name	E5E91_13415
+No gene name	E5E91_13415
+No gene name	E5E91_13420
+No gene name	E5E91_13420
+No gene name	E5E91_13425
+No gene name	E5E91_13425
+No gene name	E5E91_13430
+No gene name	E5E91_13430
+No gene name	E5E91_13435
+No gene name	E5E91_13435
+No gene name	E5E91_13440
+No gene name	E5E91_13440
+No gene name	E5E91_13445
+No gene name	E5E91_13445
+No gene name	E5E91_13450
+No gene name	E5E91_13450
+No gene name	E5E91_13455
+No gene name	E5E91_13455
+No gene name	E5E91_13460
+No gene name	E5E91_13460
+No gene name	E5E91_13465
+No gene name	E5E91_13465
+No gene name	E5E91_13470
+No gene name	E5E91_13470
+No gene name	E5E91_13475
+No gene name	E5E91_13475
+No gene name	E5E91_13480
+No gene name	E5E91_13480
+No gene name	E5E91_13485
+No gene name	E5E91_13485
+No gene name	E5E91_13490
+No gene name	E5E91_13490
+ispD	E5E91_13495
+ispD	E5E91_13495
+No gene name	E5E91_13500
+No gene name	E5E91_13500
+priA	E5E91_13505
+priA	E5E91_13505
+moaD	E5E91_13510
+moaD	E5E91_13510
+No gene name	E5E91_13515
+No gene name	E5E91_13515
+No gene name	E5E91_13520
+No gene name	E5E91_13520
+No gene name	E5E91_13525
+No gene name	E5E91_13525
+No gene name	E5E91_13530
+No gene name	E5E91_13530
+No gene name	E5E91_13535
+No gene name	E5E91_13535
+No gene name	E5E91_13540
+No gene name	E5E91_13540
+No gene name	E5E91_13545
+No gene name	E5E91_13545
+panB	E5E91_13550
+panB	E5E91_13550
+No gene name	E5E91_13555
+No gene name	E5E91_13555
+No gene name	E5E91_13560
+No gene name	E5E91_13560
+No gene name	E5E91_13565
+No gene name	E5E91_13565
+coxB	E5E91_13570
+coxB	E5E91_13570
+No gene name	E5E91_13575
+No gene name	E5E91_13575
+No gene name	E5E91_13580
+No gene name	E5E91_13580
+No gene name	E5E91_13585
+No gene name	E5E91_13585
+No gene name	E5E91_13590
+No gene name	E5E91_13590
+ypdA	E5E91_13595
+ypdA	E5E91_13595
+No gene name	E5E91_13600
+No gene name	E5E91_13600
+No gene name	E5E91_13605
+No gene name	E5E91_13605
+No gene name	E5E91_13610
+No gene name	E5E91_13610
+fumC	E5E91_13615
+fumC	E5E91_13615
+No gene name	E5E91_13620
+No gene name	E5E91_13620
+No gene name	E5E91_13625
+No gene name	E5E91_13625
+No gene name	E5E91_13630
+No gene name	E5E91_13630
+No gene name	E5E91_13635
+No gene name	E5E91_13635
+No gene name	E5E91_13640
+No gene name	E5E91_13640
+No gene name	E5E91_13645
+No gene name	E5E91_13645
+No gene name	E5E91_13650
+No gene name	E5E91_13650
+No gene name	E5E91_13655
+No gene name	E5E91_13655
+pyk	E5E91_13660
+pyk	E5E91_13660
+No gene name	E5E91_13665
+No gene name	E5E91_13665
+Gene with locus_tag E5E91_RS10905 not found in record CP038663.1.
+Starting search in accession: CP038664.1
+Looking in record: CP038664.1, Description: Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539 strain ATCC 13939 chromosome II, complete sequence
+No gene name	E5E91_13670
+No gene name	E5E91_13670
+No gene name	E5E91_13675
+No gene name	E5E91_13675
+No gene name	E5E91_13680
+No gene name	E5E91_13680
+No gene name	E5E91_13685
+No gene name	E5E91_13685
+No gene name	E5E91_13690
+No gene name	E5E91_13690
+No gene name	E5E91_13695
+No gene name	E5E91_13695
+No gene name	E5E91_13700
+No gene name	E5E91_13700
+No gene name	E5E91_13705
+No gene name	E5E91_13705
+No gene name	E5E91_13710
+No gene name	E5E91_13710
+No gene name	E5E91_13715
+No gene name	E5E91_13715
+No gene name	E5E91_13720
+No gene name	E5E91_13720
+cobA	E5E91_13725
+cobA	E5E91_13725
+No gene name	E5E91_13730
+No gene name	E5E91_13730
+No gene name	E5E91_13735
+No gene name	E5E91_13735
+cysC	E5E91_13740
+cysC	E5E91_13740
+No gene name	E5E91_13745
+No gene name	E5E91_13745
+sat	E5E91_13750
+sat	E5E91_13750
+No gene name	E5E91_13755
+No gene name	E5E91_13755
+No gene name	E5E91_13760
+No gene name	E5E91_13760
+No gene name	E5E91_13765
+No gene name	E5E91_13765
+cobU	E5E91_13770
+cobU	E5E91_13770
+No gene name	E5E91_13775
+No gene name	E5E91_13775
+No gene name	E5E91_13780
+No gene name	E5E91_13780
+No gene name	E5E91_13785
+No gene name	E5E91_13785
+No gene name	E5E91_13790
+No gene name	E5E91_13790
+No gene name	E5E91_13795
+No gene name	E5E91_13795
+No gene name	E5E91_13800
+No gene name	E5E91_13800
+No gene name	E5E91_13805
+No gene name	E5E91_13805
+No gene name	E5E91_13810
+No gene name	E5E91_13810
+No gene name	E5E91_13815
+No gene name	E5E91_13815
+No gene name	E5E91_13820
+No gene name	E5E91_13820
+No gene name	E5E91_13825
+No gene name	E5E91_13825
+No gene name	E5E91_13830
+No gene name	E5E91_13830
+No gene name	E5E91_13835
+No gene name	E5E91_13835
+No gene name	E5E91_13840
+No gene name	E5E91_13840
+wbaP	E5E91_13845
+wbaP	E5E91_13845
+No gene name	E5E91_13850
+No gene name	E5E91_13850
+No gene name	E5E91_13855
+No gene name	E5E91_13855
+No gene name	E5E91_13860
+No gene name	E5E91_13860
+No gene name	E5E91_13865
+No gene name	E5E91_13865
+No gene name	E5E91_13870
+No gene name	E5E91_13870
+No gene name	E5E91_13875
+No gene name	E5E91_13875
+rfbB	E5E91_13880
+rfbB	E5E91_13880
+No gene name	E5E91_13885
+No gene name	E5E91_13885
+No gene name	E5E91_13890
+No gene name	E5E91_13890
+No gene name	E5E91_13895
+No gene name	E5E91_13895
+No gene name	E5E91_13900
+No gene name	E5E91_13900
+No gene name	E5E91_13905
+No gene name	E5E91_13905
+No gene name	E5E91_13910
+No gene name	E5E91_13910
+No gene name	E5E91_13915
+No gene name	E5E91_13915
+No gene name	E5E91_13920
+No gene name	E5E91_13920
+No gene name	E5E91_13925
+No gene name	E5E91_13925
+No gene name	E5E91_13930
+No gene name	E5E91_13930
+No gene name	E5E91_13935
+No gene name	E5E91_13935
+No gene name	E5E91_13940
+No gene name	E5E91_13940
+No gene name	E5E91_13945
+No gene name	E5E91_13945
+No gene name	E5E91_13950
+No gene name	E5E91_13955
+No gene name	E5E91_13955
+No gene name	E5E91_13960
+No gene name	E5E91_13960
+No gene name	E5E91_13965
+No gene name	E5E91_13965
+No gene name	E5E91_13970
+No gene name	E5E91_13970
+No gene name	E5E91_13975
+No gene name	E5E91_13975
+No gene name	E5E91_13980
+No gene name	E5E91_13980
+No gene name	E5E91_13985
+No gene name	E5E91_13985
+No gene name	E5E91_13990
+No gene name	E5E91_13990
+No gene name	E5E91_13995
+No gene name	E5E91_13995
+No gene name	E5E91_14000
+No gene name	E5E91_14000
+nagA	E5E91_14005
+nagA	E5E91_14005
+No gene name	E5E91_14010
+No gene name	E5E91_14010
+No gene name	E5E91_14015
+No gene name	E5E91_14015
+No gene name	E5E91_14020
+No gene name	E5E91_14020
+No gene name	E5E91_14025
+No gene name	E5E91_14025
+No gene name	E5E91_14030
+No gene name	E5E91_14030
+No gene name	E5E91_14035
+No gene name	E5E91_14035
+cadA	E5E91_14040
+cadA	E5E91_14040
+No gene name	E5E91_14045
+No gene name	E5E91_14045
+No gene name	E5E91_14050
+No gene name	E5E91_14050
+No gene name	E5E91_14055
+No gene name	E5E91_14055
+No gene name	E5E91_14060
+No gene name	E5E91_14060
+No gene name	E5E91_14065
+No gene name	E5E91_14065
+No gene name	E5E91_14070
+No gene name	E5E91_14070
+No gene name	E5E91_14075
+No gene name	E5E91_14075
+No gene name	E5E91_14080
+No gene name	E5E91_14080
+No gene name	E5E91_14085
+No gene name	E5E91_14085
+No gene name	E5E91_14090
+No gene name	E5E91_14090
+No gene name	E5E91_14095
+No gene name	E5E91_14095
+No gene name	E5E91_14100
+No gene name	E5E91_14100
+No gene name	E5E91_14105
+No gene name	E5E91_14105
+No gene name	E5E91_14110
+No gene name	E5E91_14110
+No gene name	E5E91_14115
+No gene name	E5E91_14115
+No gene name	E5E91_14120
+No gene name	E5E91_14120
+No gene name	E5E91_14125
+No gene name	E5E91_14125
+No gene name	E5E91_14130
+No gene name	E5E91_14130
+No gene name	E5E91_14135
+No gene name	E5E91_14135
+No gene name	E5E91_14140
+No gene name	E5E91_14140
+No gene name	E5E91_14145
+No gene name	E5E91_14145
+No gene name	E5E91_14150
+No gene name	E5E91_14150
+No gene name	E5E91_14155
+No gene name	E5E91_14155
+No gene name	E5E91_14160
+No gene name	E5E91_14160
+No gene name	E5E91_14165
+No gene name	E5E91_14165
+No gene name	E5E91_14170
+No gene name	E5E91_14170
+No gene name	E5E91_14175
+No gene name	E5E91_14175
+No gene name	E5E91_14180
+No gene name	E5E91_14180
+No gene name	E5E91_14185
+No gene name	E5E91_14185
+No gene name	E5E91_14190
+No gene name	E5E91_14190
+No gene name	E5E91_14195
+No gene name	E5E91_14195
+No gene name	E5E91_14200
+No gene name	E5E91_14200
+No gene name	E5E91_14205
+No gene name	E5E91_14205
+No gene name	E5E91_14210
+No gene name	E5E91_14210
+No gene name	E5E91_14215
+No gene name	E5E91_14215
+No gene name	E5E91_14220
+No gene name	E5E91_14220
+No gene name	E5E91_14225
+No gene name	E5E91_14225
+No gene name	E5E91_14230
+No gene name	E5E91_14230
+No gene name	E5E91_14235
+No gene name	E5E91_14235
+No gene name	E5E91_14240
+No gene name	E5E91_14240
+No gene name	E5E91_14245
+No gene name	E5E91_14245
+No gene name	E5E91_14250
+No gene name	E5E91_14250
+No gene name	E5E91_14255
+No gene name	E5E91_14255
+No gene name	E5E91_14260
+No gene name	E5E91_14260
+No gene name	E5E91_14265
+No gene name	E5E91_14265
+No gene name	E5E91_14270
+No gene name	E5E91_14270
+No gene name	E5E91_14275
+No gene name	E5E91_14275
+No gene name	E5E91_14280
+No gene name	E5E91_14280
+No gene name	E5E91_14285
+No gene name	E5E91_14285
+No gene name	E5E91_14290
+No gene name	E5E91_14290
+No gene name	E5E91_14295
+No gene name	E5E91_14295
+No gene name	E5E91_14300
+No gene name	E5E91_14300
+hpaH	E5E91_14305
+hpaH	E5E91_14305
+No gene name	E5E91_14310
+No gene name	E5E91_14310
+No gene name	E5E91_14315
+No gene name	E5E91_14315
+No gene name	E5E91_14320
+No gene name	E5E91_14320
+No gene name	E5E91_14325
+No gene name	E5E91_14325
+No gene name	E5E91_14330
+No gene name	E5E91_14330
+No gene name	E5E91_14335
+No gene name	E5E91_14335
+No gene name	E5E91_14340
+No gene name	E5E91_14340
+No gene name	E5E91_14345
+No gene name	E5E91_14345
+No gene name	E5E91_14350
+No gene name	E5E91_14350
+No gene name	E5E91_14355
+No gene name	E5E91_14355
+No gene name	E5E91_14360
+No gene name	E5E91_14360
+No gene name	E5E91_14365
+No gene name	E5E91_14365
+No gene name	E5E91_14370
+No gene name	E5E91_14370
+No gene name	E5E91_14375
+No gene name	E5E91_14375
+No gene name	E5E91_14380
+No gene name	E5E91_14380
+No gene name	E5E91_14385
+No gene name	E5E91_14385
+No gene name	E5E91_14390
+No gene name	E5E91_14390
+No gene name	E5E91_14395
+No gene name	E5E91_14395
+No gene name	E5E91_14400
+No gene name	E5E91_14400
+No gene name	E5E91_14405
+No gene name	E5E91_14405
+No gene name	E5E91_14410
+No gene name	E5E91_14410
+No gene name	E5E91_14415
+No gene name	E5E91_14415
+No gene name	E5E91_14420
+No gene name	E5E91_14420
+No gene name	E5E91_14425
+No gene name	E5E91_14425
+hutH	E5E91_14430
+hutH	E5E91_14430
+hutI	E5E91_14435
+hutI	E5E91_14435
+No gene name	E5E91_14440
+No gene name	E5E91_14440
+No gene name	E5E91_14445
+No gene name	E5E91_14445
+hutU	E5E91_14450
+hutU	E5E91_14450
+No gene name	E5E91_14455
+No gene name	E5E91_14455
+No gene name	E5E91_14460
+No gene name	E5E91_14460
+No gene name	E5E91_14465
+No gene name	E5E91_14465
+No gene name	E5E91_14470
+No gene name	E5E91_14470
+No gene name	E5E91_14475
+No gene name	E5E91_14475
+pstS	E5E91_14480
+pstS	E5E91_14480
+pstC	E5E91_14485
+pstC	E5E91_14485
+pstA	E5E91_14490
+pstA	E5E91_14490
+No gene name	E5E91_14495
+No gene name	E5E91_14495
+phoU	E5E91_14500
+phoU	E5E91_14500
+No gene name	E5E91_14505
+No gene name	E5E91_14505
+No gene name	E5E91_14510
+No gene name	E5E91_14510
+trxC	E5E91_14515
+trxC	E5E91_14515
+No gene name	E5E91_14520
+No gene name	E5E91_14520
+No gene name	E5E91_14525
+No gene name	E5E91_14525
+No gene name	E5E91_14530
+No gene name	E5E91_14530
+No gene name	E5E91_14535
+No gene name	E5E91_14535
+modB	E5E91_14540
+modB	E5E91_14540
+modA	E5E91_14545
+modA	E5E91_14545
+No gene name	E5E91_14550
+No gene name	E5E91_14550
+thiD	E5E91_14555
+thiD	E5E91_14555
+No gene name	E5E91_14560
+No gene name	E5E91_14560
+thiS	E5E91_14565
+thiS	E5E91_14565
+thiE	E5E91_14570
+thiE	E5E91_14570
+thiC	E5E91_14575
+thiC	E5E91_14575
+No gene name	E5E91_14580
+No gene name	E5E91_14580
+No gene name	E5E91_14585
+No gene name	E5E91_14585
+xdhB	E5E91_14590
+xdhB	E5E91_14590
+xdhC	E5E91_14595
+xdhC	E5E91_14595
+guaD	E5E91_14600
+guaD	E5E91_14600
+No gene name	E5E91_14605
+No gene name	E5E91_14605
+No gene name	E5E91_14610
+No gene name	E5E91_14610
+No gene name	E5E91_14615
+No gene name	E5E91_14615
+No gene name	E5E91_14620
+No gene name	E5E91_14620
+No gene name	E5E91_14625
+No gene name	E5E91_14625
+No gene name	E5E91_14630
+No gene name	E5E91_14630
+uvrA	E5E91_14635
+uvrA	E5E91_14635
+rimO	E5E91_14640
+rimO	E5E91_14640
+No gene name	E5E91_14645
+No gene name	E5E91_14645
+No gene name	E5E91_14650
+No gene name	E5E91_14650
+No gene name	E5E91_14655
+No gene name	E5E91_14655
+No gene name	E5E91_14660
+No gene name	E5E91_14660
+No gene name	E5E91_14665
+No gene name	E5E91_14665
+No gene name	E5E91_14670
+No gene name	E5E91_14670
+No gene name	E5E91_14675
+No gene name	E5E91_14675
+No gene name	E5E91_14680
+No gene name	E5E91_14680
+No gene name	E5E91_14685
+No gene name	E5E91_14685
+No gene name	E5E91_14690
+No gene name	E5E91_14690
+No gene name	E5E91_14695
+No gene name	E5E91_14695
+nadE	E5E91_14700
+nadE	E5E91_14700
+No gene name	E5E91_14705
+No gene name	E5E91_14705
+No gene name	E5E91_14710
+No gene name	E5E91_14710
+No gene name	E5E91_14715
+No gene name	E5E91_14715
+No gene name	E5E91_14720
+No gene name	E5E91_14720
+No gene name	E5E91_14725
+No gene name	E5E91_14725
+No gene name	E5E91_14730
+No gene name	E5E91_14730
+No gene name	E5E91_14735
+No gene name	E5E91_14735
+No gene name	E5E91_14740
+No gene name	E5E91_14740
+No gene name	E5E91_14745
+No gene name	E5E91_14745
+No gene name	E5E91_14750
+No gene name	E5E91_14750
+No gene name	E5E91_14755
+No gene name	E5E91_14755
+murQ	E5E91_14760
+murQ	E5E91_14760
+wrbA	E5E91_14765
+wrbA	E5E91_14765
+No gene name	E5E91_14770
+No gene name	E5E91_14770
+No gene name	E5E91_14775
+No gene name	E5E91_14775
+No gene name	E5E91_14780
+No gene name	E5E91_14780
+No gene name	E5E91_14785
+No gene name	E5E91_14785
+No gene name	E5E91_14790
+No gene name	E5E91_14790
+hpaE	E5E91_14795
+hpaE	E5E91_14795
+No gene name	E5E91_14800
+No gene name	E5E91_14800
+No gene name	E5E91_14805
+No gene name	E5E91_14805
+hpaB	E5E91_14810
+hpaB	E5E91_14810
+hpaD	E5E91_14815
+hpaD	E5E91_14815
+No gene name	E5E91_14820
+No gene name	E5E91_14820
+No gene name	E5E91_14825
+No gene name	E5E91_14825
+No gene name	E5E91_14830
+No gene name	E5E91_14830
+No gene name	E5E91_14835
+No gene name	E5E91_14835
+No gene name	E5E91_14840
+No gene name	E5E91_14840
+No gene name	E5E91_14845
+No gene name	E5E91_14845
+No gene name	E5E91_14850
+No gene name	E5E91_14850
+No gene name	E5E91_14855
+No gene name	E5E91_14855
+No gene name	E5E91_14860
+No gene name	E5E91_14860
+No gene name	E5E91_14865
+No gene name	E5E91_14865
+No gene name	E5E91_14870
+No gene name	E5E91_14870
+No gene name	E5E91_14875
+No gene name	E5E91_14875
+No gene name	E5E91_14880
+No gene name	E5E91_14880
+No gene name	E5E91_14885
+No gene name	E5E91_14885
+No gene name	E5E91_14890
+No gene name	E5E91_14890
+cobT	E5E91_14895
+cobT	E5E91_14895
+No gene name	E5E91_14900
+No gene name	E5E91_14900
+No gene name	E5E91_14905
+No gene name	E5E91_14905
+hmpA	E5E91_14910
+hmpA	E5E91_14910
+No gene name	E5E91_14915
+No gene name	E5E91_14915
+No gene name	E5E91_14920
+No gene name	E5E91_14920
+No gene name	E5E91_14925
+No gene name	E5E91_14925
+No gene name	E5E91_14930
+No gene name	E5E91_14930
+No gene name	E5E91_14935
+No gene name	E5E91_14935
+No gene name	E5E91_14940
+No gene name	E5E91_14940
+No gene name	E5E91_14945
+No gene name	E5E91_14945
+No gene name	E5E91_14950
+No gene name	E5E91_14950
+No gene name	E5E91_14955
+No gene name	E5E91_14955
+No gene name	E5E91_14960
+No gene name	E5E91_14960
+paaF	E5E91_14965
+paaF	E5E91_14965
+No gene name	E5E91_14970
+No gene name	E5E91_14970
+No gene name	E5E91_14975
+No gene name	E5E91_14975
+No gene name	E5E91_14980
+No gene name	E5E91_14980
+No gene name	E5E91_14985
+No gene name	E5E91_14985
+No gene name	E5E91_14990
+No gene name	E5E91_14990
+No gene name	E5E91_14995
+No gene name	E5E91_14995
+No gene name	E5E91_15000
+No gene name	E5E91_15000
+No gene name	E5E91_15005
+No gene name	E5E91_15005
+No gene name	E5E91_15010
+No gene name	E5E91_15010
+No gene name	E5E91_15015
+No gene name	E5E91_15015
+No gene name	E5E91_15020
+No gene name	E5E91_15020
+No gene name	E5E91_15025
+No gene name	E5E91_15025
+No gene name	E5E91_15030
+No gene name	E5E91_15030
+No gene name	E5E91_15035
+No gene name	E5E91_15035
+pncB	E5E91_15040
+pncB	E5E91_15040
+No gene name	E5E91_15045
+No gene name	E5E91_15045
+No gene name	E5E91_15050
+No gene name	E5E91_15050
+No gene name	E5E91_15055
+No gene name	E5E91_15055
+No gene name	E5E91_15060
+No gene name	E5E91_15060
+aceB	E5E91_15065
+aceB	E5E91_15065
+No gene name	E5E91_15070
+No gene name	E5E91_15070
+No gene name	E5E91_15075
+No gene name	E5E91_15075
+No gene name	E5E91_15080
+No gene name	E5E91_15080
+No gene name	E5E91_15085
+No gene name	E5E91_15085
+No gene name	E5E91_15090
+No gene name	E5E91_15090
+No gene name	E5E91_15095
+No gene name	E5E91_15095
+No gene name	E5E91_15100
+No gene name	E5E91_15100
+No gene name	E5E91_15105
+No gene name	E5E91_15105
+pxpB	E5E91_15110
+pxpB	E5E91_15110
+No gene name	E5E91_15115
+No gene name	E5E91_15115
+No gene name	E5E91_15120
+No gene name	E5E91_15120
+No gene name	E5E91_15125
+No gene name	E5E91_15125
+No gene name	E5E91_15130
+No gene name	E5E91_15130
+hpaI	E5E91_15135
+hpaI	E5E91_15135
+No gene name	E5E91_15140
+No gene name	E5E91_15140
+No gene name	E5E91_15145
+No gene name	E5E91_15145
+No gene name	E5E91_15150
+No gene name	E5E91_15150
+No gene name	E5E91_15155
+No gene name	E5E91_15155
+No gene name	E5E91_15160
+No gene name	E5E91_15160
+No gene name	E5E91_15165
+No gene name	E5E91_15165
+No gene name	E5E91_15170
+No gene name	E5E91_15170
+No gene name	E5E91_15175
+No gene name	E5E91_15175
+No gene name	E5E91_15180
+No gene name	E5E91_15180
+No gene name	E5E91_15185
+No gene name	E5E91_15185
+No gene name	E5E91_15190
+No gene name	E5E91_15190
+No gene name	E5E91_15195
+No gene name	E5E91_15195
+No gene name	E5E91_15200
+No gene name	E5E91_15200
+No gene name	E5E91_15205
+No gene name	E5E91_15205
+No gene name	E5E91_15210
+No gene name	E5E91_15210
+No gene name	E5E91_15215
+No gene name	E5E91_15215
+No gene name	E5E91_15220
+No gene name	E5E91_15220
+No gene name	E5E91_15225
+No gene name	E5E91_15225
+No gene name	E5E91_15230
+No gene name	E5E91_15230
+No gene name	E5E91_15235
+No gene name	E5E91_15235
+ureG	E5E91_15240
+ureG	E5E91_15240
+No gene name	E5E91_15245
+No gene name	E5E91_15245
+ureE	E5E91_15250
+ureE	E5E91_15250
+No gene name	E5E91_15255
+No gene name	E5E91_15255
+No gene name	E5E91_15260
+No gene name	E5E91_15260
+No gene name	E5E91_15265
+No gene name	E5E91_15265
+ureC	E5E91_15270
+ureC	E5E91_15270
+No gene name	E5E91_15275
+No gene name	E5E91_15275
+urtA	E5E91_15280
+urtA	E5E91_15280
+urtB	E5E91_15285
+urtB	E5E91_15285
+urtC	E5E91_15290
+urtC	E5E91_15290
+urtD	E5E91_15295
+urtD	E5E91_15295
+No gene name	E5E91_15300
+No gene name	E5E91_15300
+urtE	E5E91_15305
+urtE	E5E91_15305
+No gene name	E5E91_15310
+No gene name	E5E91_15310
+No gene name	E5E91_15315
+No gene name	E5E91_15315
+No gene name	E5E91_15320
+No gene name	E5E91_15320
+No gene name	E5E91_15325
+No gene name	E5E91_15325
+No gene name	E5E91_15330
+No gene name	E5E91_15330
+No gene name	E5E91_15335
+No gene name	E5E91_15335
+No gene name	E5E91_15340
+No gene name	E5E91_15340
+No gene name	E5E91_15345
+No gene name	E5E91_15345
+No gene name	E5E91_15350
+No gene name	E5E91_15350
+No gene name	E5E91_15355
+No gene name	E5E91_15355
+No gene name	E5E91_15360
+No gene name	E5E91_15360
+No gene name	E5E91_15365
+No gene name	E5E91_15365
+No gene name	E5E91_15370
+No gene name	E5E91_15370
+No gene name	E5E91_15375
+No gene name	E5E91_15375
+kynU	E5E91_15380
+kynU	E5E91_15380
+kynA	E5E91_15385
+kynA	E5E91_15385
+No gene name	E5E91_15390
+No gene name	E5E91_15390
+No gene name	E5E91_15395
+No gene name	E5E91_15395
+No gene name	E5E91_15400
+No gene name	E5E91_15400
+No gene name	E5E91_15405
+No gene name	E5E91_15405
+No gene name	E5E91_15410
+No gene name	E5E91_15410
+No gene name	E5E91_15415
+No gene name	E5E91_15415
+lexA	E5E91_15420
+lexA	E5E91_15420
+No gene name	E5E91_15425
+No gene name	E5E91_15425
+No gene name	E5E91_15430
+No gene name	E5E91_15430
+No gene name	E5E91_15435
+No gene name	E5E91_15435
+No gene name	E5E91_15440
+No gene name	E5E91_15440
+No gene name	E5E91_15445
+No gene name	E5E91_15445
+No gene name	E5E91_15450
+No gene name	E5E91_15450
+No gene name	E5E91_15455
+No gene name	E5E91_15455
+No gene name	E5E91_15460
+No gene name	E5E91_15460
+No gene name	E5E91_15465
+No gene name	E5E91_15465
+No gene name	E5E91_15470
+No gene name	E5E91_15470
+No gene name	E5E91_15475
+No gene name	E5E91_15475
+No gene name	E5E91_15480
+No gene name	E5E91_15480
+No gene name	E5E91_15485
+No gene name	E5E91_15485
+No gene name	E5E91_15490
+No gene name	E5E91_15490
+No gene name	E5E91_15495
+No gene name	E5E91_15495
+No gene name	E5E91_15500
+No gene name	E5E91_15500
+No gene name	E5E91_15505
+No gene name	E5E91_15505
+No gene name	E5E91_15510
+No gene name	E5E91_15510
+No gene name	E5E91_15515
+No gene name	E5E91_15515
+No gene name	E5E91_15520
+No gene name	E5E91_15520
+No gene name	E5E91_15525
+No gene name	E5E91_15525
+glf	E5E91_15530
+glf	E5E91_15530
+No gene name	E5E91_15535
+No gene name	E5E91_15535
+No gene name	E5E91_15540
+No gene name	E5E91_15540
+Gene with locus_tag E5E91_RS10905 not found in record CP038664.1.
+Starting search in accession: CP038666.1
+Looking in record: CP038666.1, Description: Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539 strain ATCC 13939 plasmid pCP1, complete sequence
+No gene name	E5E91_16305
+No gene name	E5E91_16305
+No gene name	E5E91_16310
+No gene name	E5E91_16310
+No gene name	E5E91_16315
+No gene name	E5E91_16315
+No gene name	E5E91_16320
+No gene name	E5E91_16320
+No gene name	E5E91_16325
+No gene name	E5E91_16325
+No gene name	E5E91_16330
+No gene name	E5E91_16330
+No gene name	E5E91_16335
+No gene name	E5E91_16335
+No gene name	E5E91_16340
+No gene name	E5E91_16340
+No gene name	E5E91_16345
+No gene name	E5E91_16345
+No gene name	E5E91_16350
+No gene name	E5E91_16350
+No gene name	E5E91_16355
+No gene name	E5E91_16355
+No gene name	E5E91_16360
+No gene name	E5E91_16360
+No gene name	E5E91_16365
+No gene name	E5E91_16365
+No gene name	E5E91_16370
+No gene name	E5E91_16370
+No gene name	E5E91_16375
+No gene name	E5E91_16375
+No gene name	E5E91_16380
+No gene name	E5E91_16380
+No gene name	E5E91_16385
+No gene name	E5E91_16385
+No gene name	E5E91_16390
+No gene name	E5E91_16390
+No gene name	E5E91_16395
+No gene name	E5E91_16395
+No gene name	E5E91_16400
+No gene name	E5E91_16400
+No gene name	E5E91_16405
+No gene name	E5E91_16405
+No gene name	E5E91_16410
+No gene name	E5E91_16410
+No gene name	E5E91_16415
+No gene name	E5E91_16415
+No gene name	E5E91_16420
+No gene name	E5E91_16420
+No gene name	E5E91_16425
+No gene name	E5E91_16425
+No gene name	E5E91_16430
+No gene name	E5E91_16430
+No gene name	E5E91_16435
+No gene name	E5E91_16435
+No gene name	E5E91_16440
+No gene name	E5E91_16440
+No gene name	E5E91_16445
+No gene name	E5E91_16445
+No gene name	E5E91_16450
+No gene name	E5E91_16450
+No gene name	E5E91_16455
+No gene name	E5E91_16455
+No gene name	E5E91_16460
+No gene name	E5E91_16460
+No gene name	E5E91_16465
+No gene name	E5E91_16465
+No gene name	E5E91_16470
+No gene name	E5E91_16470
+No gene name	E5E91_16475
+No gene name	E5E91_16475
+No gene name	E5E91_16480
+No gene name	E5E91_16480
+No gene name	E5E91_16485
+No gene name	E5E91_16485
+No gene name	E5E91_16490
+No gene name	E5E91_16490
+No gene name	E5E91_16495
+No gene name	E5E91_16495
+No gene name	E5E91_16500
+No gene name	E5E91_16500
+No gene name	E5E91_16505
+No gene name	E5E91_16505
+No gene name	E5E91_16510
+No gene name	E5E91_16510
+No gene name	E5E91_16515
+No gene name	E5E91_16515
+No gene name	E5E91_16520
+No gene name	E5E91_16520
+No gene name	E5E91_16525
+No gene name	E5E91_16525
+Gene with locus_tag E5E91_RS10905 not found in record CP038666.1.
+Starting search in accession: CP038665.1
+Looking in record: CP038665.1, Description: Deinococcus radiodurans R1 = ATCC 13939 = DSM 20539 strain ATCC 13939 plasmid pMP1, complete sequence
+No gene name	E5E91_15545
+No gene name	E5E91_15545
+No gene name	E5E91_15550
+No gene name	E5E91_15550
+No gene name	E5E91_15555
+No gene name	E5E91_15555
+No gene name	E5E91_15560
+No gene name	E5E91_15560
+No gene name	E5E91_15565
+No gene name	E5E91_15565
+No gene name	E5E91_15570
+No gene name	E5E91_15570
+No gene name	E5E91_15575
+No gene name	E5E91_15575
+cobO	E5E91_15580
+cobO	E5E91_15580
+No gene name	E5E91_15585
+No gene name	E5E91_15585
+cobD	E5E91_15590
+cobD	E5E91_15590
+No gene name	E5E91_15595
+No gene name	E5E91_15595
+No gene name	E5E91_15600
+No gene name	E5E91_15600
+No gene name	E5E91_15605
+No gene name	E5E91_15605
+No gene name	E5E91_15610
+No gene name	E5E91_15610
+No gene name	E5E91_15615
+No gene name	E5E91_15615
+No gene name	E5E91_15620
+No gene name	E5E91_15620
+No gene name	E5E91_15625
+No gene name	E5E91_15625
+No gene name	E5E91_15630
+No gene name	E5E91_15630
+No gene name	E5E91_15635
+No gene name	E5E91_15635
+No gene name	E5E91_15640
+No gene name	E5E91_15640
+No gene name	E5E91_15645
+No gene name	E5E91_15645
+No gene name	E5E91_15650
+No gene name	E5E91_15650
+No gene name	E5E91_15655
+No gene name	E5E91_15655
+No gene name	E5E91_15660
+No gene name	E5E91_15660
+No gene name	E5E91_15665
+No gene name	E5E91_15665
+No gene name	E5E91_15670
+No gene name	E5E91_15670
+No gene name	E5E91_15675
+No gene name	E5E91_15675
+No gene name	E5E91_15680
+No gene name	E5E91_15680
+No gene name	E5E91_15685
+No gene name	E5E91_15685
+No gene name	E5E91_15690
+No gene name	E5E91_15690
+No gene name	E5E91_15695
+No gene name	E5E91_15695
+No gene name	E5E91_15700
+No gene name	E5E91_15700
+No gene name	E5E91_15705
+No gene name	E5E91_15705
+No gene name	E5E91_15710
+No gene name	E5E91_15710
+No gene name	E5E91_15715
+No gene name	E5E91_15715
+No gene name	E5E91_15720
+No gene name	E5E91_15720
+No gene name	E5E91_15725
+No gene name	E5E91_15725
+No gene name	E5E91_15730
+No gene name	E5E91_15730
+No gene name	E5E91_15735
+No gene name	E5E91_15735
+No gene name	E5E91_15740
+No gene name	E5E91_15740
+No gene name	E5E91_15745
+No gene name	E5E91_15745
+No gene name	E5E91_15750
+No gene name	E5E91_15750
+No gene name	E5E91_15755
+No gene name	E5E91_15755
+No gene name	E5E91_15760
+No gene name	E5E91_15760
+No gene name	E5E91_15765
+No gene name	E5E91_15765
+No gene name	E5E91_15770
+No gene name	E5E91_15770
+No gene name	E5E91_15775
+No gene name	E5E91_15775
+No gene name	E5E91_15780
+No gene name	E5E91_15780
+No gene name	E5E91_15785
+No gene name	E5E91_15785
+No gene name	E5E91_15790
+No gene name	E5E91_15790
+No gene name	E5E91_15795
+No gene name	E5E91_15795
+No gene name	E5E91_15800
+No gene name	E5E91_15800
+No gene name	E5E91_15805
+No gene name	E5E91_15805
+dhaM	E5E91_15810
+dhaM	E5E91_15810
+dhaL	E5E91_15815
+dhaL	E5E91_15815
+dhaK	E5E91_15820
+dhaK	E5E91_15820
+No gene name	E5E91_15825
+No gene name	E5E91_15825
+No gene name	E5E91_15830
+No gene name	E5E91_15830
+No gene name	E5E91_15835
+No gene name	E5E91_15835
+No gene name	E5E91_15840
+No gene name	E5E91_15840
+No gene name	E5E91_15845
+No gene name	E5E91_15845
+No gene name	E5E91_15850
+No gene name	E5E91_15850
+No gene name	E5E91_15855
+No gene name	E5E91_15855
+No gene name	E5E91_15860
+No gene name	E5E91_15860
+No gene name	E5E91_15865
+No gene name	E5E91_15865
+No gene name	E5E91_15870
+No gene name	E5E91_15870
+No gene name	E5E91_15875
+No gene name	E5E91_15875
+No gene name	E5E91_15880
+No gene name	E5E91_15880
+No gene name	E5E91_15885
+No gene name	E5E91_15885
+No gene name	E5E91_15890
+No gene name	E5E91_15890
+No gene name	E5E91_15895
+No gene name	E5E91_15895
+No gene name	E5E91_15900
+No gene name	E5E91_15900
+No gene name	E5E91_15905
+No gene name	E5E91_15905
+No gene name	E5E91_15910
+No gene name	E5E91_15910
+No gene name	E5E91_15915
+No gene name	E5E91_15915
+No gene name	E5E91_15920
+No gene name	E5E91_15920
+pfkB	E5E91_15925
+pfkB	E5E91_15925
+ptsP	E5E91_15930
+ptsP	E5E91_15930
+No gene name	E5E91_15935
+No gene name	E5E91_15935
+No gene name	E5E91_15940
+No gene name	E5E91_15940
+No gene name	E5E91_15945
+No gene name	E5E91_15945
+menC	E5E91_15950
+menC	E5E91_15950
+No gene name	E5E91_15955
+No gene name	E5E91_15955
+No gene name	E5E91_15960
+No gene name	E5E91_15960
+No gene name	E5E91_15965
+No gene name	E5E91_15965
+No gene name	E5E91_15970
+No gene name	E5E91_15970
+No gene name	E5E91_15975
+No gene name	E5E91_15975
+kdpF	E5E91_15980
+kdpF	E5E91_15980
+kdpA	E5E91_15985
+kdpA	E5E91_15985
+kdpC	E5E91_15990
+kdpC	E5E91_15990
+No gene name	E5E91_15995
+No gene name	E5E91_15995
+No gene name	E5E91_16000
+No gene name	E5E91_16000
+No gene name	E5E91_16005
+No gene name	E5E91_16005
+No gene name	E5E91_16010
+No gene name	E5E91_16010
+No gene name	E5E91_16015
+No gene name	E5E91_16015
+No gene name	E5E91_16020
+No gene name	E5E91_16020
+No gene name	E5E91_16025
+No gene name	E5E91_16025
+No gene name	E5E91_16030
+No gene name	E5E91_16030
+No gene name	E5E91_16035
+No gene name	E5E91_16035
+No gene name	E5E91_16040
+No gene name	E5E91_16040
+No gene name	E5E91_16045
+No gene name	E5E91_16045
+No gene name	E5E91_16050
+No gene name	E5E91_16050
+No gene name	E5E91_16055
+No gene name	E5E91_16055
+No gene name	E5E91_16060
+No gene name	E5E91_16060
+No gene name	E5E91_16065
+No gene name	E5E91_16065
+No gene name	E5E91_16070
+No gene name	E5E91_16070
+No gene name	E5E91_16075
+No gene name	E5E91_16075
+No gene name	E5E91_16080
+No gene name	E5E91_16080
+No gene name	E5E91_16085
+No gene name	E5E91_16085
+No gene name	E5E91_16090
+No gene name	E5E91_16090
+No gene name	E5E91_16095
+No gene name	E5E91_16095
+nrdI	E5E91_16100
+nrdI	E5E91_16100
+nrdE	E5E91_16105
+nrdE	E5E91_16105
+No gene name	E5E91_16110
+No gene name	E5E91_16110
+No gene name	E5E91_16115
+No gene name	E5E91_16115
+No gene name	E5E91_16120
+No gene name	E5E91_16120
+No gene name	E5E91_16125
+No gene name	E5E91_16125
+No gene name	E5E91_16130
+No gene name	E5E91_16130
+No gene name	E5E91_16135
+No gene name	E5E91_16135
+No gene name	E5E91_16140
+No gene name	E5E91_16140
+No gene name	E5E91_16145
+No gene name	E5E91_16145
+No gene name	E5E91_16150
+No gene name	E5E91_16150
+No gene name	E5E91_16155
+No gene name	E5E91_16155
+No gene name	E5E91_16160
+No gene name	E5E91_16160
+No gene name	E5E91_16165
+No gene name	E5E91_16165
+No gene name	E5E91_16170
+No gene name	E5E91_16170
+No gene name	E5E91_16175
+No gene name	E5E91_16175
+No gene name	E5E91_16180
+No gene name	E5E91_16180
+No gene name	E5E91_16185
+No gene name	E5E91_16185
+No gene name	E5E91_16190
+No gene name	E5E91_16190
+No gene name	E5E91_16195
+No gene name	E5E91_16195
+No gene name	E5E91_16200
+No gene name	E5E91_16200
+No gene name	E5E91_16205
+No gene name	E5E91_16205
+No gene name	E5E91_16210
+No gene name	E5E91_16210
+No gene name	E5E91_16215
+No gene name	E5E91_16215
+No gene name	E5E91_16220
+No gene name	E5E91_16220
+No gene name	E5E91_16225
+No gene name	E5E91_16225
+No gene name	E5E91_16230
+No gene name	E5E91_16230
+No gene name	E5E91_16235
+No gene name	E5E91_16235
+No gene name	E5E91_16240
+No gene name	E5E91_16240
+No gene name	E5E91_16245
+No gene name	E5E91_16245
+No gene name	E5E91_16250
+No gene name	E5E91_16250
+No gene name	E5E91_16255
+No gene name	E5E91_16255
+No gene name	E5E91_16260
+No gene name	E5E91_16260
+No gene name	E5E91_16265
+No gene name	E5E91_16265
+No gene name	E5E91_16270
+No gene name	E5E91_16270
+No gene name	E5E91_16275
+No gene name	E5E91_16275
+No gene name	E5E91_16280
+No gene name	E5E91_16280
+No gene name	E5E91_16285
+No gene name	E5E91_16285
+No gene name	E5E91_16290
+No gene name	E5E91_16290
+No gene name	E5E91_16295
+No gene name	E5E91_16295
+No gene name	E5E91_16300
+No gene name	E5E91_16300
+Gene with locus_tag E5E91_RS10905 not found in record CP038665.1.
+Search completed. Gene with locus_tag E5E91_RS10905 not found in any of the GenBank records.
