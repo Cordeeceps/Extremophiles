@@ -1,0 +1,1617 @@
+gene,title,score,e_value,identities,align_length
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",41.0,0.0144484,25,27
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",38.0,0.0504297,22,24
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.176017,24,27
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.176017,18,18
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.176017,24,28
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.176017,27,33
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.61436,25,30
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.61436,19,20
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.61436,25,29
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.61436,17,17
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.61436,20,22
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,2.14433,20,21
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,2.14433,18,19
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,2.14433,22,26
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,2.14433,22,26
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,7.48444,20,23
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,7.48444,17,18
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,7.48444,15,15
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,7.48444,15,15
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,7.48444,18,20
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,7.48444,15,15
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,7.48444,21,25
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,7.48444,18,20
+PprA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,7.48444,21,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.0144484,25,28
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.0144484,22,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0504297,24,26
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0504297,27,32
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0504297,28,34
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0504297,19,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.176017,20,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.176017,26,31
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.176017,18,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.176017,26,29
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.176017,18,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.176017,18,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.176017,27,32
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.176017,18,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.176017,21,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.61436,28,34
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.61436,26,32
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.61436,19,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.61436,22,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.61436,19,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,20,22
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,17,17
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,17,17
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,20,22
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,17,17
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,22,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,34,44
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,20,22
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,17,17
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,17,17
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,20,22
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,17,17
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.61436,17,17
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,21,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,21,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,27,34
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,40,55
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,21,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,21,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,21,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,20,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,26,31
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,18,19
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,23,26
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.14433,20,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,19,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,25,31
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,19,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,24,28
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,28,36
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,29,35
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,22,26
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,19,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,19,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,28,36
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,22,26
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,19,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,22,26
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,22,26
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,16,16
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.14433,19,21
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,23,28
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,19,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,23,28
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,24,29
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,23,28
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,23,28
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,22,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,35,46
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,23,28
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,25,30
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,24,27
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,29,36
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,20,23
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,17,18
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,7.48444,22,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,21,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,21,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,28,37
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,24,30
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,24,30
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,21,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,21,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,25,31
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,21,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,21,24
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,27,35
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,18,20
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,21,25
+PprA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,7.48444,15,15
+PprA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",37.0,0.176017,23,26
+PprA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",36.0,0.176017,24,28
+PprA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",34.0,0.61436,23,27
+PprA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,7.48444,15,15
+PprA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,7.48444,18,20
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",34.0,0.61436,17,17
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,2.14433,28,33
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,2.14433,19,21
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,2.14433,16,16
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,7.48444,17,18
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,7.48444,20,23
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,7.48444,18,20
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,7.48444,18,20
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,7.48444,18,20
+PprA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,7.48444,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",1298.0,0.0,881,1035
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",44.0,0.00144099,25,27
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.0175549,22,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0175549,36,46
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0612725,21,22
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0612725,21,22
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0612725,21,22
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0612725,27,32
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0612725,26,30
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0612725,19,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0612725,25,29
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,24,28
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,21,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,18,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,18,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,18,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,18,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,21,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,21,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,18,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,26,30
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,21,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.213862,18,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.746452,22,25
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.746452,33,40
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.746452,22,25
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.746452,25,30
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,23,27
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,35,45
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,28,34
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,31,38
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,17,17
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,23,27
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,20,22
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,36,46
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,23,27
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,29,37
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,23,27
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.746452,17,17
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,54,79
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,21,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,21,24
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,18,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,28,35
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,25,30
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,23,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,18,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,29,36
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,27,34
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,18,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,18,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,18,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,18,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.60537,18,19
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,22,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,19,21
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,22,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,27,32
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,22,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,19,21
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,19,21
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,42,56
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,25,31
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,19,21
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,57,78
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,22,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,31,41
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,22,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,22,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,22,26
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.60537,16,16
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,21,24
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,26,33
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,22
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,34,45
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,19,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,29,38
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,19,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,22,25
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,20,23
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,17,18
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,23,28
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,32,43
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,29,37
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,9.09364,25,30
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,24,30
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,20,22
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,21,25
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,21,25
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,21,25
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,21,25
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,27,35
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,15,15
+RecA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,9.09364,18,20
+RecA,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",37.0,0.213862,29,36
+RecA,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",31.0,9.09364,25,29
+RecA,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",37.0,0.213862,20,21
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.213862,32,39
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.746452,21,22
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.746452,28,34
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.746452,24,28
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,2.60537,18,19
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,2.60537,18,19
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,2.60537,16,16
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,9.09364,17,18
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,9.09364,20,23
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,9.09364,20,23
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,9.09364,20,23
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,9.09364,17,18
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,9.09364,23,28
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,18,20
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,18,20
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,18,20
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,18,20
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,18,20
+RecA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",36.0,0.213862,30,37
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,2.60537,29,35
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,9.09364,17,18
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,9.09364,17,18
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,9.09364,17,18
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,9.09364,18,20
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,9.09364,20,22
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,9.09364,15,15
+RecA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",33.0,2.60537,18,19
+RecA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",33.0,2.60537,21,24
+RecA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",31.0,9.09364,29,38
+DdrA,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",41.0,0.00991159,25,28
+DdrA,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,5.13433,15,15
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",41.0,0.00991159,25,28
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.120748,21,23
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.120748,28,35
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.120748,24,28
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.421452,17,17
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.421452,20,22
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,1.47101,18,19
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,1.47101,18,19
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.47101,16,16
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.47101,21,23
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.47101,22,26
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.47101,16,16
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.47101,16,16
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.47101,19,21
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.47101,19,21
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.13433,17,18
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.13433,19,20
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.13433,18,20
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.13433,20,22
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.13433,18,20
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.13433,15,15
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.13433,24,30
+DdrA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.00991159,22,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0345949,27,31
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0345949,24,26
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.120748,32,40
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.120748,18,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.120748,21,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.120748,24,27
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,22,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,33,43
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,23,26
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,19,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,25,30
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,22,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,29,36
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,26,31
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,22,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,22,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.421452,19,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.421452,20,22
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.421452,20,22
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.421452,22,24
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.421452,17,17
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.421452,17,17
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.47101,35,46
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.47101,18,19
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.47101,20,21
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.47101,21,24
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.47101,32,41
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.47101,18,19
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,31,41
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,22,26
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,25,31
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,28,35
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,19,21
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,28,36
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,19,21
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,22,26
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,16,16
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.47101,19,21
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,22,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,22,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,29,38
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,23,28
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,20,23
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.13433,17,18
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,20,22
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,21,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,21,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,21,25
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,31,40
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,18,20
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,24,30
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.13433,15,15
+DdrA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",37.0,0.120748,23,26
+DdrA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",35.0,0.421452,33,41
+DdrA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",33.0,1.47101,18,19
+DdrA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",32.0,1.47101,16,16
+DdrA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",34.0,0.421452,35,47
+DdrA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.13433,15,15
+DdrA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.13433,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",408.0,1.15796e-102,341,431
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.00894182,41,54
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.03121,24,27
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.03121,25,29
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.108934,24,28
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.108934,18,18
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.108934,18,18
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.380216,27,33
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.380216,27,32
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.380216,19,20
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.32708,21,24
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.32708,27,34
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,16,16
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,22,25
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,31,40
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,25,30
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,25,30
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,22,26
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,24,29
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,16,16
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.32708,37,51
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,20,23
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,20,23
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,17,18
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,17,18
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,17,18
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,20,23
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,23,28
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,17,18
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,4.63198,19,20
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,18,20
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,23,27
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,18,20
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,18,20
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,29,36
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,21,25
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,18,20
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,18,20
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,4.63198,15,15
+DdrB,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",339.0,1.15899e-83,323,420
+DdrB,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",32.0,1.32708,19,21
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",42.0,0.00256187,24,26
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.380216,22,25
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.32708,22,26
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,4.63198,17,18
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,4.63198,23,28
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,4.63198,15,15
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,4.63198,15,15
+DdrB,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,4.63198,18,20
+DdrB,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",32.0,1.32708,16,16
+DdrB,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,4.63198,15,15
+DdrB,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,1.32708,21,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",369.0,1.02997e-91,354,467
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",57.0,5.01477e-07,51,66
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",44.0,0.000906691,25,27
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",43.0,0.00316466,23,24
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",43.0,0.00316466,28,31
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0110458,28,32
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0385535,33,41
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0385535,19,19
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0385535,22,24
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0385535,25,29
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.134565,20,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.134565,18,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.134565,21,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.469677,32,39
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.469677,19,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.469677,19,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.469677,22,25
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.469677,28,35
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.469677,20,22
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.469677,17,17
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.469677,17,17
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.469677,35,47
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.469677,20,22
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.469677,20,22
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.469677,17,17
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,18,19
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,18,19
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,21,24
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,46,59
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,30,39
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,27,33
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,18,19
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,21,24
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,21,24
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,18,19
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.63934,18,19
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,25,31
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,21,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,16,16
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,24,29
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,19,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,19,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,19,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,19,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,16,16
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,24,28
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,19,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,16,16
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,16,16
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,19,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,16,16
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,21,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.63934,19,21
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,20,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,20,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,23,28
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,20,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,20,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,22,25
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,17,18
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.72184,20,23
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,21,25
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,24,30
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,21,25
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,21,25
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,24,30
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,24,30
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,27,34
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,22,24
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,24,29
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,23,27
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,24,30
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,18,20
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.72184,15,15
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",39.0,0.0385535,21,22
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",34.0,0.469677,20,22
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",32.0,1.63934,16,16
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",32.0,1.63934,35,44
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",31.0,5.72184,31,39
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",31.0,5.72184,17,18
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,5.72184,15,15
+DdrC,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,5.72184,18,20
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",38.0,0.0385535,19,19
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",37.0,0.134565,23,26
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.469677,19,20
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,1.63934,18,19
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,1.63934,18,19
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.63934,19,21
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.63934,16,16
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.63934,16,16
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.63934,19,21
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.63934,19,21
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.72184,29,38
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.72184,17,18
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.72184,15,15
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.72184,15,15
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.72184,15,15
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.72184,21,25
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.72184,18,20
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.72184,18,20
+DdrC,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.72184,15,15
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",35.0,0.469677,19,20
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,1.63934,18,19
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,1.63934,26,31
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,1.63934,34,45
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,5.72184,19,20
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.72184,24,30
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.72184,18,20
+DdrC,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.72184,18,20
+DdrC,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,5.72184,18,20
+DdrC,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,5.72184,21,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",45.0,0.00196179,27,30
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.0238996,22,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0238996,23,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0834176,29,34
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0834176,22,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0834176,25,29
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0834176,28,34
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0834176,28,34
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0834176,30,36
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.291156,22,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.291156,20,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.291156,23,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.291156,32,41
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.291156,20,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.291156,25,28
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.291156,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.291156,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.291156,27,33
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.291156,25,29
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.291156,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.291156,24,28
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,25,30
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,27,32
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,22,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,22,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,24,27
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,24,27
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,22,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,42,57
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,34,45
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,19,20
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,22,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,19,20
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,24,27
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,19,20
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,33,42
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,19,20
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,22,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,25,30
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,22,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,27,32
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.01623,22,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,26,32
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,29,37
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,22,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,37,48
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,34,43
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,26,30
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,23,27
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,17,17
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,25,29
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,48,65
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,28,34
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.01623,22,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,27,34
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,31,40
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,24,29
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,28,33
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,34,43
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,36,47
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,33,44
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,24,29
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,23,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,35,45
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,3.54701,18,19
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,23,27
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,31,41
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,24,28
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,24,28
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,25,30
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,24,28
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,33,43
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,22,25
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,27,33
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",38.0,0.0834176,24,26
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",35.0,1.01623,25,30
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",34.0,1.01623,20,22
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",33.0,3.54701,23,26
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",33.0,3.54701,23,26
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",33.0,3.54701,23,26
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",32.0,3.54701,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",38.0,0.0834176,35,45
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",38.0,0.0834176,34,43
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",38.0,0.0834176,22,24
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.291156,18,18
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,1.01623,19,20
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,1.01623,23,27
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,3.54701,27,34
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,3.54701,21,24
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,3.54701,23,26
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",37.0,0.291156,20,21
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",36.0,0.291156,21,23
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",35.0,1.01623,19,20
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,3.54701,24,29
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,3.54701,22,26
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,3.54701,16,16
+NADH-quinone oxidoreductase subunit N,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,3.54701,19,21
+NADH-quinone oxidoreductase subunit N,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",35.0,1.01623,29,36
+NADH-quinone oxidoreductase subunit N,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",35.0,1.01623,19,20
+NADH-quinone oxidoreductase subunit N,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",35.0,1.01623,29,36
+NADH-quinone oxidoreductase subunit N,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",32.0,3.54701,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",474.0,1.55453e-120,384,482
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",44.0,0.000809545,42,54
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.120147,23,26
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.120147,29,35
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.120147,43,59
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.419355,36,46
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.419355,29,37
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.419355,23,27
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.419355,20,22
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.419355,17,17
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.419355,20,22
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.46369,24,29
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.46369,18,19
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.46369,18,19
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.46369,24,29
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.46369,18,19
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,16,16
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,24,28
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,16,16
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,16,16
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,16,16
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,16,16
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,16,16
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,16,16
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.46369,19,21
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,20,23
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,17,18
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,23,28
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,24,29
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,17,18
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,23,28
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,20,23
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,20,23
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,19,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,29,38
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,20,23
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,17,18
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,36,49
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,17,18
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.10879,17,18
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,18,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,24,30
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,18,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,21,25
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,24,30
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,27,35
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,18,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,18,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,28,34
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,27,35
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,18,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,18,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,24,30
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,25,31
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,18,20
+Dps,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.10879,15,15
+Dps,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",38.0,0.0344227,22,24
+Dps,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",38.0,0.0344227,28,34
+Dps,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.10879,18,20
+Dps,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.10879,18,20
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.120147,21,23
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,1.46369,27,33
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,1.46369,21,24
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.46369,23,27
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.46369,19,21
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.46369,19,21
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.46369,19,21
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.10879,26,33
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.10879,17,18
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.10879,15,15
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.10879,15,15
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.10879,18,20
+Dps,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.10879,18,20
+Dps,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",31.0,5.10879,20,23
+Dps,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,5.10879,18,20
+Dps,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,5.10879,27,35
+Dps,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,5.10879,21,25
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",167.0,9.97153e-37,232,331
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",43.0,0.00453507,23,24
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.192836,20,21
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.192836,24,28
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.192836,18,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.192836,27,33
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.673065,28,35
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.673065,19,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.673065,19,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.673065,28,35
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,20,22
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,17,17
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,22,24
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,26,31
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,20,22
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,23,26
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,17,17
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,25,29
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,20,22
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,25,29
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.673065,33,41
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,21,24
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,18,19
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,24,29
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,18,19
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,18,19
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,18,19
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,18,19
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,18,19
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,2.34923,21,24
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,19,21
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,16,16
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,22,26
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,25,31
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,21,23
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,16,16
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,22,26
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,24,28
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,19,21
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,19,21
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,16,16
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,22,26
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,2.34923,16,16
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,19,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,26,33
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,20,23
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,23,28
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,23,28
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,23,28
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,23,28
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,20,23
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,20,23
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,28,35
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,25,30
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,17,18
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,41,58
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,8.19961,20,23
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,21,25
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,24,30
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,21,25
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,24,29
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,20,22
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,21,25
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,21,25
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,15,15
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,18,20
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,24,30
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,21,25
+IrrE,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,8.19961,21,25
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",39.0,0.0552485,33,42
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.673065,30,37
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,0.673065,27,32
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,2.34923,18,19
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,2.34923,21,24
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,2.34923,18,19
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,2.34923,21,23
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,8.19961,20,23
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,8.19961,17,18
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,8.19961,23,27
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,8.19961,26,32
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,8.19961,15,15
+IrrE,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,8.19961,15,15
+IrrE,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",37.0,0.192836,25,28
+IrrE,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",31.0,8.19961,17,18
+IrrE,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,8.19961,24,29
+IrrE,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,2.34923,18,19
+IrrE,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,8.19961,23,28
+IrrE,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,8.19961,26,33
+IrrE,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,8.19961,24,29
+IrrE,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,8.19961,15,15
+IrrE,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,8.19961,20,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",1255.0,0.0,1101,1413
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",636.0,7.56625e-164,781,1077
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",48.0,0.000303461,33,39
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",48.0,0.000303461,33,39
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",46.0,0.00105918,26,28
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",43.0,0.0129035,39,48
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",43.0,0.0129035,26,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",42.0,0.0129035,27,31
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.0450376,22,23
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0450376,36,46
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0450376,34,42
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0450376,30,36
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0450376,45,58
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0450376,39,51
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.157197,24,27
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.157197,33,42
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.157197,21,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.157197,25,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.157197,22,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.157197,22,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.157197,22,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,20,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,20,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,20,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,20,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,20,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,23,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,26,31
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,23,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.54867,20,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,24,28
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,38,49
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,21,23
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,26,30
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,24,28
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,18,18
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,21,23
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,21,23
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,28,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,21,23
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,18,18
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,23,25
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.54867,18,18
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,22,25
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,35,44
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,36,47
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,22,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,25,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,22,25
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,28,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,31,38
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,21,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,22,25
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,22,25
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,19,20
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,1.91505,22,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,28,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,30,36
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,29,36
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,20,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,20,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,25,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,20,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,23,27
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,17,17
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,29,36
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,23,27
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,20,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,77,113
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,20,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,23,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,26,32
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,20,22
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,1.91505,55,77
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,24,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,30,39
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,27,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,27,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,24,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,29,36
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,25,28
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,23,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,24,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,28,35
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,28,33
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,25,30
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,23,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,23,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,24,29
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,24,28
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,37,48
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,27,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,21,24
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,29,36
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,27,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,18,19
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,6.68417,27,34
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,22,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,22,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,39,51
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,33,43
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,33,43
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,25,31
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,25,31
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,22,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,28,36
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,21,23
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,21,23
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,22,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,22,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,22,26
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,25,31
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,19,21
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,16,16
+PolA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,6.68417,22,25
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",43.0,0.0129035,29,34
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",40.0,0.0450376,20,20
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",34.0,1.91505,20,22
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,6.68417,18,19
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,6.68417,21,24
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,6.68417,16,16
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,6.68417,16,16
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,6.68417,22,26
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,6.68417,19,21
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,6.68417,24,28
+PolA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,6.68417,16,16
+PolA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",42.0,0.0129035,35,44
+PolA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",39.0,0.157197,24,27
+PolA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",35.0,1.91505,22,25
+PolA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",34.0,1.91505,23,27
+PolA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",34.0,1.91505,20,22
+PolA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",32.0,6.68417,16,16
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",40.0,0.0450376,25,27
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",38.0,0.157197,24,26
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.54867,21,23
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.54867,28,34
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,1.91505,19,20
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,1.91505,19,20
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",35.0,1.91505,25,30
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,1.91505,17,17
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,1.91505,20,22
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,1.91505,20,22
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,1.91505,17,17
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,6.68417,21,24
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,6.68417,30,39
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,6.68417,18,19
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,6.68417,20,21
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,16,16
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,19,21
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,19,21
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,25,31
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,19,21
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,16,16
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,32,42
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,16,16
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,19,21
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,23,27
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,22,26
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,27,33
+PolA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,6.68417,22,26
+PolA,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",35.0,1.91505,22,25
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",1013.0,0.0,676,789
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.0126731,25,28
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.15439,31,37
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.15439,27,33
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.538876,28,34
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.538876,22,25
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.538876,19,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.538876,22,25
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.538876,17,17
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.538876,17,17
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.538876,17,17
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.538876,23,27
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.538876,23,27
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.88086,18,19
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.88086,30,39
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.88086,21,24
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.88086,18,19
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.88086,21,24
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.88086,18,19
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.88086,25,31
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.88086,19,21
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.88086,19,21
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,20,23
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,22,25
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,23,28
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,22,25
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,17,18
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,6.56485,25,30
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,18,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,21,25
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,18,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,21,25
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,18,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,27,35
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,18,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,18,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,18,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,18,20
+ThyA,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,6.56485,15,15
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",37.0,0.15439,26,31
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.15439,21,23
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.538876,23,27
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.538876,27,33
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.88086,19,21
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.88086,24,28
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.88086,19,21
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,6.56485,20,23
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,6.56485,17,18
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,6.56485,15,15
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,6.56485,15,15
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,6.56485,15,15
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,6.56485,18,20
+ThyA,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,6.56485,21,25
+ThyA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",36.0,0.15439,21,23
+ThyA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,6.56485,18,20
+ThyA,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,6.56485,15,15
+ThyA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,1.88086,16,16
+ThyA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,6.56485,17,18
+ThyA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,6.56485,15,15
+ThyA,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,6.56485,21,25
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",732.0,0.0,555,681
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",47.0,0.000269049,25,26
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",42.0,0.00327769,24,26
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",41.0,0.0114402,25,28
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",40.0,0.0114402,23,25
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",39.0,0.0399304,27,32
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",38.0,0.0399304,22,24
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.139371,42,54
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.139371,23,26
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",37.0,0.139371,31,37
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.139371,24,28
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",36.0,0.139371,29,35
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.486452,19,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.486452,19,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.486452,19,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.486452,25,30
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.486452,19,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",35.0,0.486452,22,25
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.486452,17,17
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",34.0,0.486452,17,17
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,26,31
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,18,19
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,24,29
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,18,19
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,21,24
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,24,29
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,24,28
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",33.0,1.69788,18,19
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,21,23
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,21,23
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,22,26
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,19,21
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,21,23
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,16,16
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,21,23
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,31,41
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,19,21
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,22,26
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,19,21
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",32.0,1.69788,19,21
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,26,33
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,26,32
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,34,45
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,23,27
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,32,40
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,25,30
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,34,45
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,20,23
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,27,32
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,17,18
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,23,28
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",31.0,5.92619,20,23
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,20,22
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,21,25
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,21,25
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,21,25
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,15,15
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324314064|gb|CP002536.1| Deinococcus proteolyticus MRP, complete genome",30.0,5.92619,18,20
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",36.0,0.139371,18,18
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",34.0,0.486452,17,17
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",33.0,1.69788,21,23
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.69788,22,26
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",32.0,1.69788,19,21
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.92619,20,23
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.92619,22,25
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.92619,20,23
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.92619,19,20
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",31.0,5.92619,17,18
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.92619,15,15
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.92619,15,15
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.92619,27,35
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.92619,15,15
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.92619,18,20
+PNPase,"gi|324316040|gb|CP002537.1| Deinococcus proteolyticus MRP plasmid pDEIPR01, complete sequence",30.0,5.92619,15,15
+PNPase,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",33.0,1.69788,27,33
+PNPase,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",32.0,1.69788,19,21
+PNPase,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",31.0,5.92619,20,23
+PNPase,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.92619,20,22
+PNPase,"gi|324316521|gb|CP002539.1| Deinococcus proteolyticus MRP plasmid pDEIPR03, complete sequence",30.0,5.92619,15,15
+PNPase,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,5.92619,18,20
+PNPase,"gi|324316631|gb|CP002540.1| Deinococcus proteolyticus MRP plasmid pDEIPR04, complete sequence",30.0,5.92619,15,15
+PNPase,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,5.92619,18,20
+PNPase,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,5.92619,15,15
+PNPase,"gi|324316295|gb|CP002538.1| Deinococcus proteolyticus MRP plasmid pDEIPR02, complete sequence",30.0,5.92619,26,31
