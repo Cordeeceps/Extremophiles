@@ -1,0 +1,180 @@
+gene,title,score,e_value,identities,align_length
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",35.0,0.436295,19,20
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",35.0,0.436295,19,20
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.52282,19,21
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.31516,17,18
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.31516,17,18
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.31516,17,18
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,15,15
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,15,15
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,15,15
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,15,15
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,15,15
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,15,15
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,18,20
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,20,22
+PprA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.31516,20,22
+PprA,"gi|470484147|ref|NR_076632.1| Thermococcus gammatolerans strain EJ3 23S ribosomal RNA gene, complete sequence",30.0,5.31516,20,22
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",39.0,0.0435143,21,22
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",39.0,0.0435143,24,27
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",37.0,0.15188,32,41
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",35.0,0.530112,19,20
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.530112,39,51
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.530112,17,17
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.85027,21,24
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.85027,18,19
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.85027,29,37
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,6.45809,17,18
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,6.45809,17,18
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,6.45809,17,18
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,6.45809,17,18
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,6.45809,17,18
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,6.45809,17,18
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,15,15
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,15,15
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,18,20
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,18,20
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,21,25
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,18,20
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,21,25
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,15,15
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,6.45809,18,20
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.04641,18,19
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.04641,18,19
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.04641,16,16
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.04641,25,31
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.65233,17,18
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.65233,17,18
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.65233,17,18
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.65233,15,15
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.65233,18,20
+DdrA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.65233,15,15
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.27002,26,32
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,0.942462,18,19
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,0.942462,16,16
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.28951,17,18
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.28951,17,18
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.28951,19,20
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.28951,15,15
+DdrB,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.28951,18,20
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",36.0,0.095707,21,23
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.16595,29,36
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.16595,16,16
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.16595,16,16
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,4.06956,17,18
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.06956,18,20
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.06956,15,15
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.06956,18,20
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.06956,38,50
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.06956,15,15
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.06956,18,20
+DdrC,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.06956,18,20
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",48.0,0.000114441,30,34
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",38.0,0.0592821,25,29
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",38.0,0.0592821,19,19
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",36.0,0.206915,23,25
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.722203,20,22
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,2.52074,18,19
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,2.52074,18,19
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,2.52074,19,21
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,2.52074,16,16
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,2.52074,16,16
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,2.52074,16,16
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,2.52074,28,36
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,2.52074,22,26
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,8.79824,20,23
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,8.79824,20,23
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,8.79824,17,18
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,8.79824,17,18
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,8.79824,17,18
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,8.79824,17,18
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,8.79824,20,23
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,8.79824,15,15
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,8.79824,21,25
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,8.79824,18,20
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,8.79824,15,15
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,8.79824,15,15
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,8.79824,15,15
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,8.79824,15,15
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.298312,22,24
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.298312,20,22
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.04121,24,29
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.04121,16,16
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.04121,19,21
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.63419,17,18
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.63419,32,43
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.63419,17,18
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,3.63419,17,18
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.63419,15,15
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.63419,15,15
+Dps,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,3.63419,21,25
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.477994,32,41
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.66836,19,21
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.82316,20,23
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.82316,17,18
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.82316,17,18
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.82316,17,18
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.82316,17,18
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,5.82316,17,18
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,18,20
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,18,20
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,24,30
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,15,15
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,15,15
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,15,15
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,15,15
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,15,15
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,18,20
+IrrE,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,5.82316,21,25
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",39.0,0.111678,27,32
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",38.0,0.111678,31,37
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",37.0,0.389796,25,28
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",35.0,1.36052,25,30
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",35.0,1.36052,25,30
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",35.0,1.36052,19,20
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,1.36052,20,22
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,1.36052,17,17
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,1.36052,24,28
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,23,26
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,24,29
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,21,24
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,30,39
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,18,19
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,18,19
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,18,19
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,4.74869,18,19
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,16,16
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,16,16
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,16,16
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,16,16
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+PolA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,4.74869,19,21
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",36.0,0.109786,18,18
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.33746,18,19
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,15,15
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,15,15
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,21,25
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,15,15
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,15,15
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,15,15
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,15,15
+ThyA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.66821,15,15
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",38.0,0.0283984,22,24
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",34.0,0.345963,20,22
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.20753,27,34
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",33.0,1.20753,18,19
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",32.0,1.20753,19,21
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,4.21469,17,18
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",31.0,4.21469,17,18
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.21469,15,15
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.21469,15,15
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.21469,15,15
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.21469,15,15
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",30.0,4.21469,15,15

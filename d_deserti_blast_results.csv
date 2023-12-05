@@ -1,0 +1,235 @@
+gene,title,score,e_value,identities,align_length
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.30943,21,24
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.30943,18,19
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.30943,16,16
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.57037,17,18
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.57037,20,23
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.57037,17,18
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.57037,20,23
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.57037,20,23
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.57037,20,23
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,15,15
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,24,30
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,15,15
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,18,20
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,15,15
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,15,15
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,15,15
+PprA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.57037,21,25
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",242.0,1.58497e-57,378,545
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.130447,29,36
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",35.0,0.455306,52,72
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.58917,21,24
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.58917,18,19
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.58917,18,19
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.58917,27,34
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.58917,24,29
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.58917,18,19
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.58917,16,16
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.58917,19,21
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.58917,22,26
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.58917,16,16
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.58917,19,21
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,17,18
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,17,18
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,20,22
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,22,25
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,17,18
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,31,39
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,20,23
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,17,18
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.54676,20,22
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,18,20
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,21,25
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,18,20
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,18,20
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,18,20
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,26,32
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,18,20
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,18,20
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,18,20
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.54676,15,15
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.0737737,25,28
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",35.0,0.257495,28,35
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,0.898747,21,24
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,0.898747,19,21
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.13694,17,18
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.13694,17,18
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.13694,17,18
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.13694,20,22
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.13694,22,26
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.13694,15,15
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.13694,15,15
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.13694,18,20
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.13694,18,20
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.13694,21,25
+DdrA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.13694,15,15
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.0664451,20,21
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,0.231916,17,17
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,0.809468,18,19
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,2.82532,17,18
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,2.82532,17,18
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,2.82532,15,15
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,19,22
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,16,17
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,16,17
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,16,17
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,19,22
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,16,17
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,16,17
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",29.0,9.86133,16,17
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,17,19
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,17,19
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,17,19
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,17,19
+DdrB,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",28.0,9.86133,14,14
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",36.0,0.0822014,21,23
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,0.286911,17,17
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.00142,16,16
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.00142,16,16
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,18,20
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,15,15
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,15,15
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,21,25
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,18,20
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,18,20
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,18,20
+DdrC,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.49529,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",36.0,0.177716,21,23
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",36.0,0.177716,21,23
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,0.620291,20,22
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,2.16503,18,19
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,2.16503,20,21
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,2.16503,18,19
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,2.16503,24,29
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,2.16503,19,21
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,2.16503,16,16
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,17,18
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,17,18
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,25,30
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,32,41
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,31,40
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,22,25
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,19,20
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,7.55669,17,18
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,20,22
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,15,15
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,18,20
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,18,20
+NADH-quinone oxidoreductase subunit N,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,7.55669,18,20
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",38.0,0.0210315,25,29
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.0734072,20,21
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,0.894283,21,24
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,0.894283,19,21
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.12135,22,25
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.12135,17,18
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.12135,25,30
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.12135,18,20
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.12135,15,15
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.12135,15,15
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.12135,23,27
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.12135,24,29
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.117622,23,26
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",35.0,0.410543,19,20
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",35.0,0.410543,19,20
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,0.410543,17,17
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,20,21
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,21,24
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,18,19
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,21,24
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,21,24
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,18,19
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,18,19
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.43294,21,24
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.43294,16,16
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.43294,16,16
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.43294,16,16
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.43294,16,16
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.43294,16,16
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.43294,19,21
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.43294,21,23
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.00144,17,18
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.00144,17,18
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,5.00144,20,23
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.00144,15,15
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.00144,15,15
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.00144,18,20
+IrrE,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,5.00144,18,20
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",76.0,4.64955e-12,83,113
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",59.0,3.57457e-07,59,76
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",38.0,0.095919,19,19
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",38.0,0.095919,38,49
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.33479,23,26
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.33479,23,26
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.33479,23,26
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",37.0,0.33479,20,21
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",36.0,0.33479,18,18
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",36.0,0.33479,21,23
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",36.0,0.33479,24,28
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",35.0,1.16853,19,20
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,1.16853,20,22
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,1.16853,17,17
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,4.07858,21,24
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,4.07858,18,19
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,4.07858,16,16
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,4.07858,19,21
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,4.07858,16,16
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,4.07858,19,21
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,4.07858,29,38
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,4.07858,19,21
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,4.07858,16,16
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",35.0,0.329117,19,20
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,0.329117,22,24
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,0.329117,20,22
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",34.0,0.329117,20,22
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.00946,22,25
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,4.00946,17,18
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.00946,18,20
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.00946,18,20
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.00946,15,15
+ThyA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,4.00946,18,20
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",36.0,0.0851328,27,33
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",33.0,1.03713,21,24
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",32.0,1.03713,19,21
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.61994,20,23
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.61994,26,33
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.61994,17,18
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.61994,19,20
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",31.0,3.61994,20,23
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,18,20
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,18,20
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,21,25
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,18,20
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
+PNPase,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",30.0,3.61994,15,15
