@@ -1,0 +1,5 @@
+gene,title,score,e_value,identities,align_length
+RecA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",242.0,1.5849699999999998e-57,378,545
+Dps,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",38.0,0.0210315,25,29
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",76.0,4.64955e-12,83,113
+PolA,"gi|1346221182|gb|CP026923.1| Pontimonas salivibrio strain CL-TW6 chromosome, complete genome",59.0,3.57457e-07,59,76

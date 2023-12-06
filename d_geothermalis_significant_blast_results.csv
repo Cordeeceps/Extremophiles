@@ -1,0 +1,5 @@
+gene,title,score,e_value,identities,align_length
+Dps,gi|695564742|ref|XM_009551052.1| Heterobasidion irregulare TC 32-1 Esterase/lipase/thioesterase partial mRNA,32.0,0.000481745,22,26
+IrrE,gi|695564742|ref|XM_009551052.1| Heterobasidion irregulare TC 32-1 Esterase/lipase/thioesterase partial mRNA,27.0,0.0325857,17,18
+IrrE,gi|695564742|ref|XM_009551052.1| Heterobasidion irregulare TC 32-1 Esterase/lipase/thioesterase partial mRNA,26.0,0.0325857,13,13
+PolA,gi|695564742|ref|XM_009551052.1| Heterobasidion irregulare TC 32-1 Esterase/lipase/thioesterase partial mRNA,30.0,0.00755445,24,30

@@ -1,0 +1,5 @@
+gene,title,score,e_value,identities,align_length
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",39.0,0.0435143,21,22
+RecA,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",39.0,0.0435143,24,27
+NADH-quinone oxidoreductase subunit N,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",48.0,0.000114441,30,34
+PNPase,"gi|239909610|gb|CP001398.1| Thermococcus gammatolerans EJ3, complete genome",38.0,0.0283984,22,24

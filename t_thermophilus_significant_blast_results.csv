@@ -1,0 +1,331 @@
+gene,title,score,e_value,identities,align_length
+PprA,"gi|1012291606|gb|CP014867.1| Pseudomonas chlororaphis isolate 189, complete genome",52,0.0108898,43,53
+PprA,"gi|758845968|gb|CP010892.1| Pseudomonas sp. MRSN12121, complete genome",52,0.0108898,46,58
+PprA,"gi|647802220|gb|CP008696.1| Pseudomonas chlororaphis strain PA23, complete genome",50,0.0380093,45,57
+RecA,"gi|410696020|gb|CP003249.1| Thermus oshimai JL-2, complete genome",597,2.89642e-150,670,915
+RecA,"gi|1105531595|dbj|AP017920.1| Thermus thermophilus DNA, complete genome, strain: TMY",577,7.77218e-145,661,901
+RecA,"gi|383508497|gb|CP003252.1| Thermus thermophilus JL-18, complete genome",570,3.30481e-143,656,898
+RecA,"gi|333965676|gb|CP002777.1| Thermus thermophilus SG0.5JP17-16, complete genome",565,1.40524e-141,655,898
+RecA,gi|119668705|emb|AM406670.1| Azoarcus olearius strain BH72 genome assembly,520,1.23268e-129,647,895
+RecA,"gi|933519261|gb|CP012401.1| Azospirillum thiophilum strain BV-S chromosome 1, complete sequence",517,1.50171e-128,577,776
+RecA,"gi|1021448326|gb|CP014963.1| Geobacter anodireducens strain SD-1 chromosome, complete genome",493,4.90911e-122,675,956
+RecA,"gi|938485835|gb|CP012914.1| Azospirillum brasilense strain Sp 7 chromosome, complete sequence",492,4.90911e-122,549,737
+RecA,"gi|646255953|gb|CP007793.1| Azospirillum brasilense strain Az39, complete genome",469,1.6048e-115,482,639
+RecA,"gi|1022528561|gb|CP015377.1| Pseudomonas aeruginosa strain BAMCPA07-48 chromosome, complete genome",467,5.6013e-115,634,888
+RecA,"gi|1847250123|dbj|AP022810.1| Desulfuromonas sp. AOP6 DNA, complete genome",466,5.6013e-115,625,881
+RecA,"gi|1021079766|dbj|AP017424.1| Streptomyces laurentii DNA, complete genome, strain: ATCC 31255",466,5.6013e-115,569,783
+RecA,"gi|1044641851|gb|CP011857.1| Pseudomonas aeruginosa strain ATCC 27853, complete genome",463,6.82377e-114,632,887
+RecA,"gi|1016892938|gb|CP015117.1| Pseudomonas aeruginosa strain ATCC 27853 chromosome, complete genome",463,6.82377e-114,632,887
+RecA,"gi|974311447|gb|CP008863.1| Pseudomonas aeruginosa strain M37351 chromosome, complete genome",463,6.82377e-114,632,887
+RecA,gi|817624209|gb|CP011369.1| Pseudomonas aeruginosa strain S04 90 chromosome,463,6.82377e-114,632,887
+RecA,"gi|974341323|gb|CP008868.1| Pseudomonas aeruginosa strain T63266 chromosome, complete genome",458,8.31306e-113,631,887
+RecA,"gi|974335511|gb|CP008867.1| Pseudomonas aeruginosa strain T52373 chromosome, complete genome",458,8.31306e-113,631,887
+RecA,"gi|881079720|gb|CP012066.1| Pseudomonas aeruginosa strain F9676, complete genome",458,8.31306e-113,631,887
+RecA,"gi|745838743|gb|CP007399.1| Pseudomonas aeruginosa strain F22031, complete genome",458,8.31306e-113,631,887
+RecA,"gi|674252391|gb|CP008739.2| Pseudomonas aeruginosa VRFPA04, complete genome",458,8.31306e-113,631,887
+RecA,"gi|563408818|gb|CP006853.1| Pseudomonas aeruginosa MTB-1, complete genome",458,8.31306e-113,631,887
+RecA,"gi|1169601839|gb|CP014866.1| Pseudomonas aeruginosa strain PA_154197 chromosome, complete genome",453,3.5348e-111,630,887
+RecA,"gi|974282928|gb|CP008861.1| Pseudomonas aeruginosa strain H47921 chromosome, complete genome",453,3.5348e-111,630,887
+RecA,"gi|974255378|gb|CP008857.1| Pseudomonas aeruginosa strain F30658 chromosome, complete genome",453,3.5348e-111,630,887
+RecA,"gi|970332569|gb|CP013696.1| Pseudomonas aeruginosa strain 12-4-4(59) chromosome, complete genome",453,3.5348e-111,630,887
+RecA,"gi|927993303|gb|CP012679.1| Pseudomonas aeruginosa strain PA1RG chromosome, complete genome",453,3.5348e-111,630,887
+RecA,"gi|927226644|gb|CP004054.2| Pseudomonas aeruginosa PA1, complete genome",453,3.5348e-111,630,887
+RecA,"gi|861670927|gb|CP012001.1| Pseudomonas aeruginosa DSM 50071, complete genome",453,3.5348e-111,630,887
+RecA,"gi|815968487|gb|CP011317.1| Pseudomonas aeruginosa strain Carb01 63, complete genome",453,3.5348e-111,630,887
+RecA,"gi|751373101|gb|CP010555.1| Pseudomonas aeruginosa strain FRD1, complete genome",453,3.5348e-111,630,887
+RecA,gi|589338112|gb|CP006985.1| Pseudomonas aeruginosa LESlike4 sequence,453,3.5348e-111,630,887
+RecA,gi|589332184|gb|CP006984.1| Pseudomonas aeruginosa LESlike1 chromosome,453,3.5348e-111,630,887
+RecA,gi|589326231|gb|CP006983.1| Pseudomonas aeruginosa LESB65 sequence,453,3.5348e-111,630,887
+RecA,gi|589320215|gb|CP006982.1| Pseudomonas aeruginosa LES400 sequence,453,3.5348e-111,630,887
+RecA,gi|589314341|gb|CP006981.1| Pseudomonas aeruginosa LESlike7 sequence,453,3.5348e-111,630,887
+RecA,gi|589308385|gb|CP006980.1| Pseudomonas aeruginosa LESlike5 sequence,453,3.5348e-111,630,887
+RecA,"gi|566561164|gb|CP006937.1| Pseudomonas aeruginosa LES431, complete genome",453,3.5348e-111,630,887
+RecA,"gi|576902775|gb|CP007147.1| Pseudomonas aeruginosa YL84, complete genome",449,4.30627e-110,628,886
+RecA,"gi|975043142|gb|CP013989.1| Pseudomonas aeruginosa strain USDA-ARS-USMARC-41639 chromosome, complete genome",448,4.30627e-110,629,887
+RecA,"gi|954630252|gb|CP013245.1| Pseudomonas aeruginosa strain VA-134 chromosome, complete genome",448,4.30627e-110,629,887
+RecA,"gi|514245605|gb|CP006245.1| Pseudomonas aeruginosa RP73, complete genome",448,4.30627e-110,629,887
+RecA,gi|779731694|gb|CP010430.1| Geobacter sulfurreducens strain AM-1 genome,444,5.24611e-109,633,901
+RecA,"gi|982189197|gb|CP013993.1| Pseudomonas aeruginosa DHS01 chromosome, complete genome",443,1.83107e-108,628,887
+RecA,"gi|745831697|gb|CP006877.1| Rhizobium gallicum bv. gallicum R602sp strain R602 chromosome, complete genome",438,2.2307e-107,535,734
+RecA,"gi|482529293|gb|CP005094.1| Azotobacter vinelandii CA, complete genome",435,2.71755e-106,479,643
+RecA,"gi|1248761407|gb|CP012621.1| Zobellella denitrificans strain F13-1 chromosome, complete genome",424,1.40773e-103,537,750
+RecA,"gi|567355861|gb|CP006979.1| Pseudomonas monteilii SB3101, complete genome",418,5.98581e-102,477,647
+RecA,"gi|567348216|gb|CP006978.1| Pseudomonas monteilii SB3078, complete genome",418,5.98581e-102,477,647
+RecA,"gi|1057926126|gb|CP014262.1| Pseudomonas corrugata strain RM1-1-4 chromosome, complete genome",417,2.08925e-101,506,698
+DdrA,"gi|742984403|gb|CP010377.1| Enterobacter hormaechei subsp. hormaechei strain 34983, complete genome",65,4.11226e-06,46,55
+DdrA,"gi|924308395|gb|CP012257.1| Cronobacter universalis NCTC 9529, complete genome",51,0.0259512,61,82
+DdrA,gi|119668705|emb|AM406670.1| Azoarcus olearius strain BH72 genome assembly,51,0.0259512,46,57
+DdrA,"gi|982198872|gb|CP013997.1| Pseudomonas monteilii strain USDA-ARS-USMARC-56711 chromosome, complete genome",50,0.0259512,31,35
+DdrC,"gi|1248761407|gb|CP012621.1| Zobellella denitrificans strain F13-1 chromosome, complete genome",55,0.00237764,35,40
+DdrC,"gi|482529293|gb|CP005094.1| Azotobacter vinelandii CA, complete genome",53,0.0082988,46,54
+NADH-quinone oxidoreductase subunit N,"gi|1002767533|gb|CP014546.1| Pseudomonas azotoformans strain S4 chromosome, complete genome",83,1.30121e-10,93,126
+NADH-quinone oxidoreductase subunit N,"gi|1002767533|gb|CP014546.1| Pseudomonas azotoformans strain S4 chromosome, complete genome",53,0.0180871,64,85
+NADH-quinone oxidoreductase subunit N,"gi|1133639402|emb|LT708304.1| Mycobacterium bovis AF2122/97 genome assembly, chromosome: Mycobacterium_bovis_AF212297",74,1.93117e-08,79,105
+NADH-quinone oxidoreductase subunit N,"gi|749193065|gb|CP007027.1| Mycobacterium tuberculosis H37RvSiena, complete genome",74,1.93117e-08,79,105
+NADH-quinone oxidoreductase subunit N,gi|444893469|emb|AL123456.3| Mycobacterium tuberculosis H37Rv complete genome,74,1.93117e-08,79,105
+NADH-quinone oxidoreductase subunit N,"gi|684194542|gb|CP009365.1| Pseudomonas soli strain SJ10, complete genome",65,1.00037e-05,201,307
+NADH-quinone oxidoreductase subunit N,gi|589289709|gb|CP007268.1| Ectothiorhodospira haloalkaliphila genome,62,3.49163e-05,70,96
+NADH-quinone oxidoreductase subunit N,"gi|933519261|gb|CP012401.1| Azospirillum thiophilum strain BV-S chromosome 1, complete sequence",61,0.00012187,80,108
+NADH-quinone oxidoreductase subunit N,"gi|558500226|gb|CP006254.2| Geobacillus genomosp. 3 strain JF8 chromosome, complete genome",58,0.000425368,53,69
+NADH-quinone oxidoreductase subunit N,"gi|1248761407|gb|CP012621.1| Zobellella denitrificans strain F13-1 chromosome, complete genome",57,0.00148468,48,61
+NADH-quinone oxidoreductase subunit N,"gi|1021079766|dbj|AP017424.1| Streptomyces laurentii DNA, complete genome, strain: ATCC 31255",57,0.00148468,105,152
+NADH-quinone oxidoreductase subunit N,"gi|190010013|emb|AM743169.1| Stenotrophomonas maltophilia K279a complete genome, strain K279a",57,0.00148468,69,96
+NADH-quinone oxidoreductase subunit N,"gi|190010013|emb|AM743169.1| Stenotrophomonas maltophilia K279a complete genome, strain K279a",54,0.00518204,69,97
+NADH-quinone oxidoreductase subunit N,"gi|190010013|emb|AM743169.1| Stenotrophomonas maltophilia K279a complete genome, strain K279a",53,0.0180871,40,49
+NADH-quinone oxidoreductase subunit N,"gi|938485835|gb|CP012914.1| Azospirillum brasilense strain Sp 7 chromosome, complete sequence",55,0.00518204,77,105
+NADH-quinone oxidoreductase subunit N,"gi|973430823|gb|CP007518.2| Aeromonas hydrophila YL17, complete genome",54,0.00518204,42,52
+NADH-quinone oxidoreductase subunit N,"gi|975029867|gb|CP013987.1| Pseudomonas oryzihabitans strain USDA-ARS-USMARC-56511 chromosome, complete genome",53,0.0180871,34,39
+NADH-quinone oxidoreductase subunit N,"gi|730587126|gb|CP009747.1| Pseudomonas parafulva strain CRS01-1, complete genome",53,0.0180871,31,34
+NADH-quinone oxidoreductase subunit N,"gi|646255953|gb|CP007793.1| Azospirillum brasilense strain Az39, complete genome",53,0.0180871,31,34
+NADH-quinone oxidoreductase subunit N,"gi|1196016007|gb|CP011508.1| Pseudomonas mendocina strain NSYSU, complete genome",52,0.0180871,32,36
+NADH-quinone oxidoreductase subunit N,"gi|731561508|gb|CP009880.2| Pantoea sp. PSNIH1, complete genome",52,0.0180871,38,46
+NADH-quinone oxidoreductase subunit N,"gi|692336178|gb|CP009290.1| Pseudomonas chlororaphis subsp. aurantiaca strain JD37, complete genome",52,0.0180871,64,86
+NADH-quinone oxidoreductase subunit N,"gi|647802220|gb|CP008696.1| Pseudomonas chlororaphis strain PA23, complete genome",52,0.0180871,64,86
+Dps,"gi|1021079766|dbj|AP017424.1| Streptomyces laurentii DNA, complete genome, strain: ATCC 31255",51,0.0258201,36,43
+Dps,"gi|975025465|gb|CP013965.1| Aeromonas hydrophila strain D4 chromosome, complete genome",51,0.0258201,39,48
+Dps,"gi|958617326|gb|CP013178.1| Aeromonas hydrophila strain JBN2301 chromosome, complete genome",51,0.0258201,39,48
+Dps,"gi|827370414|gb|CP006870.1| Aeromonas hydrophila NJ-35, complete genome",51,0.0258201,39,48
+Dps,"gi|748231934|gb|CP006883.1| Aeromonas hydrophila J-1, complete genome",51,0.0258201,39,48
+Dps,"gi|2265454226|emb|LR963138.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",51,0.0258201,39,48
+Dps,"gi|2265449258|emb|LR963135.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",51,0.0258201,39,48
+Dps,"gi|2265444577|emb|LR963132.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",51,0.0258201,39,48
+Dps,"gi|2265439653|emb|LR963129.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",51,0.0258201,39,48
+Dps,"gi|2265434934|emb|LR963127.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",51,0.0258201,39,48
+Dps,"gi|615567765|gb|CP007576.1| Aeromonas hydrophila pc104A, complete genome",51,0.0258201,39,48
+Dps,"gi|613730844|gb|CP007566.1| Aeromonas hydrophila AL09-71, complete genome",51,0.0258201,39,48
+Dps,"gi|190010013|emb|AM743169.1| Stenotrophomonas maltophilia K279a complete genome, strain K279a",51,0.0258201,39,47
+IrrE,"gi|829490642|gb|CP011020.1| Pseudomonas chlororaphis strain UFB2, complete genome",51,0.0416791,33,38
+IrrE,"gi|570731247|gb|CP007031.1| Marichromatium purpuratum 984, complete genome",50,0.0416791,47,60
+PolA,"gi|1105531595|dbj|AP017920.1| Thermus thermophilus DNA, complete genome, strain: TMY",371,1.65118e-88,702,1034
+PolA,"gi|1105531595|dbj|AP017920.1| Thermus thermophilus DNA, complete genome, strain: TMY",172,9.15664e-35,315,465
+PolA,"gi|410696020|gb|CP003249.1| Thermus oshimai JL-2, complete genome",338,8.01094e-80,659,975
+PolA,"gi|410696020|gb|CP003249.1| Thermus oshimai JL-2, complete genome",112,1.7692100000000003e-18,174,250
+PolA,"gi|333965676|gb|CP002777.1| Thermus thermophilus SG0.5JP17-16, complete genome",319,2.14963e-74,589,864
+PolA,"gi|333965676|gb|CP002777.1| Thermus thermophilus SG0.5JP17-16, complete genome",188,4.15711e-39,316,464
+PolA,"gi|383508497|gb|CP003252.1| Thermus thermophilus JL-18, complete genome",311,3.19034e-72,650,967
+PolA,"gi|383508497|gb|CP003252.1| Thermus thermophilus JL-18, complete genome",183,1.7676499999999998e-37,315,464
+PolA,"gi|612502010|gb|CP007444.1| Dyella jiangningensis strain SBZ 3-12, complete genome",226,2.0151e-49,533,800
+PolA,"gi|612502010|gb|CP007444.1| Dyella jiangningensis strain SBZ 3-12, complete genome",63,6.59906e-05,56,71
+PolA,"gi|190010013|emb|AM743169.1| Stenotrophomonas maltophilia K279a complete genome, strain K279a",226,2.0151e-49,526,787
+PolA,"gi|190010013|emb|AM743169.1| Stenotrophomonas maltophilia K279a complete genome, strain K279a",66,5.41683e-06,131,193
+PolA,"gi|807234606|gb|CP011256.1| Xanthomonas arboricola strain 17, complete genome",223,2.4549e-48,534,803
+PolA,"gi|807234606|gb|CP011256.1| Xanthomonas arboricola strain 17, complete genome",54,0.00979387,131,194
+PolA,"gi|1847250123|dbj|AP022810.1| Desulfuromonas sp. AOP6 DNA, complete genome",195,9.77658e-41,336,489
+PolA,"gi|1169601839|gb|CP014866.1| Pseudomonas aeruginosa strain PA_154197 chromosome, complete genome",194,9.77658e-41,630,960
+PolA,"gi|1169601839|gb|CP014866.1| Pseudomonas aeruginosa strain PA_154197 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|1169601839|gb|CP014866.1| Pseudomonas aeruginosa strain PA_154197 chromosome, complete genome",52,0.034184,132,197
+PolA,"gi|974341323|gb|CP008868.1| Pseudomonas aeruginosa strain T63266 chromosome, complete genome",194,9.77658e-41,630,960
+PolA,"gi|974341323|gb|CP008868.1| Pseudomonas aeruginosa strain T63266 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|974341323|gb|CP008868.1| Pseudomonas aeruginosa strain T63266 chromosome, complete genome",52,0.034184,132,197
+PolA,"gi|974311447|gb|CP008863.1| Pseudomonas aeruginosa strain M37351 chromosome, complete genome",193,3.4123600000000003e-40,632,961
+PolA,"gi|974311447|gb|CP008863.1| Pseudomonas aeruginosa strain M37351 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|970332569|gb|CP013696.1| Pseudomonas aeruginosa strain 12-4-4(59) chromosome, complete genome",193,3.4123600000000003e-40,503,758
+PolA,"gi|970332569|gb|CP013696.1| Pseudomonas aeruginosa strain 12-4-4(59) chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|970332569|gb|CP013696.1| Pseudomonas aeruginosa strain 12-4-4(59) chromosome, complete genome",52,0.034184,132,197
+PolA,gi|817624209|gb|CP011369.1| Pseudomonas aeruginosa strain S04 90 chromosome,193,3.4123600000000003e-40,632,961
+PolA,gi|817624209|gb|CP011369.1| Pseudomonas aeruginosa strain S04 90 chromosome,53,0.034184,31,34
+PolA,gi|589338112|gb|CP006985.1| Pseudomonas aeruginosa LESlike4 sequence,193,3.4123600000000003e-40,503,758
+PolA,gi|589338112|gb|CP006985.1| Pseudomonas aeruginosa LESlike4 sequence,53,0.034184,31,34
+PolA,gi|589332184|gb|CP006984.1| Pseudomonas aeruginosa LESlike1 chromosome,193,3.4123600000000003e-40,503,758
+PolA,gi|589332184|gb|CP006984.1| Pseudomonas aeruginosa LESlike1 chromosome,53,0.034184,31,34
+PolA,gi|589326231|gb|CP006983.1| Pseudomonas aeruginosa LESB65 sequence,193,3.4123600000000003e-40,503,758
+PolA,gi|589326231|gb|CP006983.1| Pseudomonas aeruginosa LESB65 sequence,53,0.034184,31,34
+PolA,gi|589320215|gb|CP006982.1| Pseudomonas aeruginosa LES400 sequence,193,3.4123600000000003e-40,503,758
+PolA,gi|589320215|gb|CP006982.1| Pseudomonas aeruginosa LES400 sequence,53,0.034184,31,34
+PolA,gi|589314341|gb|CP006981.1| Pseudomonas aeruginosa LESlike7 sequence,193,3.4123600000000003e-40,503,758
+PolA,gi|589314341|gb|CP006981.1| Pseudomonas aeruginosa LESlike7 sequence,53,0.034184,31,34
+PolA,gi|589308385|gb|CP006980.1| Pseudomonas aeruginosa LESlike5 sequence,193,3.4123600000000003e-40,503,758
+PolA,gi|589308385|gb|CP006980.1| Pseudomonas aeruginosa LESlike5 sequence,53,0.034184,31,34
+PolA,"gi|566561164|gb|CP006937.1| Pseudomonas aeruginosa LES431, complete genome",193,3.4123600000000003e-40,503,758
+PolA,"gi|566561164|gb|CP006937.1| Pseudomonas aeruginosa LES431, complete genome",53,0.034184,31,34
+PolA,"gi|563408818|gb|CP006853.1| Pseudomonas aeruginosa MTB-1, complete genome",193,3.4123600000000003e-40,632,961
+PolA,"gi|563408818|gb|CP006853.1| Pseudomonas aeruginosa MTB-1, complete genome",53,0.034184,31,34
+PolA,"gi|563408818|gb|CP006853.1| Pseudomonas aeruginosa MTB-1, complete genome",52,0.034184,132,197
+PolA,"gi|1044641851|gb|CP011857.1| Pseudomonas aeruginosa strain ATCC 27853, complete genome",188,4.15711e-39,502,758
+PolA,"gi|1044641851|gb|CP011857.1| Pseudomonas aeruginosa strain ATCC 27853, complete genome",53,0.034184,31,34
+PolA,"gi|1016892938|gb|CP015117.1| Pseudomonas aeruginosa strain ATCC 27853 chromosome, complete genome",188,4.15711e-39,502,758
+PolA,"gi|1016892938|gb|CP015117.1| Pseudomonas aeruginosa strain ATCC 27853 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|974335511|gb|CP008867.1| Pseudomonas aeruginosa strain T52373 chromosome, complete genome",188,4.15711e-39,502,758
+PolA,"gi|974335511|gb|CP008867.1| Pseudomonas aeruginosa strain T52373 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|974335511|gb|CP008867.1| Pseudomonas aeruginosa strain T52373 chromosome, complete genome",52,0.034184,132,197
+PolA,"gi|974282928|gb|CP008861.1| Pseudomonas aeruginosa strain H47921 chromosome, complete genome",188,4.15711e-39,502,758
+PolA,"gi|974282928|gb|CP008861.1| Pseudomonas aeruginosa strain H47921 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|974282928|gb|CP008861.1| Pseudomonas aeruginosa strain H47921 chromosome, complete genome",52,0.034184,132,197
+PolA,"gi|961421427|gb|CP013144.1| Pseudomonas aeruginosa strain Cu1510 chromosome, complete genome",188,4.15711e-39,501,753
+PolA,"gi|961421427|gb|CP013144.1| Pseudomonas aeruginosa strain Cu1510 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|954630252|gb|CP013245.1| Pseudomonas aeruginosa strain VA-134 chromosome, complete genome",188,4.15711e-39,502,758
+PolA,"gi|954630252|gb|CP013245.1| Pseudomonas aeruginosa strain VA-134 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|954630252|gb|CP013245.1| Pseudomonas aeruginosa strain VA-134 chromosome, complete genome",52,0.034184,132,197
+PolA,"gi|881079720|gb|CP012066.1| Pseudomonas aeruginosa strain F9676, complete genome",188,4.15711e-39,502,758
+PolA,"gi|881079720|gb|CP012066.1| Pseudomonas aeruginosa strain F9676, complete genome",53,0.034184,31,34
+PolA,"gi|881079720|gb|CP012066.1| Pseudomonas aeruginosa strain F9676, complete genome",52,0.034184,132,197
+PolA,"gi|674252391|gb|CP008739.2| Pseudomonas aeruginosa VRFPA04, complete genome",188,4.15711e-39,502,758
+PolA,"gi|674252391|gb|CP008739.2| Pseudomonas aeruginosa VRFPA04, complete genome",53,0.034184,31,34
+PolA,"gi|982189197|gb|CP013993.1| Pseudomonas aeruginosa DHS01 chromosome, complete genome",183,1.7676499999999998e-37,501,758
+PolA,"gi|982189197|gb|CP013993.1| Pseudomonas aeruginosa DHS01 chromosome, complete genome",53,0.034184,31,34
+PolA,"gi|570731247|gb|CP007031.1| Marichromatium purpuratum 984, complete genome",181,6.1697e-37,525,799
+PolA,"gi|570731247|gb|CP007031.1| Marichromatium purpuratum 984, complete genome",57,0.00280599,73,100
+PolA,"gi|1248761407|gb|CP012621.1| Zobellella denitrificans strain F13-1 chromosome, complete genome",172,9.15664e-35,431,653
+PolA,"gi|1248761407|gb|CP012621.1| Zobellella denitrificans strain F13-1 chromosome, complete genome",60,0.00023033,72,98
+PolA,"gi|973430823|gb|CP007518.2| Aeromonas hydrophila YL17, complete genome",172,9.15664e-35,478,728
+PolA,"gi|973430823|gb|CP007518.2| Aeromonas hydrophila YL17, complete genome",65,1.89066e-05,94,135
+PolA,"gi|1009291925|gb|CP014784.1| Pseudomonas alcaligenes strain NEB 585 chromosome, complete genome",170,3.19598e-34,625,959
+PolA,"gi|1009291925|gb|CP014784.1| Pseudomonas alcaligenes strain NEB 585 chromosome, complete genome",85,7.04584e-11,137,196
+PolA,"gi|1044517319|gb|CP016380.1| Aeromonas hydrophila strain AHNIH1, complete genome",164,1.35897e-32,479,731
+PolA,"gi|1044517319|gb|CP016380.1| Aeromonas hydrophila strain AHNIH1, complete genome",59,0.00080393,43,52
+PolA,"gi|482529293|gb|CP005094.1| Azotobacter vinelandii CA, complete genome",161,1.6555599999999999e-31,482,734
+PolA,"gi|785807861|gb|CP011100.1| Aeromonas hydrophila strain AH10, complete genome",159,5.77847e-31,479,731
+PolA,"gi|785807861|gb|CP011100.1| Aeromonas hydrophila strain AH10, complete genome",55,0.00979387,71,100
+PolA,"gi|2265454226|emb|LR963138.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",151,8.576010000000001e-29,479,734
+PolA,"gi|2265449258|emb|LR963135.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",151,8.576010000000001e-29,479,734
+PolA,"gi|2265444577|emb|LR963132.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",151,8.576010000000001e-29,479,734
+PolA,"gi|2265439653|emb|LR963129.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",151,8.576010000000001e-29,479,734
+PolA,"gi|2265434934|emb|LR963127.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",151,8.576010000000001e-29,479,734
+PolA,"gi|1024268833|gb|CP014774.1| Aeromonas veronii strain AVNIH1, complete genome",150,8.576010000000001e-29,480,735
+PolA,"gi|1024268833|gb|CP014774.1| Aeromonas veronii strain AVNIH1, complete genome",56,0.00280599,43,53
+PolA,"gi|747149133|gb|CP007511.1| Pseudomonas balearica DSM 6083, complete genome",145,3.6466099999999995e-27,471,723
+PolA,"gi|747149133|gb|CP007511.1| Pseudomonas balearica DSM 6083, complete genome",111,6.1751500000000006e-18,139,192
+PolA,"gi|982198872|gb|CP013997.1| Pseudomonas monteilii strain USDA-ARS-USMARC-56711 chromosome, complete genome",139,1.55058e-25,509,791
+PolA,"gi|691224436|gb|CP009455.1| Pseudomonas cremoricolorata strain ND07, complete genome",129,8.0322e-23,249,368
+PolA,"gi|691224436|gb|CP009455.1| Pseudomonas cremoricolorata strain ND07, complete genome",71,4.44641e-07,131,188
+PolA,"gi|691224436|gb|CP009455.1| Pseudomonas cremoricolorata strain ND07, complete genome",54,0.00979387,201,307
+PolA,"gi|684194542|gb|CP009365.1| Pseudomonas soli strain SJ10, complete genome",125,9.78522e-22,473,735
+PolA,"gi|1133639402|emb|LT708304.1| Mycobacterium bovis AF2122/97 genome assembly, chromosome: Mycobacterium_bovis_AF212297",117,1.45226e-19,146,203
+PolA,"gi|1133639402|emb|LT708304.1| Mycobacterium bovis AF2122/97 genome assembly, chromosome: Mycobacterium_bovis_AF212297",72,1.27392e-07,138,201
+PolA,"gi|1133639402|emb|LT708304.1| Mycobacterium bovis AF2122/97 genome assembly, chromosome: Mycobacterium_bovis_AF212297",69,1.55195e-06,99,142
+PolA,"gi|749193065|gb|CP007027.1| Mycobacterium tuberculosis H37RvSiena, complete genome",117,1.45226e-19,146,203
+PolA,"gi|749193065|gb|CP007027.1| Mycobacterium tuberculosis H37RvSiena, complete genome",72,1.27392e-07,138,201
+PolA,"gi|749193065|gb|CP007027.1| Mycobacterium tuberculosis H37RvSiena, complete genome",69,1.55195e-06,99,142
+PolA,gi|444893469|emb|AL123456.3| Mycobacterium tuberculosis H37Rv complete genome,117,1.45226e-19,146,203
+PolA,gi|444893469|emb|AL123456.3| Mycobacterium tuberculosis H37Rv complete genome,72,1.27392e-07,138,201
+PolA,gi|444893469|emb|AL123456.3| Mycobacterium tuberculosis H37Rv complete genome,69,1.55195e-06,99,142
+ThyA,"gi|563408818|gb|CP006853.1| Pseudomonas aeruginosa MTB-1, complete genome",603,4.906e-152,597,794
+ThyA,"gi|975043142|gb|CP013989.1| Pseudomonas aeruginosa strain USDA-ARS-USMARC-41639 chromosome, complete genome",598,5.97673e-151,596,794
+ThyA,"gi|974335511|gb|CP008867.1| Pseudomonas aeruginosa strain T52373 chromosome, complete genome",598,5.97673e-151,596,794
+ThyA,"gi|1009291925|gb|CP014784.1| Pseudomonas alcaligenes strain NEB 585 chromosome, complete genome",596,2.08608e-150,565,741
+ThyA,"gi|482529293|gb|CP005094.1| Azotobacter vinelandii CA, complete genome",596,2.08608e-150,600,796
+ThyA,"gi|1044641851|gb|CP011857.1| Pseudomonas aeruginosa strain ATCC 27853, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|1016892938|gb|CP015117.1| Pseudomonas aeruginosa strain ATCC 27853 chromosome, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|982189197|gb|CP013993.1| Pseudomonas aeruginosa DHS01 chromosome, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|974311447|gb|CP008863.1| Pseudomonas aeruginosa strain M37351 chromosome, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|974282928|gb|CP008861.1| Pseudomonas aeruginosa strain H47921 chromosome, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|970332569|gb|CP013696.1| Pseudomonas aeruginosa strain 12-4-4(59) chromosome, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|954630252|gb|CP013245.1| Pseudomonas aeruginosa strain VA-134 chromosome, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|927993303|gb|CP012679.1| Pseudomonas aeruginosa strain PA1RG chromosome, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|927226644|gb|CP004054.2| Pseudomonas aeruginosa PA1, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|861670927|gb|CP012001.1| Pseudomonas aeruginosa DSM 50071, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|576902775|gb|CP007147.1| Pseudomonas aeruginosa YL84, complete genome",593,2.54137e-149,595,794
+ThyA,"gi|1169601839|gb|CP014866.1| Pseudomonas aeruginosa strain PA_154197 chromosome, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|974341323|gb|CP008868.1| Pseudomonas aeruginosa strain T63266 chromosome, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|974255378|gb|CP008857.1| Pseudomonas aeruginosa strain F30658 chromosome, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|961421427|gb|CP013144.1| Pseudomonas aeruginosa strain Cu1510 chromosome, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|881079720|gb|CP012066.1| Pseudomonas aeruginosa strain F9676, complete genome",588,3.09602e-148,594,794
+ThyA,gi|817624209|gb|CP011369.1| Pseudomonas aeruginosa strain S04 90 chromosome,588,3.09602e-148,594,794
+ThyA,"gi|815968487|gb|CP011317.1| Pseudomonas aeruginosa strain Carb01 63, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|751373101|gb|CP010555.1| Pseudomonas aeruginosa strain FRD1, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|745838743|gb|CP007399.1| Pseudomonas aeruginosa strain F22031, complete genome",588,3.09602e-148,594,794
+ThyA,gi|589338112|gb|CP006985.1| Pseudomonas aeruginosa LESlike4 sequence,588,3.09602e-148,594,794
+ThyA,gi|589332184|gb|CP006984.1| Pseudomonas aeruginosa LESlike1 chromosome,588,3.09602e-148,594,794
+ThyA,gi|589326231|gb|CP006983.1| Pseudomonas aeruginosa LESB65 sequence,588,3.09602e-148,594,794
+ThyA,gi|589320215|gb|CP006982.1| Pseudomonas aeruginosa LES400 sequence,588,3.09602e-148,594,794
+ThyA,gi|589314341|gb|CP006981.1| Pseudomonas aeruginosa LESlike7 sequence,588,3.09602e-148,594,794
+ThyA,gi|589308385|gb|CP006980.1| Pseudomonas aeruginosa LESlike5 sequence,588,3.09602e-148,594,794
+ThyA,"gi|566561164|gb|CP006937.1| Pseudomonas aeruginosa LES431, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|514245605|gb|CP006245.1| Pseudomonas aeruginosa RP73, complete genome",588,3.09602e-148,594,794
+ThyA,"gi|1196016007|gb|CP011508.1| Pseudomonas mendocina strain NSYSU, complete genome",583,1.31646e-146,593,792
+ThyA,"gi|1022528561|gb|CP015377.1| Pseudomonas aeruginosa strain BAMCPA07-48 chromosome, complete genome",583,1.31646e-146,593,794
+ThyA,"gi|674252391|gb|CP008739.2| Pseudomonas aeruginosa VRFPA04, complete genome",583,1.31646e-146,593,794
+ThyA,"gi|747149133|gb|CP007511.1| Pseudomonas balearica DSM 6083, complete genome",556,1.5020799999999999e-139,590,796
+ThyA,"gi|949810026|gb|CP013124.1| Pseudomonas mendocina S5.2, complete genome",531,1.71387e-132,585,796
+ThyA,"gi|975029867|gb|CP013987.1| Pseudomonas oryzihabitans strain USDA-ARS-USMARC-56511 chromosome, complete genome",515,3.77506e-128,583,797
+ThyA,"gi|594025561|gb|CP007441.1| Pseudomonas stutzeri strain 28a24, complete genome",496,2.90226e-123,570,783
+ThyA,"gi|807234606|gb|CP011256.1| Xanthomonas arboricola strain 17, complete genome",475,2.71823e-117,564,767
+ThyA,"gi|190010013|emb|AM743169.1| Stenotrophomonas maltophilia K279a complete genome, strain K279a",463,4.91467e-114,556,767
+ThyA,"gi|2265430172|emb|LR963122.1| Aeromonas dhakensis isolate TN4 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+ThyA,"gi|2265425554|emb|LR963117.1| Aeromonas dhakensis isolate TN5 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+ThyA,"gi|2265420415|emb|LR963112.1| Aeromonas dhakensis isolate TN3 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+ThyA,"gi|2265415584|emb|LR963107.1| Aeromonas dhakensis isolate TN49 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+ThyA,"gi|2265410592|emb|LR963104.1| Aeromonas dhakensis isolate TN14 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+ThyA,"gi|2265405416|emb|LR963099.1| Aeromonas dhakensis isolate TN10 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+ThyA,"gi|2265400372|emb|LR963094.1| Aeromonas dhakensis isolate TN50 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+ThyA,"gi|2265395661|emb|LR963089.1| Aeromonas dhakensis isolate TN11 genome assembly, chromosome: 1",434,1.9572600000000002e-106,535,745
+PNPase,"gi|511204787|gb|CP003422.2| Paenibacillus mucilaginosus K02, complete genome",250,1.55065e-56,462,677
+PNPase,"gi|1044517319|gb|CP016380.1| Aeromonas hydrophila strain AHNIH1, complete genome",236,9.78569e-53,448,659
+PNPase,"gi|1044517319|gb|CP016380.1| Aeromonas hydrophila strain AHNIH1, complete genome",101,8.04679e-16,436,681
+PNPase,"gi|973430823|gb|CP007518.2| Aeromonas hydrophila YL17, complete genome",236,9.78569e-53,448,659
+PNPase,"gi|973430823|gb|CP007518.2| Aeromonas hydrophila YL17, complete genome",156,5.07359e-31,451,685
+PNPase,"gi|2265458965|emb|LR963141.1| Aeromonas hydrophila isolate T4 genome assembly, chromosome: 1",236,9.78569e-53,448,659
+PNPase,"gi|2265458965|emb|LR963141.1| Aeromonas hydrophila isolate T4 genome assembly, chromosome: 1",149,7.52988e-29,448,682
+PNPase,"gi|975025465|gb|CP013965.1| Aeromonas hydrophila strain D4 chromosome, complete genome",233,1.1921399999999999e-51,452,662
+PNPase,"gi|975025465|gb|CP013965.1| Aeromonas hydrophila strain D4 chromosome, complete genome",127,7.05241e-23,440,679
+PNPase,"gi|958617326|gb|CP013178.1| Aeromonas hydrophila strain JBN2301 chromosome, complete genome",233,1.1921399999999999e-51,452,662
+PNPase,"gi|958617326|gb|CP013178.1| Aeromonas hydrophila strain JBN2301 chromosome, complete genome",127,7.05241e-23,440,679
+PNPase,"gi|827370414|gb|CP006870.1| Aeromonas hydrophila NJ-35, complete genome",233,1.1921399999999999e-51,452,662
+PNPase,"gi|827370414|gb|CP006870.1| Aeromonas hydrophila NJ-35, complete genome",127,7.05241e-23,440,679
+PNPase,"gi|785807861|gb|CP011100.1| Aeromonas hydrophila strain AH10, complete genome",233,1.1921399999999999e-51,451,662
+PNPase,"gi|748231934|gb|CP006883.1| Aeromonas hydrophila J-1, complete genome",233,1.1921399999999999e-51,452,662
+PNPase,"gi|748231934|gb|CP006883.1| Aeromonas hydrophila J-1, complete genome",127,7.05241e-23,440,679
+PNPase,"gi|2265454226|emb|LR963138.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",233,1.1921399999999999e-51,452,662
+PNPase,"gi|2265454226|emb|LR963138.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",127,7.05241e-23,440,679
+PNPase,"gi|2265449258|emb|LR963135.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",233,1.1921399999999999e-51,452,662
+PNPase,"gi|2265449258|emb|LR963135.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",127,7.05241e-23,440,679
+PNPase,"gi|2265444577|emb|LR963132.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",233,1.1921399999999999e-51,452,662
+PNPase,"gi|2265444577|emb|LR963132.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",127,7.05241e-23,440,679
+PNPase,"gi|2265439653|emb|LR963129.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",233,1.1921399999999999e-51,452,662
+PNPase,"gi|2265439653|emb|LR963129.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",127,7.05241e-23,440,679
+PNPase,"gi|2265434934|emb|LR963127.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",233,1.1921399999999999e-51,452,662
+PNPase,"gi|2265434934|emb|LR963127.1| Aeromonas hydrophila strain vAh ST251 genome assembly, chromosome: 1",127,7.05241e-23,440,679
+PNPase,"gi|615567765|gb|CP007576.1| Aeromonas hydrophila pc104A, complete genome",233,1.1921399999999999e-51,452,662
+PNPase,"gi|615567765|gb|CP007576.1| Aeromonas hydrophila pc104A, complete genome",127,7.05241e-23,440,679
+PNPase,"gi|613730844|gb|CP007566.1| Aeromonas hydrophila AL09-71, complete genome",233,1.1921399999999999e-51,452,662
+PNPase,"gi|613730844|gb|CP007566.1| Aeromonas hydrophila AL09-71, complete genome",127,7.05241e-23,440,679
+PNPase,"gi|764079125|gb|CP010947.1| Aeromonas hydrophila strain AL06-06, complete genome",231,4.16098e-51,447,659
+PNPase,"gi|764079125|gb|CP010947.1| Aeromonas hydrophila strain AL06-06, complete genome",141,1.1175300000000001e-26,448,685
+PNPase,"gi|1006067808|gb|CP012504.1| Aeromonas veronii strain TH0426, complete genome",228,1.45233e-50,443,657
+PNPase,"gi|1006067808|gb|CP012504.1| Aeromonas veronii strain TH0426, complete genome",122,8.59159e-22,435,668
+PNPase,"gi|1024308492|gb|CP015448.1| Aeromonas veronii strain CB51 chromosome, complete genome",224,1.7692899999999998e-49,440,656
+PNPase,"gi|1028492573|gb|CP015137.1| Dickeya solani IPO 2222 chromosome, complete genome",223,6.17545e-49,440,649
+PNPase,"gi|2265430172|emb|LR963122.1| Aeromonas dhakensis isolate TN4 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265430172|emb|LR963122.1| Aeromonas dhakensis isolate TN4 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265425554|emb|LR963117.1| Aeromonas dhakensis isolate TN5 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265425554|emb|LR963117.1| Aeromonas dhakensis isolate TN5 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265420415|emb|LR963112.1| Aeromonas dhakensis isolate TN3 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265420415|emb|LR963112.1| Aeromonas dhakensis isolate TN3 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265415584|emb|LR963107.1| Aeromonas dhakensis isolate TN49 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265415584|emb|LR963107.1| Aeromonas dhakensis isolate TN49 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265410592|emb|LR963104.1| Aeromonas dhakensis isolate TN14 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265410592|emb|LR963104.1| Aeromonas dhakensis isolate TN14 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265405416|emb|LR963099.1| Aeromonas dhakensis isolate TN10 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265405416|emb|LR963099.1| Aeromonas dhakensis isolate TN10 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265400372|emb|LR963094.1| Aeromonas dhakensis isolate TN50 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265400372|emb|LR963094.1| Aeromonas dhakensis isolate TN50 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265395661|emb|LR963089.1| Aeromonas dhakensis isolate TN11 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265395661|emb|LR963089.1| Aeromonas dhakensis isolate TN11 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265390828|emb|LR963084.1| Aeromonas dhakensis isolate TN59 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265390828|emb|LR963084.1| Aeromonas dhakensis isolate TN59 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|2265386260|emb|LR963079.1| Aeromonas dhakensis isolate TN45 genome assembly, chromosome: 1",218,7.523230000000001e-48,448,662
+PNPase,"gi|2265386260|emb|LR963079.1| Aeromonas dhakensis isolate TN45 genome assembly, chromosome: 1",161,4.16466e-32,452,685
+PNPase,"gi|1024268833|gb|CP014774.1| Aeromonas veronii strain AVNIH1, complete genome",209,3.8971299999999995e-45,437,656
+PNPase,"gi|690285043|gb|CP009460.1| Dickeya fangzhongdai strain ND14b chromosome, complete genome",202,1.6571e-43,445,662
+PNPase,"gi|1248761407|gb|CP012621.1| Zobellella denitrificans strain F13-1 chromosome, complete genome",199,2.01876e-42,462,689
+PNPase,"gi|828966150|gb|CP011642.1| Serratia marcescens strain CAV1492, complete genome",177,1.89075e-36,440,663
+PNPase,"gi|926475601|gb|CP012639.1| Serratia marcescens strain RSC-14, complete genome",171,8.039679999999999e-35,454,692
+PNPase,"gi|690280870|gb|CP009459.1| Cedecea neteri strain ND14a, complete genome",170,8.039679999999999e-35,451,675
+PNPase,"gi|690280870|gb|CP009459.1| Cedecea neteri strain ND14a, complete genome",59,0.000202233,43,52
+PNPase,"gi|690280870|gb|CP009459.1| Cedecea neteri strain ND14a, complete genome",50,0.0300141,43,55
+PNPase,"gi|924328937|gb|CP012266.1| Cronobacter dublinensis subsp. dublinensis LMG 23823, complete genome",169,2.80613e-34,436,656
+PNPase,"gi|909893832|gb|CP012167.1| Enterobacter hormaechei subsp. steigerwaltii strain 34998, complete genome",168,2.80613e-34,438,657
+PNPase,"gi|744784319|gb|CP006929.1| Dickeya zeae EC1, complete genome",164,3.4185600000000004e-33,428,648
+PNPase,gi|1127556898|gb|CP010584.1| Serratia marcescens strain AS1 genome,162,1.1931900000000001e-32,436,663
+PNPase,"gi|689262542|gb|CP009451.1| Cedecea neteri strain SSMD04, complete genome",160,4.16466e-32,428,642
+PNPase,"gi|689262542|gb|CP009451.1| Cedecea neteri strain SSMD04, complete genome",68,3.90402e-07,149,222
+PNPase,"gi|1043694348|gb|CP011662.1| Enterobacter hormaechei strain CAV1176, complete genome",158,1.45361e-31,436,657
+PNPase,"gi|828977725|gb|CP011650.1| Enterobacter hormaechei strain CAV1669, complete genome",158,1.45361e-31,436,657
+PNPase,"gi|828916888|gb|CP011584.1| Enterobacter hormaechei strain CAV1668, complete genome",158,1.45361e-31,436,657
+PNPase,"gi|828911693|gb|CP011581.1| Enterobacter hormaechei strain CAV1411, complete genome",158,1.45361e-31,436,657
+PNPase,"gi|689257448|gb|CP009450.1| Pluralibacter gergoviae strain FB2, complete genome",153,6.1809000000000004e-30,462,697
+PNPase,"gi|723239679|gb|CP009866.1| Pantoea sp. PSNIH2, complete genome",152,6.1809000000000004e-30,436,662
+PNPase,"gi|908276372|gb|CP010376.2| Enterobacter hormaechei subsp. steigerwaltii strain 34977, complete genome",148,7.52988e-29,434,657
+PNPase,"gi|834903891|gb|CP011364.1| Edwardsiella sp. EA181011, complete genome",140,1.1175300000000001e-26,443,682
+PNPase,"gi|984699415|gb|CP014207.1| Pantoea ananatis strain R100, complete genome",136,1.36143e-25,163,225
+PNPase,"gi|984699415|gb|CP014207.1| Pantoea ananatis strain R100, complete genome",55,0.00246371,116,175
